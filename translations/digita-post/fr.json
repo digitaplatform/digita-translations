@@ -32,6 +32,7 @@
   "nav.systemInfo": "Infos système",
   "nav.security": "Sécurité",
   "nav.logout": "Se déconnecter",
+  "nav.logoutFailed": "La déconnexion a échoué. Réessaie.",
 
   "login.emailLabel": "E-mail",
   "login.emailPlaceholder": "admin@digita.local",

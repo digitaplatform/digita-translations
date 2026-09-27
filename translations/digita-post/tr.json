@@ -32,6 +32,7 @@
   "nav.systemInfo": "Sistem Bilgisi",
   "nav.security": "Güvenlik",
   "nav.logout": "Çıkış yap",
+  "nav.logoutFailed": "Çıkış yapılamadı. Lütfen tekrar dene.",
 
   "login.emailLabel": "E-posta",
   "login.emailPlaceholder": "admin@digita.local",

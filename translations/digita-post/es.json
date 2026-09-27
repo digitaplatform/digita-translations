@@ -32,6 +32,7 @@
   "nav.systemInfo": "Información del sistema",
   "nav.security": "Seguridad",
   "nav.logout": "Cerrar sesión",
+  "nav.logoutFailed": "No se pudo cerrar la sesión. Inténtalo de nuevo.",
 
   "login.emailLabel": "Correo",
   "login.emailPlaceholder": "admin@digita.local",
