@@ -14,14 +14,19 @@ can change them.
 placeholders as `{name}`.
 
 - The folder is named after the build that reads it, as its repository's `deploy/platform.yaml` names
-  the build: `digita-auth-frontend`, `digita-auth-backend`, `digita-post`, `digita-report-frontend`.
+  the build: `digita-auth-frontend`, `digita-auth-backend`, `digita-post`, `digita-report-frontend`,
+  `digita-engine`, `digita-app`, `digita-web`.
 - Every folder carries the same languages: en, de, es, fr, it and tr. `en` is the reference, and every
   other language has exactly its keys.
 
 ## Who wrote the texts
 
 - en and de come from the builds' earlier locale files.
-- es, fr, it and tr were machine-made in September 2026 and no person has read them yet.
+- es, fr, it and tr of the auth, post and report folders were machine-made in September 2026 and no
+  person has read them yet.
+- digita-engine, digita-app and digita-web take every language from the platform's earlier locale
+  files. Only fr and it of `field_invalid_time` and `field_invalid_duration` in digita-engine were
+  machine-made, in September 2026.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 
