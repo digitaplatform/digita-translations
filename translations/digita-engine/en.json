@@ -75,6 +75,8 @@
   "rate_limited": "Too many requests, please try again later",
   "period_closed": "The period is closed and does not accept this operation.",
   "period_not_found_for_date": "No period covers the document's date.",
+  "period_ambiguous_for_date": "More than one period covers the document's date; the periods overlap.",
+  "date_outside_period": "The document's date lies outside the period it references.",
   "naming_field_required": "Field \"{field}\" is required for numbering.",
   "filter_field_not_allowed": "Filter field \"{field}\" is not allowed.",
   "aggregation_references_protected_field": "This view references a field you do not have permission to read.",

@@ -75,6 +75,8 @@
   "rate_limited": "Troppe richieste, riprova più tardi",
   "period_closed": "Il periodo contabile è chiuso e non accetta questa operazione.",
   "period_not_found_for_date": "Nessun periodo contabile copre la data del documento.",
+  "period_ambiguous_for_date": "Più di un periodo contabile copre la data del documento; i periodi si sovrappongono.",
+  "date_outside_period": "La data del documento è al di fuori del periodo contabile indicato.",
   "naming_field_required": "Il campo \"{field}\" è obbligatorio per la numerazione.",
   "filter_field_not_allowed": "Il campo di filtro \"{field}\" non è consentito.",
   "aggregation_references_protected_field": "Questa vista fa riferimento a un campo per il quale non disponi dell'autorizzazione di lettura.",

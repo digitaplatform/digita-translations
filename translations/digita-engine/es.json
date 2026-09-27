@@ -73,6 +73,8 @@
   "rate_limited": "Demasiadas solicitudes; vuelva a intentarlo más tarde",
   "period_closed": "El período contable está cerrado y no acepta esta operación.",
   "period_not_found_for_date": "Ningún período contable cubre la fecha del documento.",
+  "period_ambiguous_for_date": "Más de un período contable cubre la fecha del documento; los períodos se solapan.",
+  "date_outside_period": "La fecha del documento está fuera del período contable indicado.",
   "naming_field_required": "El campo \"{field}\" es obligatorio para la numeración.",
   "filter_field_not_allowed": "El campo de filtro \"{field}\" no está permitido.",
   "aggregation_references_protected_field": "Esta vista hace referencia a un campo para el que no tiene permiso de lectura.",

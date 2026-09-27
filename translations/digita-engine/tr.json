@@ -75,6 +75,8 @@
   "rate_limited": "Çok fazla istek, lütfen daha sonra tekrar deneyin",
   "period_closed": "Dönem kapalı ve bu işlemi kabul etmiyor.",
   "period_not_found_for_date": "Belge tarihini kapsayan bir dönem bulunamadı.",
+  "period_ambiguous_for_date": "Belge tarihini birden fazla dönem kapsıyor; dönemler çakışıyor.",
+  "date_outside_period": "Belge tarihi, belirtilen dönemin dışında kalıyor.",
   "naming_field_required": "Numaralandırma için \"{field}\" alanı gereklidir.",
   "filter_field_not_allowed": "Filtre alanı \"{field}\" izinli değil.",
   "aggregation_references_protected_field": "Bu görünüm, okuma izniniz olmayan bir alana başvuruyor.",

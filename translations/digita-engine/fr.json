@@ -75,6 +75,8 @@
   "rate_limited": "Trop de requêtes, veuillez réessayer plus tard",
   "period_closed": "La période comptable est clôturée et n'accepte pas cette opération.",
   "period_not_found_for_date": "Aucune période comptable ne couvre la date du document.",
+  "period_ambiguous_for_date": "Plusieurs périodes comptables couvrent la date du document ; les périodes se chevauchent.",
+  "date_outside_period": "La date du document se situe en dehors de la période comptable indiquée.",
   "naming_field_required": "Le champ \"{field}\" est requis pour la numérotation.",
   "filter_field_not_allowed": "Le champ de filtre \"{field}\" n'est pas autorisé.",
   "aggregation_references_protected_field": "Cette vue fait référence à un champ que vous n'êtes pas autorisé à lire.",
