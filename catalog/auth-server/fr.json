@@ -26,17 +26,5 @@
   "mail.account_invite.subject": "Activez votre compte",
   "mail.account_invite.text": "Vous avez reçu une invitation à rejoindre Digita. Définissez un mot de passe pour activer votre compte : {link}",
   "mail.email_verification.subject": "Vérifiez votre adresse e-mail",
-  "mail.email_verification.text": "Votre jeton de vérification de l'adresse e-mail : {token} (valable 24 heures)",
-  "activate.title": "Activez votre compte",
-  "activate.subtitle": "Définissez un mot de passe pour {email}.",
-  "activate.passwordLabel": "Nouveau mot de passe",
-  "activate.activate": "Activer le compte",
-  "activate.weakPassword": "Ce mot de passe n'est pas assez robuste. Veuillez en choisir un autre.",
-  "activate.invalidToken": "Cette invitation n'est pas valide ou a expiré.",
-  "activate.genericError": "Impossible d'activer le compte. Veuillez réessayer.",
-  "activate.invalidTitle": "Invitation non valide",
-  "activate.invalidHeading": "Invitation non valide ou expirée",
-  "activate.invalidSubtitle": "Ce lien d'activation n'est plus valide. Veuillez demander une nouvelle invitation.",
-  "activate.doneTitle": "Compte activé",
-  "activate.doneSubtitle": "Votre mot de passe est défini et votre session est ouverte. Vous pouvez fermer cette fenêtre ou continuer en configurant l'authentification à deux facteurs dans l'application d'administration."
+  "mail.email_verification.text": "Votre jeton de vérification de l'adresse e-mail : {token} (valable 24 heures)"
 }

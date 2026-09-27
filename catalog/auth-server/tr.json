@@ -26,17 +26,5 @@
   "mail.account_invite.subject": "Hesabını etkinleştir",
   "mail.account_invite.text": "Digita'ya davet edildin. Hesabını etkinleştirmek için bir parola belirle: {link}",
   "mail.email_verification.subject": "E-posta adresini doğrula",
-  "mail.email_verification.text": "E-posta doğrulama kodun: {token} (24 saat geçerli)",
-  "activate.title": "Hesabını etkinleştir",
-  "activate.subtitle": "{email} için bir parola belirle.",
-  "activate.passwordLabel": "Yeni parola",
-  "activate.activate": "Hesabı etkinleştir",
-  "activate.weakPassword": "Bu parola yeterince güçlü değil. Lütfen başka bir parola seç.",
-  "activate.invalidToken": "Bu davet geçersiz veya süresi dolmuş.",
-  "activate.genericError": "Hesap etkinleştirilemedi. Lütfen tekrar dene.",
-  "activate.invalidTitle": "Davet geçersiz",
-  "activate.invalidHeading": "Davet geçersiz veya süresi dolmuş",
-  "activate.invalidSubtitle": "Bu etkinleştirme bağlantısı artık geçerli değil. Lütfen yeni bir davet iste.",
-  "activate.doneTitle": "Hesap etkinleştirildi",
-  "activate.doneSubtitle": "Parolan belirlendi ve giriş yaptın. Bu pencereyi kapatabilir veya yönetim uygulamasında iki adımlı doğrulamayı kurmaya devam edebilirsin."
+  "mail.email_verification.text": "E-posta doğrulama kodun: {token} (24 saat geçerli)"
 }

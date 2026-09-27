@@ -26,17 +26,5 @@
   "mail.account_invite.subject": "Activa tu cuenta",
   "mail.account_invite.text": "Te han invitado a Digita. Establece una contraseña para activar tu cuenta: {link}",
   "mail.email_verification.subject": "Verifica tu correo",
-  "mail.email_verification.text": "Tu token de verificación del correo: {token} (válido durante 24 horas)",
-  "activate.title": "Activa tu cuenta",
-  "activate.subtitle": "Establece una contraseña para {email}.",
-  "activate.passwordLabel": "Nueva contraseña",
-  "activate.activate": "Activar cuenta",
-  "activate.weakPassword": "Esa contraseña no es lo bastante segura. Elige otra.",
-  "activate.invalidToken": "Esta invitación no es válida o ha caducado.",
-  "activate.genericError": "No se pudo activar la cuenta. Inténtalo de nuevo.",
-  "activate.invalidTitle": "Invitación no válida",
-  "activate.invalidHeading": "Invitación no válida o caducada",
-  "activate.invalidSubtitle": "Este enlace de activación ya no es válido. Solicita una nueva invitación.",
-  "activate.doneTitle": "Cuenta activada",
-  "activate.doneSubtitle": "Tu contraseña está establecida y has iniciado sesión. Puedes cerrar esta ventana o seguir configurando la autenticación de dos factores en la app de administración."
+  "mail.email_verification.text": "Tu token de verificación del correo: {token} (válido durante 24 horas)"
 }

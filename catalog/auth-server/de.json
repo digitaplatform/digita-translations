@@ -26,17 +26,5 @@
   "mail.account_invite.subject": "Konto aktivieren",
   "mail.account_invite.text": "Du wurdest zu Digita eingeladen. Lege ein Passwort fest, um dein Konto zu aktivieren: {link}",
   "mail.email_verification.subject": "E-Mail-Adresse bestätigen",
-  "mail.email_verification.text": "Dein Token zur Bestätigung deiner E-Mail-Adresse: {token} (24 Stunden gültig)",
-  "activate.title": "Konto aktivieren",
-  "activate.subtitle": "Lege ein Passwort fest für {email}.",
-  "activate.passwordLabel": "Neues Passwort",
-  "activate.activate": "Konto aktivieren",
-  "activate.weakPassword": "Dieses Passwort ist nicht stark genug. Bitte wähle ein anderes.",
-  "activate.invalidToken": "Diese Einladung ist ungültig oder abgelaufen.",
-  "activate.genericError": "Konto konnte nicht aktiviert werden. Bitte erneut versuchen.",
-  "activate.invalidTitle": "Einladung ungültig",
-  "activate.invalidHeading": "Einladung ungültig oder abgelaufen",
-  "activate.invalidSubtitle": "Dieser Aktivierungslink ist nicht mehr gültig. Bitte fordere eine neue Einladung an.",
-  "activate.doneTitle": "Konto aktiviert",
-  "activate.doneSubtitle": "Dein Passwort ist gesetzt und du bist angemeldet. Du kannst dieses Fenster schließen oder in der Admin-App mit der Einrichtung der Zwei-Faktor-Authentifizierung weitermachen."
+  "mail.email_verification.text": "Dein Token zur Bestätigung deiner E-Mail-Adresse: {token} (24 Stunden gültig)"
 }

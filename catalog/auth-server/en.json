@@ -26,17 +26,5 @@
   "mail.account_invite.subject": "Activate your account",
   "mail.account_invite.text": "You have been invited to Digita. Set a password to activate your account: {link}",
   "mail.email_verification.subject": "Verify your email",
-  "mail.email_verification.text": "Your email verification token: {token} (valid 24 hours)",
-  "activate.title": "Activate your account",
-  "activate.subtitle": "Set a password for {email}.",
-  "activate.passwordLabel": "New password",
-  "activate.activate": "Activate account",
-  "activate.weakPassword": "That password is not strong enough. Please choose another.",
-  "activate.invalidToken": "This invitation is invalid or has expired.",
-  "activate.genericError": "Could not activate the account. Please try again.",
-  "activate.invalidTitle": "Invitation invalid",
-  "activate.invalidHeading": "Invitation invalid or expired",
-  "activate.invalidSubtitle": "This activation link is no longer valid. Please request a new invitation.",
-  "activate.doneTitle": "Account activated",
-  "activate.doneSubtitle": "Your password is set and you are signed in. You can close this window, or continue to set up two-factor authentication in the admin app."
+  "mail.email_verification.text": "Your email verification token: {token} (valid 24 hours)"
 }
