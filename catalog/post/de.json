@@ -420,7 +420,5 @@
   "senderDomains.removeConfirm": "Wirklich entfernen",
   "senderDomains.removed": "Domain entfernt. Der MTA signiert sie spätestens in fünf Minuten nicht mehr.",
 
-  "subject.password_reset": "Passwort zurücksetzen",
-  "subject.email_verification": "E-Mail-Adresse bestätigen",
   "subject.test_email": "Digita Post Test-E-Mail"
 }

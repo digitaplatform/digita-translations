@@ -420,7 +420,5 @@
   "senderDomains.removeConfirm": "Really remove",
   "senderDomains.removed": "Domain removed. The MTA stops signing it within five minutes.",
 
-  "subject.password_reset": "Reset your password",
-  "subject.email_verification": "Verify your e-mail address",
   "subject.test_email": "Digita Post test e-mail"
 }

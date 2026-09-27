@@ -420,7 +420,5 @@
   "senderDomains.removeConfirm": "Vraiment retirer",
   "senderDomains.removed": "Domaine retiré. Le MTA arrête de le signer dans les cinq minutes.",
 
-  "subject.password_reset": "Réinitialisez votre mot de passe",
-  "subject.email_verification": "Vérifiez votre adresse e-mail",
   "subject.test_email": "E-mail de test Digita Post"
 }
