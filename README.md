@@ -1,48 +1,41 @@
-# digita-translator
+# digita-translations
 
-The built-in texts of the Digita platform and its services, in every supported language, and the
-translator that reads them. It is published as `@digitaplatform/translator` to GitHub Packages.
+The texts of the Digita builds, in every language, as plain JSON files. This repository is a source:
+it has no package and no release. Each stage of the platform pins one commit of `master`, and an init
+container copies that commit's files into the pods. A new text reaches a stage when its pin moves.
 
-The texts of the apps (the `locales/` of erp and buildproject, entity labels, data translations)
-are not here. They belong to each app and live in the engine's `Translation` collection, where a
-tenant can change them.
+The texts of the apps (the `locales/` of erp and buildproject, entity labels, data translations) are
+not here. They belong to each app and live in the engine's `Translation` collection, where a tenant
+can change them.
 
 ## Layout
 
-- `catalog/<namespace>/<language>.json`: a flat object of key to message, one namespace per
-  consumer (for example `auth`, `post`, `report`). A message may name placeholders as `{name}`.
-- `src/languages.ts`: `SUPPORTED_LANGUAGES`, the languages every namespace carries in full, and
-  `FALLBACK_LANGUAGE`, against which every other language is checked.
-- `src/translator.ts`: `createTranslator`, which resolves a key in a language, falls back to the
-  fallback language and then to the key itself, and fills the placeholders.
-- `tools/`: the catalog check and the build that turns each namespace into an ES module.
+`translations/<build>/<language>.json` is a flat object of key to message. A message may name
+placeholders as `{name}`.
 
-## Use
+- The folder is named after the build that reads it, as its repository's `deploy/platform.yaml` names
+  the build: `digita-auth-frontend`, `digita-auth-backend`, `digita-post`, `digita-report-frontend`.
+- Every folder carries the same languages: en, de, es, fr, it and tr. `en` is the reference, and every
+  other language has exactly its keys.
 
-A consumer maps the scope to GitHub Packages (this repository's `.npmrc`) and provides a token
-with `read:packages` out of band, for example
-`pnpm config set '//npm.pkg.github.com/:_authToken' "$(gh auth token)"`.
+## Who wrote the texts
 
-```ts
-import { createTranslator, FALLBACK_LANGUAGE } from "@digitaplatform/translator";
-import auth from "@digitaplatform/translator/auth";
+- en and de come from the builds' earlier locale files.
+- es, fr, it and tr were machine-made in September 2026 and no person has read them yet.
 
-const i18n = createTranslator(auth, FALLBACK_LANGUAGE);
-i18n.t("login.title", undefined, user.language);
-i18n.t("welcome", { name: user.name }, i18n.resolveLocale(request.headers["accept-language"]));
-```
+The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 
 ## Change the texts
 
-- A new text: add its key to every language file of the namespace.
-- A new namespace: a folder with one file for every supported language.
-- A new language: add it to `SUPPORTED_LANGUAGES` and add its file to every namespace.
+- A new text: add its key to every language file of the folder.
+- A new build: a folder with one file for every language.
+- A new language: add its file to every folder.
 
-`scripts/check.sh` (or `scripts/check.ps1`) installs from the lockfile, builds and runs the
-tests. The build fails when a namespace lacks a supported language, when a key is missing in or
-foreign to a language, or when a message names other placeholders than the fallback language.
-
-## Release
-
-Raise `version` in `package.json` and push to master. The CI publishes every version that
-GitHub Packages does not carry yet.
+`scripts/check.sh` (or `scripts/check.ps1`) runs `scripts/check-translations.mjs` and its tests; CI runs
+the same on every push. The check fails when:
+- a folder lacks a language file;
+- a key is missing in or foreign to a language;
+- a message names other placeholders than its `en` message, or is empty;
+- anything under `translations/` is not a `<language>.json` file of a build's folder;
+- a folder grows past 1 MiB. Every language of a folder reaches a frontend at start, so past that size
+  the frontends should load one language at a time.

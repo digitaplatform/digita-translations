@@ -1,10 +1,11 @@
-# The repository's check on every push to master, then the publish of a version that GitHub
-# Packages does not carry yet. Raising `version` in package.json is what releases.
+# The translation files are checked on every push and pull request. Nothing is built or published:
+# the pods fetch a pinned commit of this repository as files.
 name: CI
 
 on:
   push:
     branches: [master]
+  pull_request:
   workflow_dispatch:
 
 permissions:
@@ -15,41 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: pnpm/action-setup@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 24
-          cache: pnpm
-      - run: pnpm install --frozen-lockfile
-      - run: pnpm check
-
-  publish:
-    needs: check
-    if: github.event_name == 'push'
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: pnpm/action-setup@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 24
-          registry-url: 'https://npm.pkg.github.com'
-          scope: '@digitaplatform'
-          cache: pnpm
-      - run: pnpm install --frozen-lockfile
-      - run: pnpm build
-      - name: Publish the version unless it is published already
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -eu
-          name="$(jq -r .name package.json)"
-          version="$(jq -r .version package.json)"
-          if npm view "$name@$version" version >/dev/null 2>&1; then
-            echo "$name@$version is published already"
-            exit 0
-          fi
-          pnpm publish --no-git-checks
+      - run: bash scripts/check.sh

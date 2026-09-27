@@ -1,5 +1,3 @@
-node_modules/
-dist/
 # setup-ai-core start: what agents and the harness put into a checkout is never committed
 /.ai-core/
 /graft/
