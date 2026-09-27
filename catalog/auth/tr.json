@@ -140,6 +140,7 @@
   "mail.status.skipped": "Atlandı",
   "mail.type.account_invite": "Hesap daveti",
   "mail.type.password_reset": "Parola sıfırlama",
+  "mail.type.password_changed": "Parola değiştirildi",
   "mail.type.email_verification": "E-posta doğrulama",
   "mail.empty": "Henüz kayıtlı e-posta gönderimi yok.",
 

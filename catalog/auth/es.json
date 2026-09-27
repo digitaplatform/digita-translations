@@ -140,6 +140,7 @@
   "mail.status.skipped": "Omitido",
   "mail.type.account_invite": "Invitación a la cuenta",
   "mail.type.password_reset": "Restablecimiento de contraseña",
+  "mail.type.password_changed": "Contraseña cambiada",
   "mail.type.email_verification": "Verificación del correo",
   "mail.empty": "Aún no hay envíos de correo registrados.",
 

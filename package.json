@@ -1,6 +1,6 @@
 {
   "name": "@digitaplatform/translator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "description": "Built-in texts of the Digita platform and its services in every supported language, with the translator that reads them.",
   "exports": {

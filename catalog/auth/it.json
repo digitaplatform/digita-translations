@@ -140,6 +140,7 @@
   "mail.status.skipped": "Saltata",
   "mail.type.account_invite": "Invito all'account",
   "mail.type.password_reset": "Reimpostazione password",
+  "mail.type.password_changed": "Password modificata",
   "mail.type.email_verification": "Verifica email",
   "mail.empty": "Nessun invio email registrato finora.",
 

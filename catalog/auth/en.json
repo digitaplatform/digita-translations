@@ -140,6 +140,7 @@
   "mail.status.skipped": "Skipped",
   "mail.type.account_invite": "Account invite",
   "mail.type.password_reset": "Password reset",
+  "mail.type.password_changed": "Password changed",
   "mail.type.email_verification": "Email verification",
   "mail.empty": "No mail deliveries recorded yet.",
 

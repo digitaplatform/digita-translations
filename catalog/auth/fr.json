@@ -140,6 +140,7 @@
   "mail.status.skipped": "Ignoré",
   "mail.type.account_invite": "Invitation au compte",
   "mail.type.password_reset": "Réinitialisation du mot de passe",
+  "mail.type.password_changed": "Mot de passe modifié",
   "mail.type.email_verification": "Vérification de l'e-mail",
   "mail.empty": "Aucun envoi d'e-mail enregistré pour le moment.",
 

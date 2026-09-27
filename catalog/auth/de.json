@@ -140,6 +140,7 @@
   "mail.status.skipped": "Übersprungen",
   "mail.type.account_invite": "Konto-Einladung",
   "mail.type.password_reset": "Passwort-Zurücksetzung",
+  "mail.type.password_changed": "Passwort geändert",
   "mail.type.email_verification": "E-Mail-Bestätigung",
   "mail.empty": "Noch keine E-Mail-Zustellungen erfasst.",
 
