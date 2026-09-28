@@ -338,7 +338,7 @@
   "senderDomains.removeConfirm": "Really remove",
   "senderDomains.removed": "Domain removed. The MTA stops signing it within five minutes.",
   "senderDomains.issuers": "Service token issuers",
-  "senderDomains.issuersHint": "A tenant's services send from this domain only with a token of an issuer listed here, for example https://<tenant>.digitacloud.app/auth. Separate several with commas; an empty list closes the domain to tokens.",
+  "senderDomains.issuersHint": "A tenant's services send from this domain only with a token of an issuer listed here, for example https://<tenant zone>/auth. Separate several with commas; an empty list closes the domain to tokens.",
   "senderDomains.saveIssuers": "Save issuers",
   "senderDomains.issuersSaved": "Issuers saved",
 

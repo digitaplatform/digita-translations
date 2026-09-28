@@ -338,7 +338,7 @@
   "senderDomains.removeConfirm": "Gerçekten kaldır",
   "senderDomains.removed": "Alan adı kaldırıldı. MTA beş dakika içinde imzalamayı durdurur.",
   "senderDomains.issuers": "Hizmet belirteci yayıncıları",
-  "senderDomains.issuersHint": "Bir tenant'ın hizmetleri bu alan adından yalnızca burada listelenen bir yayıncının belirteciyle gönderir, örneğin https://<tenant>.digitacloud.app/auth. Birden fazlasını virgülle ayırın; boş bir liste alan adını belirteçlere kapatır.",
+  "senderDomains.issuersHint": "Bir tenant'ın hizmetleri bu alan adından yalnızca burada listelenen bir yayıncının belirteciyle gönderir, örneğin https://<tenant zone>/auth. Birden fazlasını virgülle ayırın; boş bir liste alan adını belirteçlere kapatır.",
   "senderDomains.saveIssuers": "Yayıncıları kaydet",
   "senderDomains.issuersSaved": "Yayıncılar kaydedildi",
 

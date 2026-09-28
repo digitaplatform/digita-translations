@@ -338,7 +338,7 @@
   "senderDomains.removeConfirm": "Vraiment retirer",
   "senderDomains.removed": "Domaine retiré. Le MTA arrête de le signer dans les cinq minutes.",
   "senderDomains.issuers": "Émetteurs des jetons de service",
-  "senderDomains.issuersHint": "Les services d'un tenant n'envoient depuis ce domaine qu'avec un jeton d'un émetteur indiqué ici, par exemple https://<tenant>.digitacloud.app/auth. Séparez-en plusieurs par des virgules ; une liste vide ferme le domaine aux jetons.",
+  "senderDomains.issuersHint": "Les services d'un tenant n'envoient depuis ce domaine qu'avec un jeton d'un émetteur indiqué ici, par exemple https://<tenant zone>/auth. Séparez-en plusieurs par des virgules ; une liste vide ferme le domaine aux jetons.",
   "senderDomains.saveIssuers": "Enregistrer les émetteurs",
   "senderDomains.issuersSaved": "Émetteurs enregistrés",
 
