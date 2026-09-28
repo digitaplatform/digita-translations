@@ -29,5 +29,15 @@
   "designRefused": "The {design} design is not available to you here.",
   "statusAvailable": "available",
   "statusEarlyAccess": "early access",
-  "statusComing": "coming"
+  "statusComing": "coming",
+  "contactHeading": "Let's talk.",
+  "contactOrWrite": "or write to us",
+  "contactMessagePlaceholder": "Two sentences are enough.",
+  "designBandTitle": "This site runs on digita. Switch the design.",
+  "designBandNote": "One click restyles the whole site; the choice stays in your browser.",
+  "navPrimary": "Primary",
+  "navFooter": "Footer",
+  "embedTitle": "Embedded content",
+  "heroRevealHint": "hover or tap to see the code",
+  "heroRevealToggle": "Show the code behind the form"
 }

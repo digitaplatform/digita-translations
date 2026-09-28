@@ -4,7 +4,7 @@
   "home": "Start",
   "navigation": "Navigation",
   "openMenu": "Menü öffnen",
-  "closeMenu": "Menü schließen",
+  "closeMenu": "Menü schliessen",
   "toggleTheme": "Design wechseln",
   "contactTitle": "Kontakt",
   "contactClose": "Schliessen",
@@ -29,5 +29,15 @@
   "designRefused": "Das Design {design} ist hier für Sie nicht verfügbar.",
   "statusAvailable": "verfügbar",
   "statusEarlyAccess": "Early Access",
-  "statusComing": "kommt"
+  "statusComing": "kommt",
+  "contactHeading": "Reden wir.",
+  "contactOrWrite": "oder schreiben Sie uns",
+  "contactMessagePlaceholder": "Zwei Sätze genügen.",
+  "designBandTitle": "Diese Site läuft auf digita. Wechseln Sie das Design.",
+  "designBandNote": "Ein Klick gestaltet die ganze Site um; die Wahl bleibt in Ihrem Browser.",
+  "navPrimary": "Hauptnavigation",
+  "navFooter": "Fusszeile",
+  "embedTitle": "Eingebetteter Inhalt",
+  "heroRevealHint": "Zeigen oder tippen, um den Code zu sehen",
+  "heroRevealToggle": "Den Code hinter dem Formular zeigen"
 }

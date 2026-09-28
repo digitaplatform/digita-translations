@@ -29,5 +29,15 @@
   "designRefused": "Il design {design} non è disponibile per voi qui.",
   "statusAvailable": "disponibile",
   "statusEarlyAccess": "accesso anticipato",
-  "statusComing": "in arrivo"
+  "statusComing": "in arrivo",
+  "contactHeading": "Parliamone.",
+  "contactOrWrite": "oppure scriveteci",
+  "contactMessagePlaceholder": "Bastano due frasi.",
+  "designBandTitle": "Questo sito gira su digita. Cambiate il design.",
+  "designBandNote": "Un clic ridisegna l'intero sito; la scelta resta nel vostro browser.",
+  "navPrimary": "Navigazione principale",
+  "navFooter": "Piè di pagina",
+  "embedTitle": "Contenuto incorporato",
+  "heroRevealHint": "Passate sopra o toccate per vedere il codice",
+  "heroRevealToggle": "Mostra il codice dietro il modulo"
 }

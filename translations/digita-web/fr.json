@@ -29,5 +29,15 @@
   "designRefused": "Le design {design} n'est pas disponible pour vous ici.",
   "statusAvailable": "disponible",
   "statusEarlyAccess": "accès anticipé",
-  "statusComing": "bientôt"
+  "statusComing": "bientôt",
+  "contactHeading": "Parlons-en.",
+  "contactOrWrite": "ou écrivez-nous",
+  "contactMessagePlaceholder": "Deux phrases suffisent.",
+  "designBandTitle": "Ce site tourne sur digita. Changez de design.",
+  "designBandNote": "Un clic restyle tout le site ; le choix reste dans votre navigateur.",
+  "navPrimary": "Navigation principale",
+  "navFooter": "Pied de page",
+  "embedTitle": "Contenu intégré",
+  "heroRevealHint": "Survolez ou touchez pour voir le code",
+  "heroRevealToggle": "Afficher le code derrière le formulaire"
 }

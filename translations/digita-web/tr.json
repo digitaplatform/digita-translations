@@ -29,5 +29,15 @@
   "designRefused": "{design} tasarımı burada sizin için kullanılamaz.",
   "statusAvailable": "kullanılabilir",
   "statusEarlyAccess": "erken erişim",
-  "statusComing": "yakında"
+  "statusComing": "yakında",
+  "contactHeading": "Konuşalım.",
+  "contactOrWrite": "ya da bize yazın",
+  "contactMessagePlaceholder": "İki cümle yeterli.",
+  "designBandTitle": "Bu site digita üzerinde çalışıyor. Tasarımı değiştirin.",
+  "designBandNote": "Tek tıkla tüm site yeniden biçimlenir; seçim tarayıcınızda kalır.",
+  "navPrimary": "Ana gezinme",
+  "navFooter": "Alt bilgi",
+  "embedTitle": "Gömülü içerik",
+  "heroRevealHint": "Kodu görmek için üzerine gelin veya dokunun",
+  "heroRevealToggle": "Formun arkasındaki kodu göster"
 }
