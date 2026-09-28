@@ -337,6 +337,10 @@
   "senderDomains.remove": "Quitar",
   "senderDomains.removeConfirm": "Quitar de verdad",
   "senderDomains.removed": "Dominio eliminado. El MTA deja de firmarlo en cinco minutos.",
+  "senderDomains.issuers": "Emisores de tokens de servicio",
+  "senderDomains.issuersHint": "Los servicios de un tenant solo envían desde este dominio con un token de un emisor indicado aquí, por ejemplo https://<tenant>.digitacloud.app/auth. Separe varios con comas; una lista vacía cierra el dominio a los tokens.",
+  "senderDomains.saveIssuers": "Guardar emisores",
+  "senderDomains.issuersSaved": "Emisores guardados",
 
   "subject.test_email": "Correo de prueba de Digita Post"
 }

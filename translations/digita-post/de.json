@@ -337,6 +337,10 @@
   "senderDomains.remove": "Entfernen",
   "senderDomains.removeConfirm": "Wirklich entfernen",
   "senderDomains.removed": "Domain entfernt. Der MTA signiert sie spätestens in fünf Minuten nicht mehr.",
+  "senderDomains.issuers": "Aussteller der Service-Tokens",
+  "senderDomains.issuersHint": "Die Dienste eines Tenants senden von dieser Domain nur mit einem Token eines hier genannten Ausstellers, zum Beispiel https://<tenant>.digitacloud.app/auth. Mehrere mit Komma trennen; eine leere Liste sperrt die Domain für Tokens.",
+  "senderDomains.saveIssuers": "Aussteller speichern",
+  "senderDomains.issuersSaved": "Aussteller gespeichert",
 
   "subject.test_email": "Digita Post Test-E-Mail"
 }
