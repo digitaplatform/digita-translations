@@ -39,5 +39,8 @@
   "navFooter": "Pied de page",
   "embedTitle": "Contenu intégré",
   "heroRevealHint": "Survolez ou touchez pour voir le code",
-  "heroRevealToggle": "Afficher le code derrière le formulaire"
+  "heroRevealToggle": "Afficher le code derrière le formulaire",
+  "notFoundTitle": "Page introuvable",
+  "notFoundBody": "La page que vous cherchez n'existe pas ou a été déplacée.",
+  "notFoundHome": "Aller à l'accueil"
 }

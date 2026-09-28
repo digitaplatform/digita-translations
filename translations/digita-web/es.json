@@ -39,5 +39,8 @@
   "navFooter": "Pie de página",
   "embedTitle": "Contenido incrustado",
   "heroRevealHint": "Pase el cursor o toque para ver el código",
-  "heroRevealToggle": "Mostrar el código detrás del formulario"
+  "heroRevealToggle": "Mostrar el código detrás del formulario",
+  "notFoundTitle": "Página no encontrada",
+  "notFoundBody": "La página que busca no existe o se ha movido.",
+  "notFoundHome": "Ir a la página de inicio"
 }

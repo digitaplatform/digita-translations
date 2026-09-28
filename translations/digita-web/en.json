@@ -39,5 +39,8 @@
   "navFooter": "Footer",
   "embedTitle": "Embedded content",
   "heroRevealHint": "hover or tap to see the code",
-  "heroRevealToggle": "Show the code behind the form"
+  "heroRevealToggle": "Show the code behind the form",
+  "notFoundTitle": "Page not found",
+  "notFoundBody": "The page you are looking for does not exist or was moved.",
+  "notFoundHome": "Go to the home page"
 }

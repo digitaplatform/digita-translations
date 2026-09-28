@@ -39,5 +39,8 @@
   "navFooter": "Alt bilgi",
   "embedTitle": "Gömülü içerik",
   "heroRevealHint": "Kodu görmek için üzerine gelin veya dokunun",
-  "heroRevealToggle": "Formun arkasındaki kodu göster"
+  "heroRevealToggle": "Formun arkasındaki kodu göster",
+  "notFoundTitle": "Sayfa bulunamadı",
+  "notFoundBody": "Aradığınız sayfa yok ya da taşındı.",
+  "notFoundHome": "Ana sayfaya git"
 }

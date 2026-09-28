@@ -39,5 +39,8 @@
   "navFooter": "Piè di pagina",
   "embedTitle": "Contenuto incorporato",
   "heroRevealHint": "Passate sopra o toccate per vedere il codice",
-  "heroRevealToggle": "Mostra il codice dietro il modulo"
+  "heroRevealToggle": "Mostra il codice dietro il modulo",
+  "notFoundTitle": "Pagina non trovata",
+  "notFoundBody": "La pagina che cercate non esiste o è stata spostata.",
+  "notFoundHome": "Vai alla pagina iniziale"
 }
