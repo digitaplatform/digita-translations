@@ -240,6 +240,7 @@
   "authError.forbidden": "Du darfst diese Aktion nicht ausführen.",
   "authError.not_found": "Nicht gefunden — möglicherweise wurde es zwischenzeitlich gelöscht.",
   "authError.totp_code_invalid": "Dieser Code ist falsch. Bitte erneut versuchen.",
+  "authError.totp_code_replayed": "Dieser Code wurde bereits verwendet. Warte auf den nächsten Code deiner Authenticator-App.",
   "authError.totp_code_required": "Bitte gib deinen Authentifizierungscode ein.",
   "authError.totp_not_enrolled": "Die Zwei-Faktor-Einrichtung wurde nicht begonnen.",
   "authError.totp_not_enabled": "Zwei-Faktor ist nicht aktiviert.",

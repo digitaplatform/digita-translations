@@ -240,6 +240,7 @@
   "authError.forbidden": "Bu işlemi yapma iznin yok.",
   "authError.not_found": "Bulunamadı — bu arada silinmiş olabilir.",
   "authError.totp_code_invalid": "Bu kod yanlış. Lütfen tekrar dene.",
+  "authError.totp_code_replayed": "Bu kod zaten kullanıldı. Doğrulama uygulamandaki bir sonraki kodu bekle.",
   "authError.totp_code_required": "Lütfen doğrulama kodunu gir.",
   "authError.totp_not_enrolled": "İki adımlı doğrulama kurulumu başlatılmadı.",
   "authError.totp_not_enabled": "İki adımlı doğrulama etkin değil.",

@@ -240,6 +240,7 @@
   "authError.forbidden": "Vous n'êtes pas autorisé à effectuer cette action.",
   "authError.not_found": "Introuvable — l'élément a peut-être été supprimé entre-temps.",
   "authError.totp_code_invalid": "Ce code est incorrect. Veuillez réessayer.",
+  "authError.totp_code_replayed": "Ce code a déjà été utilisé. Attendez le prochain code de votre application d'authentification.",
   "authError.totp_code_required": "Veuillez saisir votre code d'authentification.",
   "authError.totp_not_enrolled": "La configuration de l'authentification à deux facteurs n'a pas été commencée.",
   "authError.totp_not_enabled": "L'authentification à deux facteurs n'est pas activée.",

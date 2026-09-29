@@ -240,6 +240,7 @@
   "authError.forbidden": "You are not allowed to perform this action.",
   "authError.not_found": "Not found — it may have been deleted in the meantime.",
   "authError.totp_code_invalid": "That code is incorrect. Please try again.",
+  "authError.totp_code_replayed": "This code has already been used. Wait for the next code from your authenticator app.",
   "authError.totp_code_required": "Please enter your authentication code.",
   "authError.totp_not_enrolled": "Two-factor enrolment hasn't been started.",
   "authError.totp_not_enabled": "Two-factor is not enabled.",

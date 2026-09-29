@@ -240,6 +240,7 @@
   "authError.forbidden": "Non hai l'autorizzazione per eseguire questa azione.",
   "authError.not_found": "Non trovato — potrebbe essere stato eliminato nel frattempo.",
   "authError.totp_code_invalid": "Il codice non è corretto. Riprova.",
+  "authError.totp_code_replayed": "Questo codice è già stato usato. Attendi il prossimo codice della tua app di autenticazione.",
   "authError.totp_code_required": "Inserisci il tuo codice di autenticazione.",
   "authError.totp_not_enrolled": "La configurazione dell'autenticazione a due fattori non è stata avviata.",
   "authError.totp_not_enabled": "L'autenticazione a due fattori non è attiva.",
