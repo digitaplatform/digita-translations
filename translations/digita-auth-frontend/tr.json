@@ -212,7 +212,7 @@
   "security.currentCode": "Güncel TOTP kodu",
   "security.regenerateRecovery": "Kodları yenile",
   "security.disable": "2FA'yı kapat",
-  "security.sensitiveHint": "Her iki işlem de doğrulama uygulamasından güncel bir kod gerektirir. Yenileme, önceki tüm kurtarma kodlarını geçersiz kılar.",
+  "security.sensitiveHint": "Bu işlemlerin her biri doğrulama uygulamasından güncel bir kod gerektirir. Yenileme, önceki tüm kurtarma kodlarını geçersiz kılar.",
   "security.step1": "Adım 1",
   "security.scanQr": "Bu QR kodunu doğrulama uygulamanla tara",
   "security.qrAlt": "İki adımlı doğrulama QR kodu",

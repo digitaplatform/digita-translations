@@ -212,7 +212,7 @@
   "security.currentCode": "Code TOTP actuel",
   "security.regenerateRecovery": "Régénérer les codes",
   "security.disable": "Désactiver la 2FA",
-  "security.sensitiveHint": "Les deux actions nécessitent un code actuel de l'authentificateur. La régénération invalide tous les codes de récupération précédents.",
+  "security.sensitiveHint": "Chacune de ces actions nécessite un code actuel de l'authentificateur. La régénération invalide tous les codes de récupération précédents.",
   "security.step1": "Étape 1",
   "security.scanQr": "Scannez ce QR code avec votre application d'authentification",
   "security.qrAlt": "QR code à deux facteurs",
