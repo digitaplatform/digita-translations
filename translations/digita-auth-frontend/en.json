@@ -212,7 +212,7 @@
   "security.currentCode": "Current TOTP code",
   "security.regenerateRecovery": "Regenerate recovery",
   "security.disable": "Disable 2FA",
-  "security.sensitiveHint": "Both actions require a current authenticator code. Regenerating invalidates every previous recovery code.",
+  "security.sensitiveHint": "Each of these actions requires a current authenticator code. Regenerating invalidates every previous recovery code.",
   "security.step1": "Step 1",
   "security.scanQr": "Scan this QR with your authenticator app",
   "security.qrAlt": "Two-factor QR code",
