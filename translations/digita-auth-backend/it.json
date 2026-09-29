@@ -13,7 +13,6 @@
   "invalid_or_expired_token": "Questo link non è valido o è scaduto.",
   "totp_code_invalid": "Il codice di autenticazione non è valido.",
   "totp_not_enrolled": "L'autenticazione a due fattori non è configurata.",
-  "totp_already_active": "L'autenticazione a due fattori è già attiva.",
   "admin_exists": "Esiste già un amministratore — l'inizializzazione è chiusa.",
   "bootstrap_disabled": "L'inizializzazione dell'amministratore è disattivata.",
   "invite_invalid_or_expired": "Questo invito non è valido o è scaduto.",

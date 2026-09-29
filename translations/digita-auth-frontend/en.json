@@ -243,7 +243,6 @@
   "authError.totp_code_required": "Please enter your authentication code.",
   "authError.totp_not_enrolled": "Two-factor enrolment hasn't been started.",
   "authError.totp_not_enabled": "Two-factor is not enabled.",
-  "authError.totp_already_active": "Two-factor is already active.",
   "authError.too_many_attempts": "Too many attempts. Please wait a moment and try again.",
   "authError.user_exists": "A user with this email already exists.",
   "authError.email_and_password_required": "Email and password are required.",

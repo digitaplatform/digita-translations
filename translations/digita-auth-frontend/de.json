@@ -243,7 +243,6 @@
   "authError.totp_code_required": "Bitte gib deinen Authentifizierungscode ein.",
   "authError.totp_not_enrolled": "Die Zwei-Faktor-Einrichtung wurde nicht begonnen.",
   "authError.totp_not_enabled": "Zwei-Faktor ist nicht aktiviert.",
-  "authError.totp_already_active": "Zwei-Faktor ist bereits aktiv.",
   "authError.too_many_attempts": "Zu viele Versuche. Bitte einen Moment warten und erneut versuchen.",
   "authError.user_exists": "Ein Benutzer mit dieser E-Mail existiert bereits.",
   "authError.email_and_password_required": "E-Mail und Passwort sind erforderlich.",

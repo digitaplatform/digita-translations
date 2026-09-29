@@ -13,7 +13,6 @@
   "invalid_or_expired_token": "This link is invalid or has expired.",
   "totp_code_invalid": "The authentication code is invalid.",
   "totp_not_enrolled": "Two-factor authentication is not set up.",
-  "totp_already_active": "Two-factor authentication is already active.",
   "admin_exists": "An administrator already exists — bootstrap is closed.",
   "bootstrap_disabled": "Admin bootstrap is disabled.",
   "invite_invalid_or_expired": "This invitation is invalid or has expired.",

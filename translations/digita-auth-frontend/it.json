@@ -243,7 +243,6 @@
   "authError.totp_code_required": "Inserisci il tuo codice di autenticazione.",
   "authError.totp_not_enrolled": "La configurazione dell'autenticazione a due fattori non è stata avviata.",
   "authError.totp_not_enabled": "L'autenticazione a due fattori non è attiva.",
-  "authError.totp_already_active": "L'autenticazione a due fattori è già attiva.",
   "authError.too_many_attempts": "Troppi tentativi. Attendi un momento e riprova.",
   "authError.user_exists": "Esiste già un utente con questa email.",
   "authError.email_and_password_required": "Email e password sono obbligatorie.",

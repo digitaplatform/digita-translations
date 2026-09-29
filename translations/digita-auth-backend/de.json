@@ -13,7 +13,6 @@
   "invalid_or_expired_token": "Dieser Link ist ungültig oder abgelaufen.",
   "totp_code_invalid": "Der Authentifizierungscode ist ungültig.",
   "totp_not_enrolled": "Zwei-Faktor-Authentifizierung ist nicht eingerichtet.",
-  "totp_already_active": "Zwei-Faktor-Authentifizierung ist bereits aktiv.",
   "admin_exists": "Ein Administrator existiert bereits — Bootstrap ist geschlossen.",
   "bootstrap_disabled": "Admin-Bootstrap ist deaktiviert.",
   "invite_invalid_or_expired": "Diese Einladung ist ungültig oder abgelaufen.",

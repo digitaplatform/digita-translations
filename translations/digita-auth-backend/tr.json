@@ -13,7 +13,6 @@
   "invalid_or_expired_token": "Bu bağlantı geçersiz veya süresi dolmuş.",
   "totp_code_invalid": "Kimlik doğrulama kodu geçersiz.",
   "totp_not_enrolled": "İki adımlı doğrulama ayarlanmamış.",
-  "totp_already_active": "İki adımlı doğrulama zaten etkin.",
   "admin_exists": "Bir yönetici zaten var — kurulum kapalı.",
   "bootstrap_disabled": "Yönetici kurulumu devre dışı.",
   "invite_invalid_or_expired": "Bu davet geçersiz veya süresi dolmuş.",

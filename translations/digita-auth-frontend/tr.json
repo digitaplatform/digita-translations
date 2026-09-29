@@ -243,7 +243,6 @@
   "authError.totp_code_required": "Lütfen doğrulama kodunu gir.",
   "authError.totp_not_enrolled": "İki adımlı doğrulama kurulumu başlatılmadı.",
   "authError.totp_not_enabled": "İki adımlı doğrulama etkin değil.",
-  "authError.totp_already_active": "İki adımlı doğrulama zaten etkin.",
   "authError.too_many_attempts": "Çok fazla deneme. Lütfen biraz bekle ve tekrar dene.",
   "authError.user_exists": "Bu e-postaya sahip bir kullanıcı zaten var.",
   "authError.email_and_password_required": "E-posta ve parola gereklidir.",
