@@ -115,6 +115,7 @@
   "file_deleted": "Dosya silindi",
   "file_not_found": "Dosya bulunamadı",
   "action_not_found": "\"{action}\" eylemi bulunamadı",
+  "action_not_available": "{action} bu belge için kullanılamaz",
   "entity.BrandingSetting": "Görünüm ve Marka",
   "entity.DocShare": "Belge Paylaşımı",
   "entity.File": "Dosya",

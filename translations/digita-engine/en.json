@@ -115,6 +115,7 @@
   "file_deleted": "File deleted",
   "file_not_found": "File not found",
   "action_not_found": "Action \"{action}\" not found",
+  "action_not_available": "{action} is not available for this document",
   "entity.BrandingSetting": "Appearance & Branding",
   "entity.DocShare": "Document Share",
   "entity.File": "File",

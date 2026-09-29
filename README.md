@@ -31,6 +31,8 @@ placeholders as `{name}`.
   labels (the `contact*`, `topic*`, `family*`, `design*`, `status*`, `nav*`, `embedTitle`, `hero*` and `notFound*` keys) were written in en and de
   in September 2026; their es, fr, it and tr were machine-made then and no person has read them yet. Only fr and it of `field_invalid_time` and `field_invalid_duration` in digita-engine were
   machine-made, in September 2026.
+- `action_not_available` in digita-engine was machine-made in every language in September 2026, and no
+  person has read it yet.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 
