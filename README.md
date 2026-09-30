@@ -37,6 +37,9 @@ placeholders as `{name}`.
   person has read it yet.
 - `ui.signature.hint` in digita-app was machine-made in every language in September 2026, and no person
   has read it yet.
+- `field.BrandingSetting.default_signature` and `description.BrandingSetting.default_signature` in
+  digita-engine were written in en and de in October 2026; their es, fr, it and tr were machine-made
+  then, and no person has read them yet.
 - `ui.tree.select` in digita-app was machine-made in every language in September 2026, and no person has
   read it yet.
 
