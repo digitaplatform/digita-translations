@@ -33,6 +33,8 @@ placeholders as `{name}`.
   machine-made, in September 2026.
 - `action_not_available` in digita-engine was machine-made in every language in September 2026, and no
   person has read it yet.
+- `ui.signature.hint` in digita-app was machine-made in every language in September 2026, and no person
+  has read it yet.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 

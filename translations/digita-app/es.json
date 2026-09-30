@@ -269,6 +269,7 @@
   "ui.nav.label": "Navegación",
   "ui.signature.alt": "Firma",
   "ui.signature.empty": "Sin firma",
+  "ui.signature.hint": "Firma aquí con el dedo, un lápiz o el ratón.",
   "ui.table.empty": "Sin filas",
   "ui.dashboard.unknownCard": "Tarjeta",
   "ui.plugin.placeholderTitle": "Vista de plugin",

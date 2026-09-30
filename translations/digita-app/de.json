@@ -269,6 +269,7 @@
   "ui.nav.label": "Navigation",
   "ui.signature.alt": "Unterschrift",
   "ui.signature.empty": "Keine Unterschrift",
+  "ui.signature.hint": "Hier mit dem Finger, einem Stift oder der Maus unterschreiben.",
   "ui.table.empty": "Keine Zeilen",
   "ui.dashboard.unknownCard": "Karte",
   "ui.plugin.placeholderTitle": "Plugin-Ansicht",

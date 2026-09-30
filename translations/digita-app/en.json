@@ -269,6 +269,7 @@
   "ui.nav.label": "Navigation",
   "ui.signature.alt": "Signature",
   "ui.signature.empty": "No signature",
+  "ui.signature.hint": "Sign here with a finger, a pen or the mouse.",
   "ui.table.empty": "No rows",
   "ui.dashboard.unknownCard": "Card",
   "ui.plugin.placeholderTitle": "Plugin view",

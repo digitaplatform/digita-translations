@@ -269,6 +269,7 @@
   "ui.nav.label": "Gezinme",
   "ui.signature.alt": "İmza",
   "ui.signature.empty": "İmza yok",
+  "ui.signature.hint": "Buraya parmağınla, bir kalemle veya fareyle imzala.",
   "ui.table.empty": "Satır yok",
   "ui.dashboard.unknownCard": "Kart",
   "ui.plugin.placeholderTitle": "Eklenti görünümü",

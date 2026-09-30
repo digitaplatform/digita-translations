@@ -269,6 +269,7 @@
   "ui.nav.label": "Navigazione",
   "ui.signature.alt": "Firma",
   "ui.signature.empty": "Nessuna firma",
+  "ui.signature.hint": "Firma qui con il dito, una penna o il mouse.",
   "ui.table.empty": "Nessuna riga",
   "ui.dashboard.unknownCard": "Scheda",
   "ui.plugin.placeholderTitle": "Vista plugin",
