@@ -250,6 +250,8 @@
   "ui.account.sessions.revokeOthersConfirmBody": "Alle Sitzungen außer dieser werden abgemeldet.",
   "ui.account.sessions.currentNote": "Wenn du deine aktuelle Sitzung abmeldest, wirst du ausgeloggt.",
   "ui.action.clear": "Leeren",
+  "ui.datepicker.previous": "Zurück",
+  "ui.datepicker.next": "Weiter",
   "ui.attach.uploadFailed": "Upload fehlgeschlagen",
   "ui.link.searching": "Suche läuft…",
   "ui.link.searchEntity": "{entity} suchen…",

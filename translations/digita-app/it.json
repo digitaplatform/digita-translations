@@ -250,6 +250,8 @@
   "ui.account.sessions.revokeOthersConfirmBody": "Tutte le sessioni tranne questa verranno disconnesse.",
   "ui.account.sessions.currentNote": "La revoca della sessione corrente ti disconnette.",
   "ui.action.clear": "Cancella",
+  "ui.datepicker.previous": "Precedente",
+  "ui.datepicker.next": "Successivo",
   "ui.attach.uploadFailed": "Caricamento non riuscito",
   "ui.link.searching": "Ricerca in corso…",
   "ui.link.searchEntity": "Cerca {entity}…",

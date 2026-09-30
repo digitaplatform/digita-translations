@@ -250,6 +250,8 @@
   "ui.account.sessions.revokeOthersConfirmBody": "All sessions except this one will be signed out.",
   "ui.account.sessions.currentNote": "Revoking your current session signs you out.",
   "ui.action.clear": "Clear",
+  "ui.datepicker.previous": "Previous",
+  "ui.datepicker.next": "Next",
   "ui.attach.uploadFailed": "Upload failed",
   "ui.link.searching": "Searching…",
   "ui.link.searchEntity": "Search {entity}…",

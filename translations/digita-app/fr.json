@@ -250,6 +250,8 @@
   "ui.account.sessions.revokeOthersConfirmBody": "Toutes les sessions, à l'exception de celle-ci, seront déconnectées.",
   "ui.account.sessions.currentNote": "Révoquer votre session actuelle vous déconnecte.",
   "ui.action.clear": "Effacer",
+  "ui.datepicker.previous": "Précédent",
+  "ui.datepicker.next": "Suivant",
   "ui.attach.uploadFailed": "Échec du téléversement",
   "ui.link.searching": "Recherche…",
   "ui.link.searchEntity": "Rechercher {entity}…",

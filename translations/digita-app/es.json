@@ -250,6 +250,8 @@
   "ui.account.sessions.revokeOthersConfirmBody": "Se cerrarán todas las sesiones excepto esta.",
   "ui.account.sessions.currentNote": "Revocar tu sesión actual te cierra la sesión.",
   "ui.action.clear": "Borrar",
+  "ui.datepicker.previous": "Anterior",
+  "ui.datepicker.next": "Siguiente",
   "ui.attach.uploadFailed": "Error al subir",
   "ui.link.searching": "Buscando…",
   "ui.link.searchEntity": "Buscar {entity}…",
