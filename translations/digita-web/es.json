@@ -42,5 +42,8 @@
   "heroRevealToggle": "Mostrar el código detrás del formulario",
   "notFoundTitle": "Página no encontrada",
   "notFoundBody": "La página que busca no existe o se ha movido.",
-  "notFoundHome": "Ir a la página de inicio"
+  "notFoundHome": "Ir a la página de inicio",
+  "recordFormSend": "Enviar",
+  "recordFormSent": "Gracias. Hemos recibido su solicitud.",
+  "recordFormFailed": "El envío ha fallado. Compruebe sus datos e inténtelo de nuevo."
 }

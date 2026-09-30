@@ -42,5 +42,8 @@
   "heroRevealToggle": "Formun arkasındaki kodu göster",
   "notFoundTitle": "Sayfa bulunamadı",
   "notFoundBody": "Aradığınız sayfa yok ya da taşındı.",
-  "notFoundHome": "Ana sayfaya git"
+  "notFoundHome": "Ana sayfaya git",
+  "recordFormSend": "Gönder",
+  "recordFormSent": "Teşekkürler. Talebinizi aldık.",
+  "recordFormFailed": "Gönderim başarısız oldu. Bilgilerinizi kontrol edip yeniden deneyin."
 }

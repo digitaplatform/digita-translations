@@ -42,5 +42,8 @@
   "heroRevealToggle": "Afficher le code derrière le formulaire",
   "notFoundTitle": "Page introuvable",
   "notFoundBody": "La page que vous cherchez n'existe pas ou a été déplacée.",
-  "notFoundHome": "Aller à l'accueil"
+  "notFoundHome": "Aller à l'accueil",
+  "recordFormSend": "Envoyer",
+  "recordFormSent": "Merci. Nous avons bien reçu votre demande.",
+  "recordFormFailed": "L'envoi a échoué. Vérifiez vos informations et réessayez."
 }

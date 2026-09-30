@@ -42,5 +42,8 @@
   "heroRevealToggle": "Show the code behind the form",
   "notFoundTitle": "Page not found",
   "notFoundBody": "The page you are looking for does not exist or was moved.",
-  "notFoundHome": "Go to the home page"
+  "notFoundHome": "Go to the home page",
+  "recordFormSend": "Send",
+  "recordFormSent": "Thank you. We have received your request.",
+  "recordFormFailed": "Sending failed. Please check your details and try again."
 }
