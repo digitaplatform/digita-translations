@@ -19,6 +19,8 @@
   "invite_invalid_or_expired": "Questo invito non è valido o è scaduto.",
   "rate_limited": "Troppe richieste — riprova tra poco.",
   "internal_error": "Si è verificato un errore. Riprova.",
+  "demo_session_forbidden": "Non disponibile nella demo: tutti i visitatori accedono con lo stesso utente demo.",
+  "demo_login_unavailable": "Al momento la demo non si può aprire. Riprova più tardi.",
   "mail.password_reset.subject": "Reimposta la tua password",
   "mail.password_reset.text": "Hai richiesto una nuova password per il tuo account Digita. Impostala qui; il link è valido per 15 minuti:\n\n{link}\n\nSe non l'hai richiesta tu, ignora questa email. La tua password resta invariata.",
   "mail.password_changed.subject": "La tua password è stata modificata",

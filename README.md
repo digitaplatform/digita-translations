@@ -22,7 +22,9 @@ placeholders as `{name}`.
 ## Who wrote the texts
 
 - en and de come from the builds' earlier locale files, except en and de of `security.sensitiveHint` in
-  digita-auth-frontend, rewritten in September 2026; no person has read them yet.
+  digita-auth-frontend, rewritten in September 2026, and of `demo_session_forbidden` and
+  `demo_login_unavailable` in digita-auth-backend, written in September 2026; no person has read them
+  yet.
 - es, fr, it and tr of the auth, post and report folders were machine-made in September 2026 and no
   person has read them yet.
 - digita-engine, digita-app and digita-web take every language from the platform's earlier locale

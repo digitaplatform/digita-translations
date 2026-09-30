@@ -19,6 +19,8 @@
   "invite_invalid_or_expired": "This invitation is invalid or has expired.",
   "rate_limited": "Too many requests — please try again shortly.",
   "internal_error": "Something went wrong. Please try again.",
+  "demo_session_forbidden": "Not available in the demo: every visitor signs in as the same demo user.",
+  "demo_login_unavailable": "The demo cannot be opened right now. Please try again later.",
   "mail.password_reset.subject": "Reset your password",
   "mail.password_reset.text": "You asked for a new password for your Digita account. Set it here; the link is valid for 15 minutes:\n\n{link}\n\nIf you did not ask for this, ignore this mail. Your password stays as it is.",
   "mail.password_changed.subject": "Your password was changed",

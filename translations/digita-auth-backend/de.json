@@ -19,6 +19,8 @@
   "invite_invalid_or_expired": "Diese Einladung ist ungültig oder abgelaufen.",
   "rate_limited": "Zu viele Anfragen — bitte versuch es in Kürze erneut.",
   "internal_error": "Etwas ist schiefgelaufen. Bitte erneut versuchen.",
+  "demo_session_forbidden": "In der Demo nicht verfügbar: Alle Besucher melden sich als derselbe Demo-Benutzer an.",
+  "demo_login_unavailable": "Die Demo lässt sich gerade nicht öffnen. Bitte versuch es später erneut.",
   "mail.password_reset.subject": "Passwort zurücksetzen",
   "mail.password_reset.text": "Du hast ein neues Passwort für dein Digita-Konto angefordert. Lege es hier fest, der Link gilt 15 Minuten:\n\n{link}\n\nWenn du das nicht angefordert hast, ignoriere diese Mail. Dein Passwort bleibt unverändert.",
   "mail.password_changed.subject": "Dein Passwort wurde geändert",

@@ -19,6 +19,8 @@
   "invite_invalid_or_expired": "Cette invitation n'est pas valide ou a expiré.",
   "rate_limited": "Trop de requêtes — veuillez réessayer dans un instant.",
   "internal_error": "Une erreur est survenue. Veuillez réessayer.",
+  "demo_session_forbidden": "Non disponible dans la démo : tous les visiteurs se connectent avec le même utilisateur de démonstration.",
+  "demo_login_unavailable": "La démo ne peut pas être ouverte pour le moment. Veuillez réessayer plus tard.",
   "mail.password_reset.subject": "Réinitialisez votre mot de passe",
   "mail.password_reset.text": "Vous avez demandé un nouveau mot de passe pour votre compte Digita. Définissez-le ici ; le lien est valable 15 minutes :\n\n{link}\n\nSi vous n'êtes pas à l'origine de cette demande, ignorez cet e-mail. Votre mot de passe reste inchangé.",
   "mail.password_changed.subject": "Votre mot de passe a été modifié",

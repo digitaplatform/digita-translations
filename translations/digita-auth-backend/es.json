@@ -19,6 +19,8 @@
   "invite_invalid_or_expired": "Esta invitación no es válida o ha caducado.",
   "rate_limited": "Demasiadas solicitudes — inténtalo de nuevo en breve.",
   "internal_error": "Algo salió mal. Inténtalo de nuevo.",
+  "demo_session_forbidden": "No disponible en la demo: todos los visitantes inician sesión como el mismo usuario de demostración.",
+  "demo_login_unavailable": "La demo no se puede abrir ahora mismo. Inténtalo de nuevo más tarde.",
   "mail.password_reset.subject": "Restablece tu contraseña",
   "mail.password_reset.text": "Has solicitado una nueva contraseña para tu cuenta de Digita. Establécela aquí; el enlace es válido durante 15 minutos:\n\n{link}\n\nSi no lo has solicitado, ignora este correo. Tu contraseña no cambia.",
   "mail.password_changed.subject": "Tu contraseña ha cambiado",

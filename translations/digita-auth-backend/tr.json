@@ -19,6 +19,8 @@
   "invite_invalid_or_expired": "Bu davet geçersiz veya süresi dolmuş.",
   "rate_limited": "Çok fazla istek — lütfen kısa süre sonra tekrar dene.",
   "internal_error": "Bir şeyler ters gitti. Lütfen tekrar dene.",
+  "demo_session_forbidden": "Demoda kullanılamaz: tüm ziyaretçiler aynı demo kullanıcısıyla oturum açar.",
+  "demo_login_unavailable": "Demo şu anda açılamıyor. Lütfen daha sonra tekrar dene.",
   "mail.password_reset.subject": "Parolanı sıfırla",
   "mail.password_reset.text": "Digita hesabın için yeni bir parola istedin. Parolanı buradan belirle; bağlantı 15 dakika geçerlidir:\n\n{link}\n\nBunu sen istemediysen bu e-postayı yok say. Parolan olduğu gibi kalır.",
   "mail.password_changed.subject": "Parolan değiştirildi",
