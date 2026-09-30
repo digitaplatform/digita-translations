@@ -45,5 +45,8 @@
   "notFoundHome": "Ana sayfaya git",
   "recordFormSend": "Gönder",
   "recordFormSent": "Teşekkürler. Talebinizi aldık.",
-  "recordFormFailed": "Gönderim başarısız oldu. Bilgilerinizi kontrol edip yeniden deneyin."
+  "recordFormFailed": "Gönderim başarısız oldu. Bilgilerinizi kontrol edip yeniden deneyin.",
+  "appListOpen": "Aç",
+  "appListDemo": "Demoya gir",
+  "appListEmpty": "Henüz uygulama yok."
 }

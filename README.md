@@ -28,7 +28,7 @@ placeholders as `{name}`.
 - digita-engine, digita-app and digita-web take every language from the platform's earlier locale
   files.
 - The digita-web texts of the contact sheet, the product family menu, the design band, the status
-  labels and the record form (the `contact*`, `topic*`, `family*`, `design*`, `status*`, `nav*`, `embedTitle`, `hero*`, `notFound*` and `recordForm*` keys) were written in en and de
+  labels, the record form and the app list (the `contact*`, `topic*`, `family*`, `design*`, `status*`, `nav*`, `embedTitle`, `hero*`, `notFound*`, `recordForm*` and `appList*` keys) were written in en and de
   in September 2026; their es, fr, it and tr were machine-made then and no person has read them yet. Only fr and it of `field_invalid_time` and `field_invalid_duration` in digita-engine were
   machine-made, in September 2026.
 - `action_not_available` in digita-engine was machine-made in every language in September 2026, and no

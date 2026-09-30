@@ -45,5 +45,8 @@
   "notFoundHome": "Ir a la página de inicio",
   "recordFormSend": "Enviar",
   "recordFormSent": "Gracias. Hemos recibido su solicitud.",
-  "recordFormFailed": "El envío ha fallado. Compruebe sus datos e inténtelo de nuevo."
+  "recordFormFailed": "El envío ha fallado. Compruebe sus datos e inténtelo de nuevo.",
+  "appListOpen": "Abrir",
+  "appListDemo": "Entrar en la demo",
+  "appListEmpty": "Todavía no hay aplicaciones."
 }

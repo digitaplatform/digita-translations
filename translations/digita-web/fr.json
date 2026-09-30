@@ -45,5 +45,8 @@
   "notFoundHome": "Aller à l'accueil",
   "recordFormSend": "Envoyer",
   "recordFormSent": "Merci. Nous avons bien reçu votre demande.",
-  "recordFormFailed": "L'envoi a échoué. Vérifiez vos informations et réessayez."
+  "recordFormFailed": "L'envoi a échoué. Vérifiez vos informations et réessayez.",
+  "appListOpen": "Ouvrir",
+  "appListDemo": "Entrer dans la démo",
+  "appListEmpty": "Pas encore d'applications."
 }

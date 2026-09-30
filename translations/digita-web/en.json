@@ -45,5 +45,8 @@
   "notFoundHome": "Go to the home page",
   "recordFormSend": "Send",
   "recordFormSent": "Thank you. We have received your request.",
-  "recordFormFailed": "Sending failed. Please check your details and try again."
+  "recordFormFailed": "Sending failed. Please check your details and try again.",
+  "appListOpen": "Open",
+  "appListDemo": "Enter the demo",
+  "appListEmpty": "No apps yet."
 }

@@ -45,5 +45,8 @@
   "notFoundHome": "Zur Startseite",
   "recordFormSend": "Senden",
   "recordFormSent": "Danke. Wir haben Ihre Anfrage erhalten.",
-  "recordFormFailed": "Senden fehlgeschlagen. Prüfen Sie Ihre Angaben und versuchen Sie es erneut."
+  "recordFormFailed": "Senden fehlgeschlagen. Prüfen Sie Ihre Angaben und versuchen Sie es erneut.",
+  "appListOpen": "Öffnen",
+  "appListDemo": "Demo starten",
+  "appListEmpty": "Noch keine Apps."
 }
