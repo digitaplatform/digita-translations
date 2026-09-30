@@ -32,6 +32,7 @@
   "ui.tree.movingHint": "Neues übergeordnetes Element wählen…",
   "ui.tree.hasChildren": "Erst die untergeordneten Einträge entfernen.",
   "ui.tree.deleteTitle": "„{name}“ löschen?",
+  "ui.tree.select": "Auswählen",
   "ui.list.empty": "Keine Einträge",
   "ui.list.status": "Status",
   "ui.list.emptyHint": "Mit „Neu“ den ersten Eintrag anlegen.",

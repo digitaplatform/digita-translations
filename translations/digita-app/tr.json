@@ -32,6 +32,7 @@
   "ui.tree.movingHint": "Yeni üst öğeyi seçin…",
   "ui.tree.hasChildren": "Önce alt kayıtları kaldırın.",
   "ui.tree.deleteTitle": "\"{name}\" silinsin mi?",
+  "ui.tree.select": "Seç",
   "ui.list.empty": "Kayıt yok",
   "ui.list.status": "Durum",
   "ui.list.emptyHint": "İlk kaydı oluşturmak için “Yeni”yi kullan.",

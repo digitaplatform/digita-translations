@@ -32,6 +32,7 @@
   "ui.tree.movingHint": "Choisissez le nouveau parent…",
   "ui.tree.hasChildren": "Supprimez d'abord les entrées enfants.",
   "ui.tree.deleteTitle": "Supprimer « {name} » ?",
+  "ui.tree.select": "Sélectionner",
   "ui.list.empty": "Aucun enregistrement",
   "ui.list.status": "Statut",
   "ui.list.emptyHint": "Utilisez « Nouveau » pour créer le premier.",

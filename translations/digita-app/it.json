@@ -32,6 +32,7 @@
   "ui.tree.movingHint": "Scegli il nuovo elemento padre…",
   "ui.tree.hasChildren": "Rimuovi prima le voci figlie.",
   "ui.tree.deleteTitle": "Eliminare \"{name}\"?",
+  "ui.tree.select": "Seleziona",
   "ui.list.empty": "Nessun record",
   "ui.list.status": "Stato",
   "ui.list.emptyHint": "Usa “Nuovo” per crearne il primo.",

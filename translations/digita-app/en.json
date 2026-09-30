@@ -32,6 +32,7 @@
   "ui.tree.movingHint": "Choose the new parent…",
   "ui.tree.hasChildren": "Remove the child entries first.",
   "ui.tree.deleteTitle": "Delete \"{name}\"?",
+  "ui.tree.select": "Select",
   "ui.list.empty": "No records",
   "ui.list.status": "Status",
   "ui.list.emptyHint": "Use “New” to create the first one.",
