@@ -303,6 +303,7 @@
   "ui.jobs.manual": "manual",
   "ui.jobs.disabled": "desactivado",
   "ui.jobs.runNow": "Ejecutar ahora",
+  "ui.jobs.edit": "Editar",
   "ui.jobs.runQueued": "Ejecución en cola.",
   "ui.jobs.deleteConfirm": "¿Eliminar esta tarea?",
   "ui.jobs.cancel": "Cancelar ejecución",

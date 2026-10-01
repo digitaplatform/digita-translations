@@ -303,6 +303,7 @@
   "ui.jobs.manual": "manuell",
   "ui.jobs.disabled": "deaktiviert",
   "ui.jobs.runNow": "Jetzt ausführen",
+  "ui.jobs.edit": "Bearbeiten",
   "ui.jobs.runQueued": "Lauf eingereiht.",
   "ui.jobs.deleteConfirm": "Diesen Job löschen?",
   "ui.jobs.cancel": "Lauf abbrechen",
