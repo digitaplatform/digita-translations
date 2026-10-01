@@ -575,6 +575,7 @@
   "designer.live.warning.untranslatedObjects.one": "{count} Textobjekt hat keine {locale}-Übersetzung und zeigt den Originaltext: {objects}.",
   "designer.live.warning.untranslatedObjects.other": "{count} Textobjekte haben keine {locale}-Übersetzung und zeigen den Originaltext: {objects}.",
   "designer.live.warning.joinTruncated": "Verknüpfte Zeilen \"{join}\" aus \"{collection}\": begrenzt auf {cap} pro Zeile — einige Summen können unvollständig sein.",
+  "designer.live.warning.lookupTruncated": "Detailband \"{bandId}\" aus \"{collection}\": auf {cap} Zeilen pro Zeile begrenzt — einige Zeilen und Summen fehlen.",
   "designer.live.warning.expressionNotAllowed": "Der Ausdruck verwendet {what} \"{name}\", was nicht erlaubt ist.",
   "designer.live.warning.expressionArgCount": "{fn}() benötigt {expected} Argument(e).",
   "designer.live.warning.expressionCallNotAllowed": "Der Ausdruck ruft etwas anderes als eine erlaubte Funktion auf.",

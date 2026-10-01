@@ -575,6 +575,7 @@
   "designer.live.warning.untranslatedObjects.one": "{count} metin nesnesinin {locale} çevirisi yok ve özgün metni gösteriyor: {objects}.",
   "designer.live.warning.untranslatedObjects.other": "{count} metin nesnesinin {locale} çevirisi yok ve özgün metinlerini gösteriyor: {objects}.",
   "designer.live.warning.joinTruncated": "\"{join}\" birleştirilmiş satırları (\"{collection}\"): satır başına {cap} ile sınırlı — bazı toplamlar eksik olabilir.",
+  "designer.live.warning.lookupTruncated": "\"{collection}\" kaynağından \"{bandId}\" ayrıntı bandı: satır başına {cap} satırla sınırlı — bazı satırlar ve toplamlar eksik.",
   "designer.live.warning.expressionNotAllowed": "İfade, izin verilmeyen bir {what} olan \"{name}\" kullanıyor.",
   "designer.live.warning.expressionArgCount": "{fn}() {expected} argüman alır.",
   "designer.live.warning.expressionCallNotAllowed": "İfade, izin verilen bir fonksiyon dışında bir şey çağırıyor.",

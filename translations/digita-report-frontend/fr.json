@@ -575,6 +575,7 @@
   "designer.live.warning.untranslatedObjects.one": "{count} objet texte n'a pas de traduction {locale} et affiche le texte d'origine : {objects}.",
   "designer.live.warning.untranslatedObjects.other": "{count} objets texte n'ont pas de traduction {locale} et affichent le texte d'origine : {objects}.",
   "designer.live.warning.joinTruncated": "Lignes jointes « {join} » de « {collection} » : limitées à {cap} par ligne — certains totaux peuvent être partiels.",
+  "designer.live.warning.lookupTruncated": "Bande de détail « {bandId} » de « {collection} » : limitée à {cap} lignes par ligne — certaines lignes et certains totaux manquent.",
   "designer.live.warning.expressionNotAllowed": "L'expression utilise {what} « {name} », qui n'est pas autorisé.",
   "designer.live.warning.expressionArgCount": "{fn}() prend {expected} argument(s).",
   "designer.live.warning.expressionCallNotAllowed": "L'expression appelle autre chose qu'une fonction autorisée.",

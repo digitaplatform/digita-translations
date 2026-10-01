@@ -575,6 +575,7 @@
   "designer.live.warning.untranslatedObjects.one": "{count} text object has no {locale} translation and shows the original text: {objects}.",
   "designer.live.warning.untranslatedObjects.other": "{count} text objects have no {locale} translation and show the original text: {objects}.",
   "designer.live.warning.joinTruncated": "Joined rows \"{join}\" from \"{collection}\": capped at {cap} per row — some totals may be partial.",
+  "designer.live.warning.lookupTruncated": "Detail band \"{bandId}\" from \"{collection}\": capped at {cap} rows per row — some rows and totals are missing.",
   "designer.live.warning.expressionNotAllowed": "The expression uses {what} \"{name}\", which is not allowed.",
   "designer.live.warning.expressionArgCount": "{fn}() takes {expected} argument(s).",
   "designer.live.warning.expressionCallNotAllowed": "The expression calls something other than an allowed function.",
