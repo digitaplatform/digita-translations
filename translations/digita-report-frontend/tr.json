@@ -51,6 +51,7 @@
   "list.selectAll.label": "Tümü",
   "list.export": "Dışa aktar",
   "list.exportCount": "Dışa aktar ({count})",
+  "list.exportMissing": "Dışa aktarılmadı, artık bulunamadı: {names}",
   "list.view.cards": "Kart görünümü",
   "list.view.table": "Tablo görünümü",
   "list.tags.less": "daha az göster",

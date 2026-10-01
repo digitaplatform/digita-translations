@@ -33,7 +33,7 @@ placeholders as `{name}`.
   labels, the record form and the app list (the `contact*`, `topic*`, `family*`, `design*`, `status*`, `nav*`, `embedTitle`, `hero*`, `notFound*`, `recordForm*` and `appList*` keys) were written in en and de
   in September 2026; their es, fr, it and tr were machine-made then and no person has read them yet. Only fr and it of `field_invalid_time` and `field_invalid_duration` in digita-engine were
   machine-made, in September 2026.
-- `designer.live.warning.groupBandNoLevel` and `designer.live.warning.lookupTruncated` in digita-report-frontend were written in en and de in October 2026;
+- `designer.live.warning.groupBandNoLevel`, `designer.live.warning.lookupTruncated` and `list.exportMissing` in digita-report-frontend were written in en and de in October 2026;
   its es, fr, it and tr were machine-made then, and no person has read them yet.
 - `action_not_available` in digita-engine was machine-made in every language in September 2026, and no
   person has read it yet.

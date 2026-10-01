@@ -51,6 +51,7 @@
   "list.selectAll.label": "Alle",
   "list.export": "Exportieren",
   "list.exportCount": "Exportieren ({count})",
+  "list.exportMissing": "Nicht exportiert, nicht mehr vorhanden: {names}",
   "list.view.cards": "Kartenansicht",
   "list.view.table": "Tabellenansicht",
   "list.tags.less": "weniger anzeigen",
