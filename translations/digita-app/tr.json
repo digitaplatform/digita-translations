@@ -257,6 +257,7 @@
   "ui.attach.uploadFailed": "Yükleme başarısız",
   "ui.link.searching": "Aranıyor…",
   "ui.link.searchEntity": "{entity} ara…",
+  "ui.link.searchField": "{field} ara…",
   "ui.geo.longitude": "Boylam",
   "ui.geo.latitude": "Enlem",
   "ui.barcode.placeholder": "Barkod tara veya yaz",

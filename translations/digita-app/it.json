@@ -257,6 +257,7 @@
   "ui.attach.uploadFailed": "Caricamento non riuscito",
   "ui.link.searching": "Ricerca in corso…",
   "ui.link.searchEntity": "Cerca {entity}…",
+  "ui.link.searchField": "Cerca {field}…",
   "ui.geo.longitude": "Longitudine",
   "ui.geo.latitude": "Latitudine",
   "ui.barcode.placeholder": "Scansiona o digita il codice a barre",

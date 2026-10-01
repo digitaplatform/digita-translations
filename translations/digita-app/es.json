@@ -257,6 +257,7 @@
   "ui.attach.uploadFailed": "Error al subir",
   "ui.link.searching": "Buscando…",
   "ui.link.searchEntity": "Buscar {entity}…",
+  "ui.link.searchField": "Buscar {field}…",
   "ui.geo.longitude": "Longitud",
   "ui.geo.latitude": "Latitud",
   "ui.barcode.placeholder": "Escanea o escribe el código de barras",
