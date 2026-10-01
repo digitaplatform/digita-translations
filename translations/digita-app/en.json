@@ -85,6 +85,7 @@
   "ui.record.reloadLatest": "Reload latest",
   "ui.record.readonlySubmitted": "Submitted — read-only",
   "ui.record.readonlyCancelled": "Cancelled — read-only",
+  "ui.record.fetchFromFailed": "{fields} could not be filled from this record: {error}",
   "ui.entity.notFound": "Entity not found",
   "ui.form.noFields": "No fields to display.",
   "ui.form.tabGeneral": "General",

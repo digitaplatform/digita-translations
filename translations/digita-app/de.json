@@ -85,6 +85,7 @@
   "ui.record.reloadLatest": "Neueste laden",
   "ui.record.readonlySubmitted": "Eingereicht — schreibgeschützt",
   "ui.record.readonlyCancelled": "Storniert — schreibgeschützt",
+  "ui.record.fetchFromFailed": "{fields} konnte nicht aus diesem Datensatz übernommen werden: {error}",
   "ui.entity.notFound": "Entität nicht gefunden",
   "ui.form.noFields": "Keine Felder vorhanden.",
   "ui.form.tabGeneral": "Allgemein",

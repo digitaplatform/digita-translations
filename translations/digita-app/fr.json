@@ -85,6 +85,7 @@
   "ui.record.reloadLatest": "Recharger la dernière version",
   "ui.record.readonlySubmitted": "Soumis — lecture seule",
   "ui.record.readonlyCancelled": "Annulé — lecture seule",
+  "ui.record.fetchFromFailed": "Impossible de remplir {fields} à partir de cet enregistrement : {error}",
   "ui.entity.notFound": "Entité introuvable",
   "ui.form.noFields": "Aucun champ à afficher.",
   "ui.form.tabGeneral": "Général",
