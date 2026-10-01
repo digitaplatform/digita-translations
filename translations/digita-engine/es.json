@@ -114,6 +114,7 @@
   "file_replaced": "Archivo reemplazado correctamente",
   "file_deleted": "Archivo eliminado",
   "file_not_found": "Archivo no encontrado",
+  "file_width_not_offered": "Este ancho de imagen no está disponible",
   "action_not_found": "Acción \"{action}\" no encontrada",
   "action_not_available": "{action} no está disponible para este documento",
   "entity.BrandingSetting": "Apariencia y marca",

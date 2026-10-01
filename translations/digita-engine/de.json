@@ -114,6 +114,7 @@
   "file_replaced": "Datei erfolgreich ersetzt",
   "file_deleted": "Datei gelöscht",
   "file_not_found": "Datei nicht gefunden",
+  "file_width_not_offered": "Diese Bildbreite wird nicht angeboten",
   "action_not_found": "Aktion \"{action}\" nicht gefunden",
   "action_not_available": "{action} ist für dieses Dokument nicht verfügbar",
   "entity.BrandingSetting": "Erscheinungsbild & Branding",
