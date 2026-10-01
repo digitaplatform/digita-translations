@@ -559,6 +559,7 @@
   "designer.live.warning.barcodeNoRenderer": "No barcode renderer is available for \"{symbology}\" — not drawn.",
   "designer.live.warning.barcodeFailed": "Barcode \"{symbology}\" failed: {detail}",
   "designer.live.warning.orphanBand": "{bandType} band \"{bandId}\" has no matching section — not shown.",
+  "designer.live.warning.groupBandNoLevel": "{bandType} band \"{bandId}\" is for group level {level}, but section \"{section}\" has only {groups} group level(s) — not shown.",
   "designer.live.warning.matrixNoCollection": "Matrix \"{objectId}\" has no collection — set one in its properties.",
   "designer.live.warning.gaugeNotNumeric": "Gauge \"{objectId}\" in band \"{bandId}\": the value is not a number.",
   "designer.live.warning.bandTooLarge": "Band \"{bandId}\" ({heightMm}mm) is taller than the page — printed oversized.",

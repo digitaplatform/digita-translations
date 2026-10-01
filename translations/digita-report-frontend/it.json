@@ -559,6 +559,7 @@
   "designer.live.warning.barcodeNoRenderer": "Nessun generatore di codici a barre disponibile per \"{symbology}\" — non disegnato.",
   "designer.live.warning.barcodeFailed": "Codice a barre \"{symbology}\" non riuscito: {detail}",
   "designer.live.warning.orphanBand": "La banda {bandType} \"{bandId}\" non ha una sezione corrispondente — non mostrata.",
+  "designer.live.warning.groupBandNoLevel": "La banda {bandType} \"{bandId}\" appartiene al livello di gruppo {level}, ma la sezione \"{section}\" ha solo {groups} livello/i di gruppo — non mostrata.",
   "designer.live.warning.matrixNoCollection": "La matrice \"{objectId}\" non ha una raccolta — impostala nelle proprietà.",
   "designer.live.warning.gaugeNotNumeric": "Indicatore \"{objectId}\" nella banda \"{bandId}\": il valore non è un numero.",
   "designer.live.warning.bandTooLarge": "La banda \"{bandId}\" ({heightMm}mm) è più alta della pagina — stampata in overflow.",
