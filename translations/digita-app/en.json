@@ -340,5 +340,8 @@
   "ui.jobs.runTitle": "Run now",
   "ui.jobs.scheduleTitle": "Schedule",
   "ui.jobs.scheduleSaved": "Schedule saved.",
-  "ui.jobs.save": "Save"
+  "ui.jobs.save": "Save",
+  "ui.jobs.jobsLoadFailed": "Failed to load saved jobs",
+  "ui.jobs.runsLoadFailed": "Failed to load runs",
+  "ui.jobs.tasksLoadFailed": "Failed to load the tasks of {entity}"
 }

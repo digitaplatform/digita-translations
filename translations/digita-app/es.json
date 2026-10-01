@@ -340,5 +340,8 @@
   "ui.jobs.runTitle": "Ejecutar ahora",
   "ui.jobs.scheduleTitle": "Programación",
   "ui.jobs.scheduleSaved": "Programación guardada.",
-  "ui.jobs.save": "Guardar"
+  "ui.jobs.save": "Guardar",
+  "ui.jobs.jobsLoadFailed": "No se pudieron cargar las tareas guardadas",
+  "ui.jobs.runsLoadFailed": "No se pudieron cargar las ejecuciones",
+  "ui.jobs.tasksLoadFailed": "No se pudieron cargar las tareas de {entity}"
 }
