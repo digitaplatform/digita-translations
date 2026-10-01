@@ -18,6 +18,8 @@
   "ui.action.confirmDeleteTitle": "Delete this record?",
   "ui.action.confirmDeleteBody": "This permanently removes the record and cannot be undone.",
   "ui.action.confirmActionTitle": "Run “{action}”?",
+  "ui.action.actionSucceeded": "“{action}” completed",
+  "ui.action.actionCreated": "{entity} {name} created",
   "ui.attach.remove": "Remove file",
   "ui.attach.choose": "Choose file",
   "ui.attach.removeConfirmTitle": "Remove file?",
