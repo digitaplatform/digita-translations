@@ -89,6 +89,7 @@
   "ui.record.readonlyCancelled": "Cancelled — read-only",
   "ui.record.fetchFromFailed": "{fields} could not be filled from this record: {error}",
   "ui.record.pickedRowNotFound": "The picked row no longer exists",
+  "ui.record.copy": "Copy",
   "ui.entity.notFound": "Entity not found",
   "ui.form.noFields": "No fields to display.",
   "ui.form.tabGeneral": "General",

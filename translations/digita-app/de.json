@@ -89,6 +89,7 @@
   "ui.record.readonlyCancelled": "Storniert — schreibgeschützt",
   "ui.record.fetchFromFailed": "{fields} konnte nicht aus diesem Datensatz übernommen werden: {error}",
   "ui.record.pickedRowNotFound": "Die gewählte Zeile gibt es nicht mehr",
+  "ui.record.copy": "Kopieren",
   "ui.entity.notFound": "Entität nicht gefunden",
   "ui.form.noFields": "Keine Felder vorhanden.",
   "ui.form.tabGeneral": "Allgemein",
