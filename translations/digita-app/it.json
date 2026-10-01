@@ -11,6 +11,8 @@
   "ui.action.close": "Chiudi",
   "ui.action.delete": "Elimina",
   "ui.action.print": "Stampa",
+  "ui.report.reloadPreview": "Ricarica anteprima",
+  "ui.report.openInNewTab": "Apri in una nuova scheda",
   "ui.action.confirmSaveTitle": "Salvare le modifiche?",
   "ui.action.confirmSaveBody": "Applica le modifiche.",
   "ui.action.confirmDeleteTitle": "Eliminare questo record?",

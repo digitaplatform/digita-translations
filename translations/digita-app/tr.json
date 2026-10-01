@@ -11,6 +11,8 @@
   "ui.action.close": "Kapat",
   "ui.action.delete": "Sil",
   "ui.action.print": "Yazdır",
+  "ui.report.reloadPreview": "Önizlemeyi yeniden yükle",
+  "ui.report.openInNewTab": "Yeni sekmede aç",
   "ui.action.confirmSaveTitle": "Değişiklikler kaydedilsin mi?",
   "ui.action.confirmSaveBody": "Değişikliklerini uygula.",
   "ui.action.confirmDeleteTitle": "Bu kayıt silinsin mi?",

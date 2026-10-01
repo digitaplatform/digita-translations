@@ -11,6 +11,8 @@
   "ui.action.close": "Cerrar",
   "ui.action.delete": "Eliminar",
   "ui.action.print": "Imprimir",
+  "ui.report.reloadPreview": "Recargar vista previa",
+  "ui.report.openInNewTab": "Abrir en una pestaña nueva",
   "ui.action.confirmSaveTitle": "¿Guardar cambios?",
   "ui.action.confirmSaveBody": "Aplicar tus cambios.",
   "ui.action.confirmDeleteTitle": "¿Eliminar este registro?",

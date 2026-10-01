@@ -11,6 +11,8 @@
   "ui.action.close": "Close",
   "ui.action.delete": "Delete",
   "ui.action.print": "Print",
+  "ui.report.reloadPreview": "Reload preview",
+  "ui.report.openInNewTab": "Open in new tab",
   "ui.action.confirmSaveTitle": "Save changes?",
   "ui.action.confirmSaveBody": "Apply your changes.",
   "ui.action.confirmDeleteTitle": "Delete this record?",

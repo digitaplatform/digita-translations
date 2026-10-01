@@ -11,6 +11,8 @@
   "ui.action.close": "Fermer",
   "ui.action.delete": "Supprimer",
   "ui.action.print": "Imprimer",
+  "ui.report.reloadPreview": "Recharger l'aperçu",
+  "ui.report.openInNewTab": "Ouvrir dans un nouvel onglet",
   "ui.action.confirmSaveTitle": "Enregistrer les modifications ?",
   "ui.action.confirmSaveBody": "Appliquez vos modifications.",
   "ui.action.confirmDeleteTitle": "Supprimer cet enregistrement ?",

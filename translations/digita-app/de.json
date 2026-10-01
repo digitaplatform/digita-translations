@@ -11,6 +11,8 @@
   "ui.action.close": "Schließen",
   "ui.action.delete": "Löschen",
   "ui.action.print": "Drucken",
+  "ui.report.reloadPreview": "Vorschau neu laden",
+  "ui.report.openInNewTab": "In neuem Tab öffnen",
   "ui.action.confirmSaveTitle": "Änderungen speichern?",
   "ui.action.confirmSaveBody": "Deine Änderungen übernehmen.",
   "ui.action.confirmDeleteTitle": "Diesen Datensatz löschen?",
