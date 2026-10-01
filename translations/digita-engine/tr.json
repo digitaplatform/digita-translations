@@ -358,6 +358,7 @@
   "entity_plural.View": "Görünümler",
   "entity_plural.Workspace": "Çalışma alanları",
   "description.BrandingSetting.app_name": "Operatör arayüzü kabuğunda ve oturum açmada gösterilir. Platform adına geri döner.",
+  "description.BrandingSetting.density": "Kendi yoğunluğunu seçmemiş herkesin yoğunluğu. Boş: her cihazın varsayılanı.",
   "description.BrandingSetting.default_signature": "Bu uygulamanın her kullanıcısının gördüğü görünüm (imza). Boş: Digita.",
   "description.BrandingSetting.web_default_signature": "Bu müşterinin kendi görünümünü belirtmeyen her web sitesinin görünümü (imza). Boş: Digita.",
   "description.BrandingSetting.default_template": "Varsayılan kabuk şablonu kimliği (örn. 'classic').",

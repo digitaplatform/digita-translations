@@ -40,6 +40,8 @@ placeholders as `{name}`.
 - `field.BrandingSetting.default_signature` and `description.BrandingSetting.default_signature` in
   digita-engine were written in en and de in October 2026; their es, fr, it and tr were machine-made
   then, and no person has read them yet.
+- `description.BrandingSetting.density` in digita-engine was written in en and de in October 2026;
+  its es, fr, it and tr were machine-made then, and no person has read them yet.
 - `field.BrandingSetting.web_default_signature` and `description.BrandingSetting.web_default_signature`
   in digita-engine, and the label "App Signature" of `field.BrandingSetting.default_signature`, were
   written in en and de in October 2026; their es, fr, it and tr were machine-made then, and no person

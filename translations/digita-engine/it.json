@@ -358,6 +358,7 @@
   "entity_plural.View": "Viste",
   "entity_plural.Workspace": "Aree di lavoro",
   "description.BrandingSetting.app_name": "Mostrato nella shell della UI dell'operatore + accesso. Ricade sul nome della piattaforma.",
+  "description.BrandingSetting.density": "La densità di chi non ne ha scelta una propria. Vuoto: quella predefinita di ogni dispositivo.",
   "description.BrandingSetting.default_signature": "L'aspetto (firma) che vede ogni utente di questa app. Vuoto: Digita.",
   "description.BrandingSetting.web_default_signature": "L'aspetto (firma) di ogni sito web di questo cliente che non ne indica uno proprio. Vuoto: Digita.",
   "description.BrandingSetting.default_template": "Id del modello di shell predefinito (es. 'classic').",

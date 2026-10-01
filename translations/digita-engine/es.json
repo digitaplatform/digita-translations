@@ -358,6 +358,7 @@
   "entity_plural.View": "Vistas",
   "entity_plural.Workspace": "Espacios de trabajo",
   "description.BrandingSetting.app_name": "Se muestra en el shell de la UI del operador + el inicio de sesión. Recurre al nombre de la plataforma.",
+  "description.BrandingSetting.density": "La densidad de todos los que no eligieron una propia. Vacío: la predeterminada de cada dispositivo.",
   "description.BrandingSetting.default_signature": "El aspecto (firma) que ve cada usuario de esta app. Vacío: Digita.",
   "description.BrandingSetting.web_default_signature": "El aspecto (firma) de cada sitio web de este cliente que no indica uno propio. Vacío: Digita.",
   "description.BrandingSetting.default_template": "Id de plantilla de shell predeterminada (p. ej. 'classic').",
