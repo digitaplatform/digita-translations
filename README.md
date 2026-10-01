@@ -41,6 +41,8 @@ placeholders as `{name}`.
   read it yet.
 - `ui.lang.textsNotLoaded` in digita-app was machine-made in every language in October 2026, and no
   person has read it yet.
+- `ui.record.fetchFromFailed` and `ui.workflow.transitionConfirm` in digita-app were machine-made in every
+  language in October 2026, and no person has read them yet.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 
