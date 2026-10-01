@@ -54,6 +54,5 @@
   "recordFormTooMany": "Çok fazla form gönderdiniz. Lütfen {time} yeniden deneyin.",
   "appListOpen": "Aç",
   "appListDemo": "Demoya gir",
-  "appListEmpty": "Henüz uygulama yok.",
   "appListUnknown": "Uygulamalar bu sitede listelenmiyor."
 }
