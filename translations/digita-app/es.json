@@ -364,5 +364,9 @@
   "ui.jobs.save": "Guardar",
   "ui.jobs.jobsLoadFailed": "No se pudieron cargar las tareas guardadas",
   "ui.jobs.runsLoadFailed": "No se pudieron cargar las ejecuciones",
-  "ui.jobs.tasksLoadFailed": "No se pudieron cargar las tareas de {entity}"
+  "ui.jobs.tasksLoadFailed": "No se pudieron cargar las tareas de {entity}",
+  "ui.usermenu.empty": "No hay navegación asignada.",
+  "ui.usermenu.loadFailed": "No se pudo cargar la navegación.",
+  "ui.usermenu.loading": "Cargando la navegación",
+  "ui.usermenu.label": "Navegación principal"
 }

@@ -73,6 +73,9 @@ placeholders as `{name}`.
   stay until no stage runs a digita-app build that reads them.
 - `ui.jobs.scheduleCleared` in digita-app was machine-made in every language in October 2026, and no
   person has read it yet.
+- `ui.usermenu.empty`, `ui.usermenu.loading` and `ui.usermenu.label` in digita-app take their en from the
+  texts the usermenu plugin showed before; their other languages and every language of
+  `ui.usermenu.loadFailed` were machine-made in October 2026, and no person has read them yet.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 
