@@ -358,7 +358,7 @@
   "entity_plural.View": "Ansichten",
   "entity_plural.Workspace": "Arbeitsbereiche",
   "description.BrandingSetting.app_name": "Wird in der Operator-UI-Shell + beim Login angezeigt. Greift auf den Plattformnamen zurück.",
-  "description.BrandingSetting.default_signature": "Das Aussehen (Signatur), mit dem jede Person in dieser App startet, bis sie im Menü „Signatur“ ein eigenes wählt. Leer: Digita.",
+  "description.BrandingSetting.default_signature": "Das Aussehen (Signatur), das jede Person in dieser App sieht. Leer: Digita.",
   "description.BrandingSetting.default_template": "Standard-Shell-Template-ID (z. B. 'classic').",
   "description.BrandingSetting.primary_color": "Markenprimärfarbe; wird zur Laufzeit auf die nächstgelegene Akzentpalette gerundet.",
   "description.DocShare.shared_by": "Benutzer-ID (E-Mail) des Freigebenden — aus den JWT-Claims gesetzt.",

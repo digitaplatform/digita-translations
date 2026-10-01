@@ -358,7 +358,7 @@
   "entity_plural.View": "Viste",
   "entity_plural.Workspace": "Aree di lavoro",
   "description.BrandingSetting.app_name": "Mostrato nella shell della UI dell'operatore + accesso. Ricade sul nome della piattaforma.",
-  "description.BrandingSetting.default_signature": "L'aspetto (firma) con cui ogni utente di questa app inizia, finché non sceglie il proprio nel menu “Firma”. Vuoto: Digita.",
+  "description.BrandingSetting.default_signature": "L'aspetto (firma) che vede ogni utente di questa app. Vuoto: Digita.",
   "description.BrandingSetting.default_template": "Id del modello di shell predefinito (es. 'classic').",
   "description.BrandingSetting.primary_color": "Colore primario del brand; adattato alla palette d'accento più vicina in fase di esecuzione.",
   "description.DocShare.shared_by": "Id utente (email) di chi condivide — impresso dai claim del JWT.",

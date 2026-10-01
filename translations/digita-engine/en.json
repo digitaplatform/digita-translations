@@ -358,7 +358,7 @@
   "entity_plural.View": "Views",
   "entity_plural.Workspace": "Workspaces",
   "description.BrandingSetting.app_name": "Shown in the operator UI shell + login. Falls back to the platform name.",
-  "description.BrandingSetting.default_signature": "The look (signature) every user of this app starts on until they pick their own in the Signature menu. Empty: Digita.",
+  "description.BrandingSetting.default_signature": "The look (signature) every user of this app sees. Empty: Digita.",
   "description.BrandingSetting.default_template": "Default shell template id (e.g. 'classic').",
   "description.BrandingSetting.primary_color": "Brand primary; snapped to the nearest accent palette at runtime.",
   "description.DocShare.shared_by": "User id (email) of the sharer — stamped from the JWT claims.",

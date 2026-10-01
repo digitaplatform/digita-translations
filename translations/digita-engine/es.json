@@ -358,7 +358,7 @@
   "entity_plural.View": "Vistas",
   "entity_plural.Workspace": "Espacios de trabajo",
   "description.BrandingSetting.app_name": "Se muestra en el shell de la UI del operador + el inicio de sesión. Recurre al nombre de la plataforma.",
-  "description.BrandingSetting.default_signature": "El aspecto (firma) con el que empieza cada usuario de esta app hasta que elige el suyo en el menú “Firma”. Vacío: Digita.",
+  "description.BrandingSetting.default_signature": "El aspecto (firma) que ve cada usuario de esta app. Vacío: Digita.",
   "description.BrandingSetting.default_template": "Id de plantilla de shell predeterminada (p. ej. 'classic').",
   "description.BrandingSetting.primary_color": "Color primario de marca; ajustado a la paleta de acento más cercana en tiempo de ejecución.",
   "description.DocShare.shared_by": "Id de usuario (correo electrónico) de quien comparte — estampado de los claims del JWT.",
