@@ -346,6 +346,7 @@
   "ui.jobs.runTitle": "Esegui ora",
   "ui.jobs.scheduleTitle": "Pianificazione",
   "ui.jobs.scheduleSaved": "Pianificazione salvata.",
+  "ui.jobs.scheduleCleared": "Salvato. L'attività ora viene eseguita solo quando avviata a mano.",
   "ui.jobs.save": "Salva",
   "ui.jobs.jobsLoadFailed": "Caricamento delle attività salvate non riuscito",
   "ui.jobs.runsLoadFailed": "Caricamento delle esecuzioni non riuscito",

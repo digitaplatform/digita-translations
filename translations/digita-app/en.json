@@ -346,6 +346,7 @@
   "ui.jobs.runTitle": "Run now",
   "ui.jobs.scheduleTitle": "Schedule",
   "ui.jobs.scheduleSaved": "Schedule saved.",
+  "ui.jobs.scheduleCleared": "Saved. The job now runs only when started by hand.",
   "ui.jobs.save": "Save",
   "ui.jobs.jobsLoadFailed": "Failed to load saved jobs",
   "ui.jobs.runsLoadFailed": "Failed to load runs",

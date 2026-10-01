@@ -65,6 +65,8 @@ placeholders as `{name}`.
   `ui.datepicker.nextYears` in digita-app were machine-made in every language in October 2026, and no
   person has read them yet. They replace `ui.datepicker.previous` and `ui.datepicker.next`, which
   stay until no stage runs a digita-app build that reads them.
+- `ui.jobs.scheduleCleared` in digita-app was machine-made in every language in October 2026, and no
+  person has read it yet.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 
