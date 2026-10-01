@@ -59,6 +59,8 @@ placeholders as `{name}`.
   machine-made in every language in October 2026, and no person has read them yet.
 - `ui.jobs.edit` in digita-app was machine-made in every language in October 2026, and no person has
   read it yet.
+- `ui.jobs.scheduleCleared` in digita-app was machine-made in every language in October 2026, and no
+  person has read it yet.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 

@@ -341,6 +341,7 @@
   "ui.jobs.runTitle": "Exécuter",
   "ui.jobs.scheduleTitle": "Planification",
   "ui.jobs.scheduleSaved": "Planification enregistrée.",
+  "ui.jobs.scheduleCleared": "Enregistré. La tâche ne s'exécute plus que lorsqu'elle est lancée à la main.",
   "ui.jobs.save": "Enregistrer",
   "ui.jobs.jobsLoadFailed": "Échec du chargement des tâches enregistrées",
   "ui.jobs.runsLoadFailed": "Échec du chargement des exécutions",
