@@ -114,6 +114,7 @@
   "file_replaced": "Fichier remplacé avec succès",
   "file_deleted": "Fichier supprimé",
   "file_not_found": "Fichier introuvable",
+  "file_width_not_offered": "Cette largeur d'image n'est pas proposée",
   "action_not_found": "Action \"{action}\" introuvable",
   "action_not_available": "{action} n'est pas disponible pour ce document",
   "entity.BrandingSetting": "Apparence et image de marque",
