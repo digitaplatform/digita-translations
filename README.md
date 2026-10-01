@@ -40,6 +40,10 @@ placeholders as `{name}`.
 - `field.BrandingSetting.default_signature` and `description.BrandingSetting.default_signature` in
   digita-engine were written in en and de in October 2026; their es, fr, it and tr were machine-made
   then, and no person has read them yet.
+- `field.BrandingSetting.web_default_signature` and `description.BrandingSetting.web_default_signature`
+  in digita-engine, and the label "App Signature" of `field.BrandingSetting.default_signature`, were
+  written in en and de in October 2026; their es, fr, it and tr were machine-made then, and no person
+  has read them yet.
 - `ui.tree.select` in digita-app was machine-made in every language in September 2026, and no person has
   read it yet.
 - `ui.lang.textsNotLoaded` in digita-app was machine-made in every language in October 2026, and no
