@@ -54,5 +54,6 @@
   "recordFormTooMany": "Ha enviado demasiados formularios. Inténtelo de nuevo {time}.",
   "appListOpen": "Abrir",
   "appListDemo": "Entrar en la demo",
-  "appListEmpty": "Todavía no hay aplicaciones."
+  "appListEmpty": "Todavía no hay aplicaciones.",
+  "appListUnknown": "Las aplicaciones no figuran en este sitio."
 }

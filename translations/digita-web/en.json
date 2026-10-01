@@ -54,5 +54,6 @@
   "recordFormTooMany": "You have sent too many forms. Please try again {time}.",
   "appListOpen": "Open",
   "appListDemo": "Enter the demo",
-  "appListEmpty": "No apps yet."
+  "appListEmpty": "No apps yet.",
+  "appListUnknown": "The apps are not listed on this site."
 }
