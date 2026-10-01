@@ -281,6 +281,7 @@
   "ui.datepicker.nextMonth": "Mese successivo",
   "ui.datepicker.previousYears": "Anni precedenti",
   "ui.datepicker.nextYears": "Anni successivi",
+  "ui.datetime.time": "Ora",
   "ui.attach.uploadFailed": "Caricamento non riuscito",
   "ui.link.searching": "Ricerca in corso…",
   "ui.link.searchEntity": "Cerca {entity}…",

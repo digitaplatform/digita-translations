@@ -281,6 +281,7 @@
   "ui.datepicker.nextMonth": "Sonraki ay",
   "ui.datepicker.previousYears": "Önceki yıllar",
   "ui.datepicker.nextYears": "Sonraki yıllar",
+  "ui.datetime.time": "Saat",
   "ui.attach.uploadFailed": "Yükleme başarısız",
   "ui.link.searching": "Aranıyor…",
   "ui.link.searchEntity": "{entity} ara…",
