@@ -85,6 +85,7 @@
   "ui.record.reloadLatest": "Ricarica l'ultima versione",
   "ui.record.readonlySubmitted": "Inviato — sola lettura",
   "ui.record.readonlyCancelled": "Annullato — sola lettura",
+  "ui.record.fetchFromFailed": "Impossibile compilare {fields} da questo record: {error}",
   "ui.entity.notFound": "Entità non trovata",
   "ui.form.noFields": "Nessun campo da visualizzare.",
   "ui.form.tabGeneral": "Generale",

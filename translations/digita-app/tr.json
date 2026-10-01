@@ -85,6 +85,7 @@
   "ui.record.reloadLatest": "En güncelini yükle",
   "ui.record.readonlySubmitted": "Onaylandı — salt okunur",
   "ui.record.readonlyCancelled": "İptal edildi — salt okunur",
+  "ui.record.fetchFromFailed": "{fields} bu kayıttan doldurulamadı: {error}",
   "ui.entity.notFound": "Varlık bulunamadı",
   "ui.form.noFields": "Gösterilecek alan yok.",
   "ui.form.tabGeneral": "Genel",
