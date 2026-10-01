@@ -52,6 +52,7 @@
   "users.roles.appRole": "Ruolo di {app}",
   "users.roles.add": "Aggiungi",
   "users.roles.appRoleHint": "Digita il ruolo dell'app esattamente come lo scrive l'app, per esempio Librarian.",
+  "users.roles.notAssignable": "Non più assegnabile. Deselezionalo, poi salva.",
   "users.bulk.enable": "Attiva",
   "users.bulk.disable": "Disattiva",
   "users.bulk.delete": "Elimina",

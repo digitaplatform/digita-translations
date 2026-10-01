@@ -52,6 +52,7 @@
   "users.roles.appRole": "{app} rolü",
   "users.roles.add": "Ekle",
   "users.roles.appRoleHint": "Uygulamanın rolünü tam olarak uygulamanın yazdığı gibi girin, örneğin Librarian.",
+  "users.roles.notAssignable": "Artık atanamaz. İşareti kaldırın, sonra kaydedin.",
   "users.bulk.enable": "Etkinleştir",
   "users.bulk.disable": "Devre dışı bırak",
   "users.bulk.delete": "Sil",
