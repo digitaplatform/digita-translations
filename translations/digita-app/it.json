@@ -344,5 +344,9 @@
   "ui.jobs.save": "Salva",
   "ui.jobs.jobsLoadFailed": "Caricamento delle attività salvate non riuscito",
   "ui.jobs.runsLoadFailed": "Caricamento delle esecuzioni non riuscito",
-  "ui.jobs.tasksLoadFailed": "Caricamento delle attività di {entity} non riuscito"
+  "ui.jobs.tasksLoadFailed": "Caricamento delle attività di {entity} non riuscito",
+  "ui.usermenu.empty": "Nessuna navigazione assegnata.",
+  "ui.usermenu.loadFailed": "Impossibile caricare la navigazione.",
+  "ui.usermenu.loading": "Caricamento della navigazione",
+  "ui.usermenu.label": "Navigazione principale"
 }

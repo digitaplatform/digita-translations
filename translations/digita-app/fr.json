@@ -344,5 +344,9 @@
   "ui.jobs.save": "Enregistrer",
   "ui.jobs.jobsLoadFailed": "Échec du chargement des tâches enregistrées",
   "ui.jobs.runsLoadFailed": "Échec du chargement des exécutions",
-  "ui.jobs.tasksLoadFailed": "Échec du chargement des tâches de {entity}"
+  "ui.jobs.tasksLoadFailed": "Échec du chargement des tâches de {entity}",
+  "ui.usermenu.empty": "Aucune navigation attribuée.",
+  "ui.usermenu.loadFailed": "La navigation n'a pas pu être chargée.",
+  "ui.usermenu.loading": "Chargement de la navigation",
+  "ui.usermenu.label": "Navigation principale"
 }

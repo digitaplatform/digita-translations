@@ -344,5 +344,9 @@
   "ui.jobs.save": "Kaydet",
   "ui.jobs.jobsLoadFailed": "Kayıtlı işler yüklenemedi",
   "ui.jobs.runsLoadFailed": "Çalışmalar yüklenemedi",
-  "ui.jobs.tasksLoadFailed": "{entity} görevleri yüklenemedi"
+  "ui.jobs.tasksLoadFailed": "{entity} görevleri yüklenemedi",
+  "ui.usermenu.empty": "Atanmış gezinme yok.",
+  "ui.usermenu.loadFailed": "Gezinme yüklenemedi.",
+  "ui.usermenu.loading": "Gezinme yükleniyor",
+  "ui.usermenu.label": "Ana gezinme"
 }

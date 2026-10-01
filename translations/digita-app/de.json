@@ -344,5 +344,9 @@
   "ui.jobs.save": "Speichern",
   "ui.jobs.jobsLoadFailed": "Gespeicherte Jobs konnten nicht geladen werden",
   "ui.jobs.runsLoadFailed": "Läufe konnten nicht geladen werden",
-  "ui.jobs.tasksLoadFailed": "Aufgaben von {entity} konnten nicht geladen werden"
+  "ui.jobs.tasksLoadFailed": "Aufgaben von {entity} konnten nicht geladen werden",
+  "ui.usermenu.empty": "Keine Navigation zugewiesen.",
+  "ui.usermenu.loadFailed": "Die Navigation konnte nicht geladen werden.",
+  "ui.usermenu.loading": "Navigation wird geladen",
+  "ui.usermenu.label": "Hauptnavigation"
 }
