@@ -267,6 +267,7 @@
   "ui.datepicker.nextMonth": "Next month",
   "ui.datepicker.previousYears": "Previous years",
   "ui.datepicker.nextYears": "Next years",
+  "ui.datetime.time": "Time",
   "ui.attach.uploadFailed": "Upload failed",
   "ui.link.searching": "Searching…",
   "ui.link.searchEntity": "Search {entity}…",
