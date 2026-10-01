@@ -89,6 +89,7 @@
   "ui.record.readonlyCancelled": "İptal edildi — salt okunur",
   "ui.record.fetchFromFailed": "{fields} bu kayıttan doldurulamadı: {error}",
   "ui.record.pickedRowNotFound": "Seçilen satır artık yok",
+  "ui.record.copy": "Kopyala",
   "ui.entity.notFound": "Varlık bulunamadı",
   "ui.form.noFields": "Gösterilecek alan yok.",
   "ui.form.tabGeneral": "Genel",

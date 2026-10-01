@@ -89,6 +89,7 @@
   "ui.record.readonlyCancelled": "Cancelado — solo lectura",
   "ui.record.fetchFromFailed": "No se pudo rellenar {fields} a partir de este registro: {error}",
   "ui.record.pickedRowNotFound": "La fila elegida ya no existe",
+  "ui.record.copy": "Copiar",
   "ui.entity.notFound": "Entidad no encontrada",
   "ui.form.noFields": "No hay campos para mostrar.",
   "ui.form.tabGeneral": "General",
