@@ -309,6 +309,7 @@
   "ui.jobs.manual": "manuel",
   "ui.jobs.disabled": "devre dışı",
   "ui.jobs.runNow": "Şimdi çalıştır",
+  "ui.jobs.edit": "Düzenle",
   "ui.jobs.runQueued": "Çalışma kuyruğa alındı.",
   "ui.jobs.deleteConfirm": "Bu görev silinsin mi?",
   "ui.jobs.cancel": "Çalışmayı iptal et",

@@ -309,6 +309,7 @@
   "ui.jobs.manual": "manual",
   "ui.jobs.disabled": "disabled",
   "ui.jobs.runNow": "Run now",
+  "ui.jobs.edit": "Edit",
   "ui.jobs.runQueued": "Run queued.",
   "ui.jobs.deleteConfirm": "Delete this job?",
   "ui.jobs.cancel": "Cancel run",
