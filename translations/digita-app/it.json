@@ -18,6 +18,8 @@
   "ui.action.confirmDeleteTitle": "Eliminare questo record?",
   "ui.action.confirmDeleteBody": "Questa operazione rimuove definitivamente il record e non può essere annullata.",
   "ui.action.confirmActionTitle": "Eseguire “{action}”?",
+  "ui.action.actionSucceeded": "Azione “{action}” eseguita",
+  "ui.action.actionCreated": "Documento creato: {entity} {name}",
   "ui.attach.remove": "Rimuovi file",
   "ui.attach.choose": "Scegli file",
   "ui.attach.removeConfirmTitle": "Rimuovere il file?",

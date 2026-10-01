@@ -18,6 +18,8 @@
   "ui.action.confirmDeleteTitle": "¿Eliminar este registro?",
   "ui.action.confirmDeleteBody": "Esto elimina el registro de forma permanente y no se puede deshacer.",
   "ui.action.confirmActionTitle": "¿Ejecutar “{action}”?",
+  "ui.action.actionSucceeded": "Acción “{action}” ejecutada",
+  "ui.action.actionCreated": "Documento creado: {entity} {name}",
   "ui.attach.remove": "Quitar archivo",
   "ui.attach.choose": "Elegir archivo",
   "ui.attach.removeConfirmTitle": "¿Quitar archivo?",

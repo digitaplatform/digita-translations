@@ -18,6 +18,8 @@
   "ui.action.confirmDeleteTitle": "Supprimer cet enregistrement ?",
   "ui.action.confirmDeleteBody": "Cette action supprime définitivement l'enregistrement et est irréversible.",
   "ui.action.confirmActionTitle": "Exécuter « {action} » ?",
+  "ui.action.actionSucceeded": "Action « {action} » exécutée",
+  "ui.action.actionCreated": "Document créé : {entity} {name}",
   "ui.attach.remove": "Supprimer le fichier",
   "ui.attach.choose": "Choisir un fichier",
   "ui.attach.removeConfirmTitle": "Supprimer le fichier ?",

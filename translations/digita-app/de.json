@@ -18,6 +18,8 @@
   "ui.action.confirmDeleteTitle": "Diesen Datensatz löschen?",
   "ui.action.confirmDeleteBody": "Der Datensatz wird dauerhaft entfernt und kann nicht wiederhergestellt werden.",
   "ui.action.confirmActionTitle": "„{action}“ ausführen?",
+  "ui.action.actionSucceeded": "„{action}“ ausgeführt",
+  "ui.action.actionCreated": "{entity} {name} erstellt",
   "ui.attach.remove": "Datei entfernen",
   "ui.attach.choose": "Datei auswählen",
   "ui.attach.removeConfirmTitle": "Datei entfernen?",

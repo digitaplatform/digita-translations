@@ -18,6 +18,8 @@
   "ui.action.confirmDeleteTitle": "Bu kayıt silinsin mi?",
   "ui.action.confirmDeleteBody": "Bu, kaydı kalıcı olarak siler ve geri alınamaz.",
   "ui.action.confirmActionTitle": "“{action}” çalıştırılsın mı?",
+  "ui.action.actionSucceeded": "“{action}” çalıştırıldı",
+  "ui.action.actionCreated": "{entity} {name} oluşturuldu",
   "ui.attach.remove": "Dosyayı kaldır",
   "ui.attach.choose": "Dosya seç",
   "ui.attach.removeConfirmTitle": "Dosya kaldırılsın mı?",
