@@ -97,6 +97,7 @@
   "ui.workflow.saveFirst": "Önce değişikliklerini kaydet",
   "ui.workflow.amend": "Düzelt",
   "ui.workflow.amendConfirm": "Bu iptal edilmiş belge yeni, düzenlenebilir bir taslağa dönüştürülsün mü?",
+  "ui.workflow.transitionConfirm": "Bu belge “{state}” durumuna geçirilsin mi?",
   "ui.table.addRow": "Satır ekle",
   "ui.table.removeRow": "Kaldır",
   "ui.table.duplicateRow": "Çoğalt",

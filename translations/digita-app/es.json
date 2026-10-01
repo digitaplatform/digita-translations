@@ -97,6 +97,7 @@
   "ui.workflow.saveFirst": "Guarda tus cambios primero",
   "ui.workflow.amend": "Enmendar",
   "ui.workflow.amendConfirm": "¿Enmendar este documento anulado en un nuevo borrador editable?",
+  "ui.workflow.transitionConfirm": "¿Pasar este documento a “{state}”?",
   "ui.table.addRow": "Añadir fila",
   "ui.table.removeRow": "Quitar",
   "ui.table.duplicateRow": "Duplicar",
