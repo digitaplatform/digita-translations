@@ -131,7 +131,6 @@
   "entity.View": "Görünüm",
   "entity.Workspace": "Çalışma Alanı",
   "field.BrandingSetting.accent_palette": "İkincil / Vurgu Paleti",
-  "field.BrandingSetting.allow_user_template_override": "Kullanıcının şablonu geçersiz kılmasına izin ver",
   "field.BrandingSetting.allow_user_theme_mode": "Kullanıcının açık/koyu seçimine izin ver",
   "field.BrandingSetting.app_name": "Uygulama Adı",
   "field.BrandingSetting.default_signature": "Uygulama İmzası",

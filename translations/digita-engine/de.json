@@ -131,7 +131,6 @@
   "entity.View": "Ansicht",
   "entity.Workspace": "Arbeitsbereich",
   "field.BrandingSetting.accent_palette": "Sekundär-/Akzentpalette",
-  "field.BrandingSetting.allow_user_template_override": "Benutzer-Vorlagenüberschreibung zulassen",
   "field.BrandingSetting.allow_user_theme_mode": "Benutzerwahl Hell/Dunkel zulassen",
   "field.BrandingSetting.app_name": "App-Name",
   "field.BrandingSetting.default_signature": "App-Signatur",

@@ -131,7 +131,6 @@
   "entity.View": "Vue",
   "entity.Workspace": "Espace de travail",
   "field.BrandingSetting.accent_palette": "Palette secondaire / d'accentuation",
-  "field.BrandingSetting.allow_user_template_override": "Autoriser le remplacement du modèle par l'utilisateur",
   "field.BrandingSetting.allow_user_theme_mode": "Autoriser l'utilisateur à choisir le mode clair/sombre",
   "field.BrandingSetting.app_name": "Nom de l'application",
   "field.BrandingSetting.default_signature": "Signature de l'app",

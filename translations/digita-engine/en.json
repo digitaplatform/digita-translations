@@ -131,7 +131,6 @@
   "entity.View": "View",
   "entity.Workspace": "Workspace",
   "field.BrandingSetting.accent_palette": "Secondary / Accent Palette",
-  "field.BrandingSetting.allow_user_template_override": "Allow user template override",
   "field.BrandingSetting.allow_user_theme_mode": "Allow user light/dark choice",
   "field.BrandingSetting.app_name": "App Name",
   "field.BrandingSetting.default_signature": "App Signature",
