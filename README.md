@@ -43,6 +43,8 @@ placeholders as `{name}`.
   person has read it yet.
 - `ui.link.searchField` in digita-app took the words of `ui.link.searchEntity` in every language in
   October 2026; only its placeholder differs, which names a field instead of an entity.
+- `ui.record.fetchFromFailed` and `ui.workflow.transitionConfirm` in digita-app were machine-made in every
+  language in October 2026, and no person has read them yet.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 
