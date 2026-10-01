@@ -47,6 +47,8 @@ placeholders as `{name}`.
   language in October 2026, and no person has read them yet.
 - `ui.action.actionSucceeded` and `ui.action.actionCreated` in digita-app were machine-made in every
   language in October 2026, and no person has read them yet.
+- `ui.record.pickedRowNotFound` in digita-app was machine-made in every language in October 2026, and no
+  person has read it yet.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 
