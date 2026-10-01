@@ -81,6 +81,10 @@ placeholders as `{name}`.
 - `users.status.invited`, `users.roles.appRole`, `users.roles.add`, `users.roles.appRoleHint` and
   `users.roles.notAssignable` in digita-auth-frontend were machine-made in every language in October
   2026, and no person has read them yet.
+- `nav.logoutFailed`, `nav.mode.light`, `nav.mode.dark` and `nav.mode.system` in digita-auth-frontend
+  were machine-made in every language in October 2026, and `users.noRolesAvailable` there was
+  rewritten in every language then, machine-made too: it no longer names the engine, because the
+  roles come from the IdP's own allow-list. No person has read them yet.
 - In digita-engine, the `permission_denied_<action>` key of each action of a permission row (`select`,
   `read`, `write`, `create`, `delete`, `submit`, `cancel`, `amend`, `print`, `email`, `export`,
   `import`, `share`, `report`), `permission_denied_locked_field`, `permission_denied_locked_cell`,
