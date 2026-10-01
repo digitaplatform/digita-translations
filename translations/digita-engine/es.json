@@ -131,7 +131,6 @@
   "entity.View": "Vista",
   "entity.Workspace": "Espacio de trabajo",
   "field.BrandingSetting.accent_palette": "Paleta secundaria / de acento",
-  "field.BrandingSetting.allow_user_template_override": "Permitir al usuario anular la plantilla",
   "field.BrandingSetting.allow_user_theme_mode": "Permitir al usuario elegir modo claro/oscuro",
   "field.BrandingSetting.app_name": "Nombre de la aplicación",
   "field.BrandingSetting.default_signature": "Firma de la app",
