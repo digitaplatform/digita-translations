@@ -61,6 +61,10 @@ placeholders as `{name}`.
   read it yet.
 - `ui.record.copy` in digita-app was machine-made in every language in October 2026, and no person has
   read it yet.
+- `ui.datepicker.previousMonth`, `ui.datepicker.nextMonth`, `ui.datepicker.previousYears` and
+  `ui.datepicker.nextYears` in digita-app were machine-made in every language in October 2026, and no
+  person has read them yet. They replace `ui.datepicker.previous` and `ui.datepicker.next`, which
+  stay until no stage runs a digita-app build that reads them.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 
