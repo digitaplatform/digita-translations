@@ -268,6 +268,7 @@
   "ui.crumb.label": "Fil d'Ariane",
   "ui.lang.label": "Langue",
   "ui.lang.notSaved": "Votre langue n'a pas pu être enregistrée dans votre compte : vos e-mails restent dans la langue précédente.",
+  "ui.lang.textsNotLoaded": "Les textes en {language} n'ont pas pu être chargés. Choisissez à nouveau la langue pour réessayer.",
   "ui.login.title": "Se connecter",
   "ui.login.redirecting": "Redirection vers la page de connexion.",
   "ui.nav.skipToContent": "Aller au contenu",

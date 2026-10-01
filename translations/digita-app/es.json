@@ -268,6 +268,7 @@
   "ui.crumb.label": "Ruta de navegación",
   "ui.lang.label": "Idioma",
   "ui.lang.notSaved": "No se pudo guardar tu idioma en tu cuenta, así que tus correos siguen en el idioma anterior.",
+  "ui.lang.textsNotLoaded": "No se pudieron cargar los textos en {language}. Vuelve a elegir el idioma para intentarlo de nuevo.",
   "ui.login.title": "Iniciar sesión",
   "ui.login.redirecting": "Te llevamos a la página de inicio de sesión.",
   "ui.nav.skipToContent": "Saltar al contenido",
