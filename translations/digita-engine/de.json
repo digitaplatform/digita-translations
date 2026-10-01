@@ -358,6 +358,7 @@
   "entity_plural.View": "Ansichten",
   "entity_plural.Workspace": "Arbeitsbereiche",
   "description.BrandingSetting.app_name": "Wird in der Operator-UI-Shell + beim Login angezeigt. Greift auf den Plattformnamen zurück.",
+  "description.BrandingSetting.density": "Die Dichte aller, die keine eigene gewählt haben. Leer: der Standard jedes Geräts.",
   "description.BrandingSetting.default_signature": "Das Aussehen (Signatur), das jede Person in dieser App sieht. Leer: Digita.",
   "description.BrandingSetting.web_default_signature": "Das Aussehen (Signatur) jeder Website dieses Mandanten, die kein eigenes nennt. Leer: Digita.",
   "description.BrandingSetting.default_template": "Standard-Shell-Template-ID (z. B. 'classic').",

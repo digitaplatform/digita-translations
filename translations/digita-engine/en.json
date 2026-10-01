@@ -358,6 +358,7 @@
   "entity_plural.View": "Views",
   "entity_plural.Workspace": "Workspaces",
   "description.BrandingSetting.app_name": "Shown in the operator UI shell + login. Falls back to the platform name.",
+  "description.BrandingSetting.density": "The density of everyone who chose none of their own. Empty: each device's default.",
   "description.BrandingSetting.default_signature": "The look (signature) every user of this app sees. Empty: Digita.",
   "description.BrandingSetting.web_default_signature": "The look (signature) of every website of this tenant that names no look of its own. Empty: Digita.",
   "description.BrandingSetting.default_template": "Default shell template id (e.g. 'classic').",
