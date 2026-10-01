@@ -97,6 +97,7 @@
   "ui.workflow.saveFirst": "Erst Änderungen speichern",
   "ui.workflow.amend": "Korrigieren",
   "ui.workflow.amendConfirm": "Dieses stornierte Dokument in einen neuen bearbeitbaren Entwurf korrigieren?",
+  "ui.workflow.transitionConfirm": "Dieses Dokument auf „{state}“ setzen?",
   "ui.table.addRow": "Zeile hinzufügen",
   "ui.table.removeRow": "Entfernen",
   "ui.table.duplicateRow": "Duplizieren",

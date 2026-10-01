@@ -97,6 +97,7 @@
   "ui.workflow.saveFirst": "Enregistrez d'abord vos modifications",
   "ui.workflow.amend": "Rectifier",
   "ui.workflow.amendConfirm": "Rectifier ce document annulé en un nouveau brouillon modifiable ?",
+  "ui.workflow.transitionConfirm": "Passer ce document à « {state} » ?",
   "ui.table.addRow": "Ajouter une ligne",
   "ui.table.removeRow": "Supprimer",
   "ui.table.duplicateRow": "Dupliquer",

@@ -97,6 +97,7 @@
   "ui.workflow.saveFirst": "Save your changes first",
   "ui.workflow.amend": "Amend",
   "ui.workflow.amendConfirm": "Amend this cancelled document into a new editable draft?",
+  "ui.workflow.transitionConfirm": "Move this document to “{state}”?",
   "ui.table.addRow": "Add row",
   "ui.table.removeRow": "Remove",
   "ui.table.duplicateRow": "Duplicate",

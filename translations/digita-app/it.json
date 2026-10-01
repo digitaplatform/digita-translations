@@ -97,6 +97,7 @@
   "ui.workflow.saveFirst": "Salva prima le modifiche",
   "ui.workflow.amend": "Rettifica",
   "ui.workflow.amendConfirm": "Rettificare questo documento annullato in una nuova bozza modificabile?",
+  "ui.workflow.transitionConfirm": "Portare questo documento a “{state}”?",
   "ui.table.addRow": "Aggiungi riga",
   "ui.table.removeRow": "Rimuovi",
   "ui.table.duplicateRow": "Duplica",
