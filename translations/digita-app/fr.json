@@ -257,6 +257,7 @@
   "ui.attach.uploadFailed": "Échec du téléversement",
   "ui.link.searching": "Recherche…",
   "ui.link.searchEntity": "Rechercher {entity}…",
+  "ui.link.searchField": "Rechercher {field}…",
   "ui.geo.longitude": "Longitude",
   "ui.geo.latitude": "Latitude",
   "ui.barcode.placeholder": "Scannez ou saisissez le code-barres",

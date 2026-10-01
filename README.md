@@ -41,6 +41,8 @@ placeholders as `{name}`.
   read it yet.
 - `ui.lang.textsNotLoaded` in digita-app was machine-made in every language in October 2026, and no
   person has read it yet.
+- `ui.link.searchField` in digita-app took the words of `ui.link.searchEntity` in every language in
+  October 2026; only its placeholder differs, which names a field instead of an entity.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 
