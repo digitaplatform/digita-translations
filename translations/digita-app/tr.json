@@ -334,5 +334,8 @@
   "ui.jobs.runTitle": "Şimdi çalıştır",
   "ui.jobs.scheduleTitle": "Zamanlama",
   "ui.jobs.scheduleSaved": "Zamanlama kaydedildi.",
-  "ui.jobs.save": "Kaydet"
+  "ui.jobs.save": "Kaydet",
+  "ui.jobs.jobsLoadFailed": "Kayıtlı işler yüklenemedi",
+  "ui.jobs.runsLoadFailed": "Çalışmalar yüklenemedi",
+  "ui.jobs.tasksLoadFailed": "{entity} görevleri yüklenemedi"
 }
