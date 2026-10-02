@@ -54,5 +54,10 @@
   "recordFormTooMany": "Çok fazla form gönderdiniz. Lütfen {time} yeniden deneyin.",
   "appListOpen": "Aç",
   "appListDemo": "Demoya gir",
-  "appListUnknown": "Uygulamalar bu sitede listelenmiyor."
+  "appListUnknown": "Uygulamalar bu sitede listelenmiyor.",
+  "metadataDemoLabel": "Bir varlık tanımı nasıl bir API'ye ve bir forma dönüşür",
+  "metadataDemoDefine": "tanımla",
+  "metadataDemoApi": "API",
+  "metadataDemoForm": "form",
+  "metadataDemoGenerator": "digita platform"
 }

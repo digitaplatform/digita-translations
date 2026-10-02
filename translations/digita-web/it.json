@@ -54,5 +54,10 @@
   "recordFormTooMany": "Avete inviato troppi moduli. Riprovate {time}.",
   "appListOpen": "Apri",
   "appListDemo": "Entra nella demo",
-  "appListUnknown": "Le app non sono elencate su questo sito."
+  "appListUnknown": "Le app non sono elencate su questo sito.",
+  "metadataDemoLabel": "Come una definizione di entità diventa un'API e un modulo",
+  "metadataDemoDefine": "definire",
+  "metadataDemoApi": "API",
+  "metadataDemoForm": "modulo",
+  "metadataDemoGenerator": "digita platform"
 }
