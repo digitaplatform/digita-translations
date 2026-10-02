@@ -47,7 +47,7 @@
   "dashboard.health.spf.ok": "SPF record found: {detail}",
   "dashboard.health.spf.warning": "No SPF record found for {detail}",
   "dashboard.health.spf.error": "SPF check failed: {detail}",
-  "dashboard.health.dkim.ok": "DKIM record found for selector \"{detail}\"",
+  "dashboard.health.dkim.ok": "DKIM record found for selector \"{detail}\"; its key is not compared with the key the MTA signs with",
   "dashboard.health.dkim.warning": "No DKIM record found for {detail}",
   "dashboard.health.dkim.error": "DKIM check failed: {detail}",
   "dashboard.health.dmarc.ok": "DMARC record found",

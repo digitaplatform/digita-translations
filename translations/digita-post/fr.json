@@ -47,7 +47,7 @@
   "dashboard.health.spf.ok": "Enregistrement SPF trouvé : {detail}",
   "dashboard.health.spf.warning": "Aucun enregistrement SPF trouvé pour {detail}",
   "dashboard.health.spf.error": "Vérification SPF échouée : {detail}",
-  "dashboard.health.dkim.ok": "Enregistrement DKIM trouvé pour le sélecteur « {detail} »",
+  "dashboard.health.dkim.ok": "Enregistrement DKIM trouvé pour le sélecteur « {detail} » ; sa clé n'est pas comparée à la clé de signature du MTA",
   "dashboard.health.dkim.warning": "Aucun enregistrement DKIM trouvé pour {detail}",
   "dashboard.health.dkim.error": "Vérification DKIM échouée : {detail}",
   "dashboard.health.dmarc.ok": "Enregistrement DMARC trouvé",

@@ -47,7 +47,7 @@
   "dashboard.health.spf.ok": "SPF kaydı bulundu: {detail}",
   "dashboard.health.spf.warning": "{detail} için SPF kaydı bulunamadı",
   "dashboard.health.spf.error": "SPF kontrolü başarısız: {detail}",
-  "dashboard.health.dkim.ok": "\"{detail}\" seçicisi için DKIM kaydı bulundu",
+  "dashboard.health.dkim.ok": "\"{detail}\" seçicisi için DKIM kaydı bulundu; anahtarı, MTA'nın imzaladığı anahtarla karşılaştırılmaz",
   "dashboard.health.dkim.warning": "{detail} için DKIM kaydı bulunamadı",
   "dashboard.health.dkim.error": "DKIM kontrolü başarısız: {detail}",
   "dashboard.health.dmarc.ok": "DMARC kaydı bulundu",

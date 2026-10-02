@@ -47,7 +47,7 @@
   "dashboard.health.spf.ok": "Record SPF trovato: {detail}",
   "dashboard.health.spf.warning": "Nessun record SPF trovato per {detail}",
   "dashboard.health.spf.error": "Controllo SPF non riuscito: {detail}",
-  "dashboard.health.dkim.ok": "Record DKIM trovato per il selettore \"{detail}\"",
+  "dashboard.health.dkim.ok": "Record DKIM trovato per il selettore \"{detail}\"; la sua chiave non viene confrontata con la chiave con cui firma l'MTA",
   "dashboard.health.dkim.warning": "Nessun record DKIM trovato per {detail}",
   "dashboard.health.dkim.error": "Controllo DKIM non riuscito: {detail}",
   "dashboard.health.dmarc.ok": "Record DMARC trovato",

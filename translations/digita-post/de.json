@@ -47,7 +47,7 @@
   "dashboard.health.spf.ok": "SPF-Eintrag gefunden: {detail}",
   "dashboard.health.spf.warning": "Kein SPF-Eintrag gefunden für {detail}",
   "dashboard.health.spf.error": "SPF-Prüfung fehlgeschlagen: {detail}",
-  "dashboard.health.dkim.ok": "DKIM-Eintrag gefunden für Selektor \"{detail}\"",
+  "dashboard.health.dkim.ok": "DKIM-Eintrag gefunden für Selektor \"{detail}\"; sein Schlüssel wird nicht mit dem Signaturschlüssel des MTA verglichen",
   "dashboard.health.dkim.warning": "Kein DKIM-Eintrag gefunden für {detail}",
   "dashboard.health.dkim.error": "DKIM-Prüfung fehlgeschlagen: {detail}",
   "dashboard.health.dmarc.ok": "DMARC-Eintrag gefunden",
