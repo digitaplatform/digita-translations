@@ -448,5 +448,12 @@
   "tree_cycle": "{doctype} {name} ne peut pas se placer sous {parent}, qui se trouve dans son propre sous-arbre.",
   "tree_partition": "{doctype} {name} et son parent {parent} appartiennent à des arbres différents : leur {field} diffère.",
   "tree_partition_root": "Le champ {field} de {doctype} {name} ne peut changer que sur un nœud racine sans enfants.",
-  "tree_too_deep": "{doctype} {name} placerait un nœud au niveau {depth}, plus profond que les {max} niveaux que cet arbre autorise."
+  "tree_too_deep": "{doctype} {name} placerait un nœud au niveau {depth}, plus profond que les {max} niveaux que cet arbre autorise.",
+  "list_too_broad": "La liste de {doctype} correspond à plus de {max} enregistrements dont l'accès est vérifié un par un. Affinez le filtre.",
+  "action_handler_missing": "L'action {action} de {doctype} n'a pas de gestionnaire. Prévenez l'auteur de l'application.",
+  "validation_failed": "{doctype} : {count} valeur(s) non valide(s).",
+  "naming_config_invalid": "La numérotation de {doctype} n'est pas correctement configurée (stratégie {strategy}). Prévenez l'auteur de l'application.",
+  "naming_name_required": "Un enregistrement de {doctype} a besoin d'un nom. Saisissez-en un.",
+  "naming_sequence_exhausted": "La numérotation {sequence} n'a trouvé aucune valeur libre pour {field} après {attempts} essais. Prévenez un administrateur.",
+  "field_password_not_as_stored": "{field} contient un mot de passe sous sa forme enregistrée et chiffrée. Saisissez le mot de passe en clair."
 }

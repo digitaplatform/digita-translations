@@ -448,5 +448,12 @@
   "tree_cycle": "{doctype} {name} no puede ir debajo de {parent}, que está en su propio subárbol.",
   "tree_partition": "{doctype} {name} y su nodo padre {parent} pertenecen a árboles distintos: su {field} es diferente.",
   "tree_partition_root": "El campo {field} de {doctype} {name} solo puede cambiar en un nodo raíz sin hijos.",
-  "tree_too_deep": "{doctype} {name} pondría un nodo en el nivel {depth}, más profundo que los {max} niveles que permite este árbol."
+  "tree_too_deep": "{doctype} {name} pondría un nodo en el nivel {depth}, más profundo que los {max} niveles que permite este árbol.",
+  "list_too_broad": "La lista de {doctype} coincide con más de {max} registros cuyo acceso se comprueba uno a uno. Restringe el filtro.",
+  "action_handler_missing": "La acción {action} de {doctype} no tiene controlador. Avisa al autor de la app.",
+  "validation_failed": "{doctype}: {count} valor(es) no son válidos.",
+  "naming_config_invalid": "La numeración de {doctype} no está bien configurada (estrategia {strategy}). Avisa al autor de la app.",
+  "naming_name_required": "Un registro de {doctype} necesita un nombre. Introduce uno.",
+  "naming_sequence_exhausted": "La numeración {sequence} no encontró ningún valor libre para {field} tras {attempts} intentos. Avisa a un administrador.",
+  "field_password_not_as_stored": "{field} contiene una contraseña en su forma guardada y cifrada. Introduce la contraseña como texto."
 }

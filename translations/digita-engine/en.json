@@ -448,5 +448,12 @@
   "tree_cycle": "{doctype} {name} cannot go under {parent}, which lies in its own subtree.",
   "tree_partition": "{doctype} {name} and its parent {parent} belong to different trees: their {field} differs.",
   "tree_partition_root": "The {field} of {doctype} {name} can change only on a root node without children.",
-  "tree_too_deep": "{doctype} {name} would put a node at level {depth}, deeper than the {max} levels this tree allows."
+  "tree_too_deep": "{doctype} {name} would put a node at level {depth}, deeper than the {max} levels this tree allows.",
+  "list_too_broad": "The list of {doctype} matches more than {max} records whose access is checked one by one. Narrow the filter.",
+  "action_handler_missing": "The action {action} of {doctype} has no handler. Tell the app's author.",
+  "validation_failed": "{doctype}: {count} value(s) are not valid.",
+  "naming_config_invalid": "The numbering of {doctype} is not set up correctly (strategy {strategy}). Tell the app's author.",
+  "naming_name_required": "A {doctype} needs a name. Enter one.",
+  "naming_sequence_exhausted": "The numbering {sequence} found no free value for {field} after {attempts} tries. Tell an administrator.",
+  "field_password_not_as_stored": "{field} holds a password in its stored, encrypted form. Enter the password as text."
 }

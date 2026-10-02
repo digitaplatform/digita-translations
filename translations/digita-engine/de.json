@@ -448,5 +448,12 @@
   "tree_cycle": "{doctype} {name} kann nicht unter {parent} stehen, das in seinem eigenen Teilbaum liegt.",
   "tree_partition": "{doctype} {name} und sein übergeordneter Knoten {parent} gehören zu verschiedenen Bäumen: ihr {field} unterscheidet sich.",
   "tree_partition_root": "{field} von {doctype} {name} lässt sich nur an einem Wurzelknoten ohne Unterknoten ändern.",
-  "tree_too_deep": "{doctype} {name} würde einen Knoten auf Ebene {depth} setzen, tiefer als die {max} Ebenen, die dieser Baum erlaubt."
+  "tree_too_deep": "{doctype} {name} würde einen Knoten auf Ebene {depth} setzen, tiefer als die {max} Ebenen, die dieser Baum erlaubt.",
+  "list_too_broad": "Die Liste von {doctype} trifft mehr als {max} Datensätze, deren Zugriff einzeln geprüft wird. Grenze den Filter ein.",
+  "action_handler_missing": "Die Aktion {action} von {doctype} hat keinen Handler. Melde das dem Autor der App.",
+  "validation_failed": "{doctype}: {count} Wert(e) sind ungültig.",
+  "naming_config_invalid": "Die Nummerierung von {doctype} ist nicht richtig eingerichtet (Strategie {strategy}). Melde das dem Autor der App.",
+  "naming_name_required": "Ein Datensatz von {doctype} braucht einen Namen. Gib einen ein.",
+  "naming_sequence_exhausted": "Die Nummerierung {sequence} hat nach {attempts} Versuchen keinen freien Wert für {field} gefunden. Melde das einem Administrator.",
+  "field_password_not_as_stored": "{field} enthält ein Passwort in seiner gespeicherten, verschlüsselten Form. Gib das Passwort als Text ein."
 }

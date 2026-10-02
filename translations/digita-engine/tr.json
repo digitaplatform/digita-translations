@@ -448,5 +448,12 @@
   "tree_cycle": "{doctype} {name}, kendi alt ağacında bulunan {parent} altına yerleştirilemez.",
   "tree_partition": "{doctype} {name} ile üst düğümü {parent} farklı ağaçlara ait: {field} değerleri farklı.",
   "tree_partition_root": "{doctype} {name} için {field} yalnızca alt düğümü olmayan bir kök düğümde değiştirilebilir.",
-  "tree_too_deep": "{doctype} {name}, bir düğümü {depth}. düzeye koyar; bu ağacın izin verdiği {max} düzeyden daha derin."
+  "tree_too_deep": "{doctype} {name}, bir düğümü {depth}. düzeye koyar; bu ağacın izin verdiği {max} düzeyden daha derin.",
+  "list_too_broad": "{doctype} listesi, erişimi tek tek denetlenen {max} kayıttan fazlasıyla eşleşiyor. Filtreyi daraltın.",
+  "action_handler_missing": "{doctype} için {action} eyleminin işleyicisi yok. Uygulamanın yazarına bildirin.",
+  "validation_failed": "{doctype}: {count} değer geçerli değil.",
+  "naming_config_invalid": "{doctype} numaralandırması doğru ayarlanmamış (strateji {strategy}). Uygulamanın yazarına bildirin.",
+  "naming_name_required": "Bir {doctype} kaydının bir adı olmalı. Bir ad girin.",
+  "naming_sequence_exhausted": "{sequence} numaralandırması {attempts} denemeden sonra {field} için boş değer bulamadı. Bir yöneticiye bildirin.",
+  "field_password_not_as_stored": "{field} bir parolayı kaydedilmiş, şifrelenmiş biçimiyle içeriyor. Parolayı metin olarak girin."
 }
