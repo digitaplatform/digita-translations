@@ -293,7 +293,7 @@
   "ui.nav.expand": "Expand menu",
   "ui.nav.collapse": "Collapse menu",
   "ui.nav.close": "Close menu",
-  "ui.theme.toggle": "Toggle theme",
+  "ui.theme.toggle": "Switch light/dark",
   "ui.crumb.label": "Breadcrumb",
   "ui.lang.label": "Language",
   "ui.lang.notSaved": "Your language could not be saved to your account, so your mails keep the previous language.",

@@ -293,7 +293,7 @@
   "ui.nav.expand": "Espandi menu",
   "ui.nav.collapse": "Comprimi menu",
   "ui.nav.close": "Chiudi menu",
-  "ui.theme.toggle": "Cambia tema",
+  "ui.theme.toggle": "Cambia chiaro/scuro",
   "ui.crumb.label": "Percorso di navigazione",
   "ui.lang.label": "Lingua",
   "ui.lang.notSaved": "Non è stato possibile salvare la tua lingua nel tuo account, quindi le tue email restano nella lingua precedente.",

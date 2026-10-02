@@ -293,7 +293,7 @@
   "ui.nav.expand": "Menü ausklappen",
   "ui.nav.collapse": "Menü einklappen",
   "ui.nav.close": "Menü schließen",
-  "ui.theme.toggle": "Design wechseln",
+  "ui.theme.toggle": "Hell/Dunkel wechseln",
   "ui.crumb.label": "Brotkrümelnavigation",
   "ui.lang.label": "Sprache",
   "ui.lang.notSaved": "Deine Sprache konnte nicht in deinem Konto gespeichert werden. Deine Mails kommen weiter in der bisherigen Sprache.",

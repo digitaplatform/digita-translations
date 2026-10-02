@@ -293,7 +293,7 @@
   "ui.nav.expand": "Expandir menú",
   "ui.nav.collapse": "Contraer menú",
   "ui.nav.close": "Cerrar menú",
-  "ui.theme.toggle": "Cambiar tema",
+  "ui.theme.toggle": "Cambiar claro/oscuro",
   "ui.crumb.label": "Ruta de navegación",
   "ui.lang.label": "Idioma",
   "ui.lang.notSaved": "No se pudo guardar tu idioma en tu cuenta, así que tus correos siguen en el idioma anterior.",

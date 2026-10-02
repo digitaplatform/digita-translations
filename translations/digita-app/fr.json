@@ -293,7 +293,7 @@
   "ui.nav.expand": "Déployer le menu",
   "ui.nav.collapse": "Réduire le menu",
   "ui.nav.close": "Fermer le menu",
-  "ui.theme.toggle": "Changer de thème",
+  "ui.theme.toggle": "Basculer clair/sombre",
   "ui.crumb.label": "Fil d'Ariane",
   "ui.lang.label": "Langue",
   "ui.lang.notSaved": "Votre langue n'a pas pu être enregistrée dans votre compte : vos e-mails restent dans la langue précédente.",

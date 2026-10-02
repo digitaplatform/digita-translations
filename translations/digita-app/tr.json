@@ -293,7 +293,7 @@
   "ui.nav.expand": "Menüyü genişlet",
   "ui.nav.collapse": "Menüyü daralt",
   "ui.nav.close": "Menüyü kapat",
-  "ui.theme.toggle": "Temayı değiştir",
+  "ui.theme.toggle": "Açık/koyu modu değiştir",
   "ui.crumb.label": "Gezinti yolu",
   "ui.lang.label": "Dil",
   "ui.lang.notSaved": "Dilin hesabına kaydedilemedi, bu yüzden e-postaların önceki dilde gelmeye devam ediyor.",
