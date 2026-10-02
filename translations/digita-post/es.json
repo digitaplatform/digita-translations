@@ -190,6 +190,8 @@
   "system.title": "Información del sistema",
   "system.subtitle": "Resumen completo de todas las fuentes de datos, conexiones y arquitectura",
   "system.refresh": "Actualizar",
+  "system.mta": "MTA",
+  "system.access": "Inicio de sesión de operadores y tokens de servicio",
   "system.liveStatus": "Estado del servidor en vivo",
   "system.environment": "Entorno",
   "system.nodeVersion": "Node.js",
