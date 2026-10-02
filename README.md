@@ -70,6 +70,8 @@ placeholders as `{name}`.
   October 2026, and no person has read them yet.
 - `ui.jobs.jobsLoadFailed`, `ui.jobs.runsLoadFailed` and `ui.jobs.tasksLoadFailed` in digita-app were
   machine-made in every language in October 2026, and no person has read them yet.
+- `ui.field.required` in digita-app, and the "(required)" of `ui.jobs.doc` and `ui.jobs.name`, were written in en and de
+  in October 2026; their es, fr, it and tr were machine-made then, and no person has read them yet.
 - `ui.jobs.cronRequired` in digita-app was written in en and de in October 2026; its es, fr, it and tr
   were machine-made then, and no person has read them yet.
 - `ui.jobs.edit` in digita-app was machine-made in every language in October 2026, and no person has
