@@ -113,7 +113,7 @@
   "csrf_failed": "Sicherheitsprüfung fehlgeschlagen — bitte Seite neu laden und erneut versuchen",
   "entity_created": "Entität {name} erstellt",
   "entity_updated": "Entität {name} aktualisiert",
-  "entity_deleted": "Entität {name} gelöscht",
+  "entity_deleted": "Entität {name} gelöscht. Aus den Daten wird nichts gelöscht.",
   "bulk_delete_completed": "{deleted} von {total} gelöscht",
   "bulk_delete_partial_failure": "{failed} von {total} konnten nicht gelöscht werden",
   "bulk_submit_completed": "{submitted} von {total} gebucht",
@@ -431,5 +431,7 @@
   "description.Workspace.icon": "Lucide-Icon-Name",
   "description.Workspace.is_default_for_roles": "string[] Rollennamen, für die dies der STANDARD-Arbeitsbereich ist.",
   "description.Workspace.priority": "Der niedrigere Wert gewinnt, wenn ein Benutzer mehreren Standard-Arbeitsbereichen entspricht.",
-  "description.Workspace.roles": "string[] Rollennamen, die diesen Arbeitsbereich SEHEN dürfen. Leer/nicht vorhanden = alle authentifizierten Benutzer."
+  "description.Workspace.roles": "string[] Rollennamen, die diesen Arbeitsbereich SEHEN dürfen. Leer/nicht vorhanden = alle authentifizierten Benutzer.",
+  "entity_definition_restored": "Die gespeicherte Definition von {name} ist gelöscht; {name} folgt jetzt dem App-Bundle. Aus den Daten wird nichts gelöscht.",
+  "entity_defined_by_bundle": "{name} hat keine gespeicherte Definition, die gelöscht werden kann; das App-Bundle definiert die Entität. Ändern Sie stattdessen das Bundle."
 }

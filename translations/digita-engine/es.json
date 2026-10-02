@@ -113,7 +113,7 @@
   "csrf_failed": "Falló la comprobación de seguridad — actualice la página e inténtelo de nuevo",
   "entity_created": "Entidad {name} creada",
   "entity_updated": "Entidad {name} actualizada",
-  "entity_deleted": "Entidad {name} eliminada",
+  "entity_deleted": "Entidad {name} eliminada. No se elimina nada de los datos.",
   "bulk_delete_completed": "{deleted} de {total} eliminados",
   "bulk_delete_partial_failure": "{failed} de {total} no se pudieron eliminar",
   "bulk_submit_completed": "{submitted} de {total} enviados",
@@ -431,5 +431,7 @@
   "description.Workspace.icon": "nombre de icono de Lucide",
   "description.Workspace.is_default_for_roles": "string[] nombres de rol para quienes este es el espacio de trabajo PREDETERMINADO.",
   "description.Workspace.priority": "El valor más bajo gana cuando un usuario coincide con varios espacios de trabajo predeterminados.",
-  "description.Workspace.roles": "string[] nombres de rol que pueden VER este espacio de trabajo. Vacío/ausente = todos los usuarios autenticados."
+  "description.Workspace.roles": "string[] nombres de rol que pueden VER este espacio de trabajo. Vacío/ausente = todos los usuarios autenticados.",
+  "entity_definition_restored": "La definición guardada de {name} se ha eliminado; {name} sigue ahora el paquete de la app. No se elimina nada de los datos.",
+  "entity_defined_by_bundle": "{name} no tiene una definición guardada que eliminar; la define el paquete de la app. Cambie el paquete en su lugar."
 }

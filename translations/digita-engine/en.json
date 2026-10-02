@@ -113,7 +113,7 @@
   "csrf_failed": "Security check failed — please refresh the page and try again",
   "entity_created": "Entity {name} created",
   "entity_updated": "Entity {name} updated",
-  "entity_deleted": "Entity {name} deleted",
+  "entity_deleted": "Entity {name} deleted. Nothing is deleted from the data.",
   "bulk_delete_completed": "Deleted {deleted} of {total}",
   "bulk_delete_partial_failure": "{failed} of {total} could not be deleted",
   "bulk_submit_completed": "Submitted {submitted} of {total}",
@@ -431,5 +431,7 @@
   "description.Workspace.icon": "lucide icon name",
   "description.Workspace.is_default_for_roles": "string[] role names for whom this is the DEFAULT workspace.",
   "description.Workspace.priority": "Lower wins when a user matches several default workspaces.",
-  "description.Workspace.roles": "string[] role names that may SEE this workspace. Empty/absent = all authenticated users."
+  "description.Workspace.roles": "string[] role names that may SEE this workspace. Empty/absent = all authenticated users.",
+  "entity_definition_restored": "The stored definition of {name} is deleted; {name} now follows the app bundle. Nothing is deleted from the data.",
+  "entity_defined_by_bundle": "{name} has no stored definition to delete; the app bundle defines it. Change the bundle instead."
 }

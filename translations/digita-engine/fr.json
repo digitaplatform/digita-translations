@@ -113,7 +113,7 @@
   "csrf_failed": "Échec de la vérification de sécurité — veuillez actualiser la page et réessayer",
   "entity_created": "Entité {name} créée",
   "entity_updated": "Entité {name} mise à jour",
-  "entity_deleted": "Entité {name} supprimée",
+  "entity_deleted": "Entité {name} supprimée. Rien n'est supprimé des données.",
   "bulk_delete_completed": "{deleted} sur {total} supprimés",
   "bulk_delete_partial_failure": "{failed} sur {total} n'ont pas pu être supprimés",
   "bulk_submit_completed": "{submitted} sur {total} validés",
@@ -431,5 +431,7 @@
   "description.Workspace.icon": "nom d'icône Lucide",
   "description.Workspace.is_default_for_roles": "string[] noms de rôles pour lesquels il s'agit de l'espace de travail PAR DÉFAUT.",
   "description.Workspace.priority": "La valeur la plus basse l'emporte lorsqu'un utilisateur correspond à plusieurs espaces de travail par défaut.",
-  "description.Workspace.roles": "string[] noms de rôles autorisés à VOIR cet espace de travail. Vide/absent = tous les utilisateurs authentifiés."
+  "description.Workspace.roles": "string[] noms de rôles autorisés à VOIR cet espace de travail. Vide/absent = tous les utilisateurs authentifiés.",
+  "entity_definition_restored": "La définition enregistrée de {name} est supprimée ; {name} suit désormais le paquet de l'app. Rien n'est supprimé des données.",
+  "entity_defined_by_bundle": "{name} n'a aucune définition enregistrée à supprimer ; le paquet de l'app la définit. Modifiez plutôt le paquet."
 }

@@ -113,7 +113,7 @@
   "csrf_failed": "Güvenlik denetimi başarısız — lütfen sayfayı yenileyip tekrar deneyin",
   "entity_created": "{name} varlığı oluşturuldu",
   "entity_updated": "{name} varlığı güncellendi",
-  "entity_deleted": "{name} varlığı silindi",
+  "entity_deleted": "{name} varlığı silindi. Verilerden hiçbir şey silinmez.",
   "bulk_delete_completed": "{total} kayıttan {deleted} tanesi silindi",
   "bulk_delete_partial_failure": "{total} kayıttan {failed} tanesi silinemedi",
   "bulk_submit_completed": "{total} kayıttan {submitted} tanesi onaylandı",
@@ -431,5 +431,7 @@
   "description.Workspace.icon": "Lucide simge adı",
   "description.Workspace.is_default_for_roles": "Bunun VARSAYILAN çalışma alanı olduğu rol adlarının dizisi (string[]).",
   "description.Workspace.priority": "Bir kullanıcı birkaç varsayılan çalışma alanıyla eşleştiğinde daha düşük olan kazanır.",
-  "description.Workspace.roles": "Bu çalışma alanını GÖREBİLECEK rol adlarının dizisi (string[]). Boş/yok = tüm kimliği doğrulanmış kullanıcılar."
+  "description.Workspace.roles": "Bu çalışma alanını GÖREBİLECEK rol adlarının dizisi (string[]). Boş/yok = tüm kimliği doğrulanmış kullanıcılar.",
+  "entity_definition_restored": "{name} için kayıtlı tanım silindi; {name} artık uygulama paketini izliyor. Verilerden hiçbir şey silinmez.",
+  "entity_defined_by_bundle": "{name} için silinecek kayıtlı bir tanım yok; onu uygulama paketi tanımlıyor. Bunun yerine paketi değiştirin."
 }
