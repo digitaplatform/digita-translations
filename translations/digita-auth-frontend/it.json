@@ -178,6 +178,8 @@
   "login.showPassword": "Mostra password",
   "login.hidePassword": "Nascondi password",
   "login.signIn": "Accedi",
+  "login.signInTitle": "Accedi",
+  "login.signInTitleForApp": "Accedi a {app}",
   "login.signingIn": "Accesso in corso...",
   "login.footer": "Digita Auth — Amministrazione delle identità",
   "login.emailRequired": "Inserisci la tua email.",

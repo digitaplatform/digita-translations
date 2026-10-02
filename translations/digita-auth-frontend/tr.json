@@ -178,6 +178,8 @@
   "login.showPassword": "Parolayı göster",
   "login.hidePassword": "Parolayı gizle",
   "login.signIn": "Giriş yap",
+  "login.signInTitle": "Giriş yap",
+  "login.signInTitleForApp": "{app} uygulamasına giriş yap",
   "login.signingIn": "Giriş yapılıyor...",
   "login.footer": "Digita Auth — Kimlik Yönetimi",
   "login.emailRequired": "E-postanı gir.",

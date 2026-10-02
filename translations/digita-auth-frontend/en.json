@@ -178,6 +178,8 @@
   "login.showPassword": "Show password",
   "login.hidePassword": "Hide password",
   "login.signIn": "Sign In",
+  "login.signInTitle": "Sign in",
+  "login.signInTitleForApp": "Sign in to {app}",
   "login.signingIn": "Signing in...",
   "login.footer": "Digita Auth — Identity Administration",
   "login.emailRequired": "Please enter your email.",
