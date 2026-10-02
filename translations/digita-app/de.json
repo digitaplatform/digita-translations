@@ -29,6 +29,8 @@
   "ui.tree.viewList": "Tabelle",
   "ui.tree.viewTree": "Baum",
   "ui.tree.newNode": "Neuer Eintrag",
+  "ui.tree.newKind": "Neue Art",
+  "ui.tree.kindName": "Name der neuen Art",
   "ui.tree.addRoot": "Oberste Ebene",
   "ui.tree.addChild": "Unterelement",
   "ui.tree.move": "Verschieben",

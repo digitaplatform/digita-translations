@@ -29,6 +29,8 @@
   "ui.tree.viewList": "Tabla",
   "ui.tree.viewTree": "Árbol",
   "ui.tree.newNode": "Nueva entrada",
+  "ui.tree.newKind": "Nuevo tipo",
+  "ui.tree.kindName": "Nombre del nuevo tipo",
   "ui.tree.addRoot": "Nivel superior",
   "ui.tree.addChild": "Añadir hijo",
   "ui.tree.move": "Mover",

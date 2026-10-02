@@ -29,6 +29,8 @@
   "ui.tree.viewList": "Tablo",
   "ui.tree.viewTree": "Ağaç",
   "ui.tree.newNode": "Yeni kayıt",
+  "ui.tree.newKind": "Yeni tür",
+  "ui.tree.kindName": "Yeni türün adı",
   "ui.tree.addRoot": "Üst düzey",
   "ui.tree.addChild": "Alt öğe ekle",
   "ui.tree.move": "Taşı",
