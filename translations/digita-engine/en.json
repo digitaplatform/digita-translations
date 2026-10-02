@@ -455,5 +455,7 @@
   "naming_config_invalid": "The numbering of {doctype} is not set up correctly (strategy {strategy}). Tell the app's author.",
   "naming_name_required": "A {doctype} needs a name. Enter one.",
   "naming_sequence_exhausted": "The numbering {sequence} found no free value for {field} after {attempts} tries. Tell an administrator.",
-  "field_password_not_as_stored": "{field} holds a password in its stored, encrypted form. Enter the password as text."
+  "field_password_not_as_stored": "{field} holds a password in its stored, encrypted form. Enter the password as text.",
+  "docstatus_state_ambiguous": "{doctype} has several states for document status {docstatus} ({states}), and none is marked as the default. Tell the app's author.",
+  "snapshot_target_missing": "{doctype} cannot be saved: {target} {name}, which {field} refers to, no longer exists."
 }

@@ -455,5 +455,7 @@
   "naming_config_invalid": "La numerazione di {doctype} non è configurata correttamente (strategia {strategy}). Avvisa l'autore dell'app.",
   "naming_name_required": "Un record di {doctype} ha bisogno di un nome. Inseriscine uno.",
   "naming_sequence_exhausted": "La numerazione {sequence} non ha trovato alcun valore libero per {field} dopo {attempts} tentativi. Avvisa un amministratore.",
-  "field_password_not_as_stored": "{field} contiene una password nella sua forma salvata e cifrata. Inserisci la password come testo."
+  "field_password_not_as_stored": "{field} contiene una password nella sua forma salvata e cifrata. Inserisci la password come testo.",
+  "docstatus_state_ambiguous": "{doctype} ha più stati per lo stato documento {docstatus} ({states}) e nessuno è indicato come predefinito. Avvisa l'autore dell'app.",
+  "snapshot_target_missing": "{doctype} non può essere salvato: {target} {name}, a cui si riferisce {field}, non esiste più."
 }
