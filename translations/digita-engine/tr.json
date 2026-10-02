@@ -439,5 +439,6 @@
   "rule_expression_invalid": "Kural, ayrıştırılamayan bir ifade içeriyor: {error}",
   "reseed_writes_running": "Sıfırlama, bitmemiş değişiklikler için {seconds} sn bekledi ve hiçbir şey silmedi: {writes}. Değişiklikler bittiğinde yeniden başlatın.",
   "rule_invalid": "Kural, varlığı üzerinde çalışamaz: {error}",
-  "rule_refused": "{message}"
+  "rule_refused": "{message}",
+  "view_invalid": "Görünüm sunulamaz: {error}"
 }

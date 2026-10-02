@@ -439,5 +439,6 @@
   "rule_expression_invalid": "Die Regel enthält einen Ausdruck, der sich nicht lesen lässt: {error}",
   "reseed_writes_running": "Das Zurücksetzen hat {seconds} s auf Änderungen gewartet, die nicht beendet waren, und nichts gelöscht: {writes}. Starten Sie es erneut, sobald sie beendet sind.",
   "rule_invalid": "Die Regel kann auf ihrer Entität nicht laufen: {error}",
-  "rule_refused": "{message}"
+  "rule_refused": "{message}",
+  "view_invalid": "Die Ansicht kann nicht ausgeliefert werden: {error}"
 }

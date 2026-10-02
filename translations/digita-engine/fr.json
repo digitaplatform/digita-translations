@@ -439,5 +439,6 @@
   "rule_expression_invalid": "La règle contient une expression qui ne peut pas être analysée : {error}",
   "reseed_writes_running": "La réinitialisation a attendu {seconds} s des modifications qui n'étaient pas terminées et n'a rien supprimé : {writes}. Relancez-la une fois qu'elles sont terminées.",
   "rule_invalid": "La règle ne peut pas s'exécuter sur son entité : {error}",
-  "rule_refused": "{message}"
+  "rule_refused": "{message}",
+  "view_invalid": "La vue ne peut pas être servie : {error}"
 }

@@ -439,5 +439,6 @@
   "rule_expression_invalid": "La regla tiene una expresión que no se puede analizar: {error}",
   "reseed_writes_running": "El restablecimiento esperó {seconds} s a cambios que no habían terminado y no eliminó nada: {writes}. Inícielo de nuevo cuando hayan terminado.",
   "rule_invalid": "La regla no puede ejecutarse en su entidad: {error}",
-  "rule_refused": "{message}"
+  "rule_refused": "{message}",
+  "view_invalid": "La vista no se puede servir: {error}"
 }
