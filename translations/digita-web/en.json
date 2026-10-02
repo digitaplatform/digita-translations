@@ -54,5 +54,10 @@
   "recordFormTooMany": "You have sent too many forms. Please try again {time}.",
   "appListOpen": "Open",
   "appListDemo": "Enter the demo",
-  "appListUnknown": "The apps are not listed on this site."
+  "appListUnknown": "The apps are not listed on this site.",
+  "metadataDemoLabel": "How one entity definition becomes an API and a form",
+  "metadataDemoDefine": "define",
+  "metadataDemoApi": "api",
+  "metadataDemoForm": "form",
+  "metadataDemoGenerator": "digita platform"
 }

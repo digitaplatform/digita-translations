@@ -54,5 +54,10 @@
   "recordFormTooMany": "Vous avez envoyé trop de formulaires. Réessayez {time}.",
   "appListOpen": "Ouvrir",
   "appListDemo": "Entrer dans la démo",
-  "appListUnknown": "Les applications ne sont pas répertoriées sur ce site."
+  "appListUnknown": "Les applications ne sont pas répertoriées sur ce site.",
+  "metadataDemoLabel": "Comment une définition d'entité devient une API et un formulaire",
+  "metadataDemoDefine": "définir",
+  "metadataDemoApi": "API",
+  "metadataDemoForm": "formulaire",
+  "metadataDemoGenerator": "digita platform"
 }

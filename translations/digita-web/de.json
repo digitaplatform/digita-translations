@@ -54,5 +54,10 @@
   "recordFormTooMany": "Sie haben zu viele Formulare gesendet. Versuchen Sie es {time} erneut.",
   "appListOpen": "Öffnen",
   "appListDemo": "Demo starten",
-  "appListUnknown": "Die Apps sind auf dieser Website nicht aufgeführt."
+  "appListUnknown": "Die Apps sind auf dieser Website nicht aufgeführt.",
+  "metadataDemoLabel": "Wie aus einer Entitätsdefinition eine API und ein Formular werden",
+  "metadataDemoDefine": "definieren",
+  "metadataDemoApi": "API",
+  "metadataDemoForm": "Formular",
+  "metadataDemoGenerator": "digita platform"
 }
