@@ -322,7 +322,7 @@
   "senderDomains.waitingForDns": "Esperando DNS",
   "senderDomains.state.active": "activo",
   "senderDomains.state.pending": "esperando DNS",
-  "senderDomains.recordsHint": "Publica estos tres registros en el DNS del dominio. La clave firma el correo solo cuando su registro DKIM se resuelve.",
+  "senderDomains.recordsHint": "Publica estos registros en el DNS del dominio. La clave firma el correo solo cuando su registro DKIM se resuelve.",
   "senderDomains.rotationWaiting": "La nueva clave {selector} espera su registro DKIM. La clave actual sigue firmando hasta que el registro de abajo se resuelva.",
   "senderDomains.dkimRecord": "DKIM (registro TXT)",
   "senderDomains.spfRecord": "SPF",

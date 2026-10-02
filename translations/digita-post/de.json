@@ -322,7 +322,7 @@
   "senderDomains.waitingForDns": "Wartet auf DNS",
   "senderDomains.state.active": "aktiv",
   "senderDomains.state.pending": "wartet auf DNS",
-  "senderDomains.recordsHint": "Diese drei Einträge im DNS der Domain veröffentlichen. Der Schlüssel signiert erst, wenn sein DKIM-Eintrag auflösbar ist.",
+  "senderDomains.recordsHint": "Diese Einträge im DNS der Domain veröffentlichen. Der Schlüssel signiert erst, wenn sein DKIM-Eintrag auflösbar ist.",
   "senderDomains.rotationWaiting": "Der neue Schlüssel {selector} wartet auf seinen DKIM-Eintrag. Der aktuelle Schlüssel signiert weiter, bis der Eintrag unten auflösbar ist.",
   "senderDomains.dkimRecord": "DKIM (TXT-Eintrag)",
   "senderDomains.spfRecord": "SPF",

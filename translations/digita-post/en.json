@@ -322,7 +322,7 @@
   "senderDomains.waitingForDns": "Waiting for DNS",
   "senderDomains.state.active": "active",
   "senderDomains.state.pending": "waiting for DNS",
-  "senderDomains.recordsHint": "Publish these three records in the domain's DNS. The key signs mail only once its DKIM record resolves.",
+  "senderDomains.recordsHint": "Publish these records in the domain's DNS. The key signs mail only once its DKIM record resolves.",
   "senderDomains.rotationWaiting": "The new key {selector} waits for its DKIM record. The current key keeps signing until the record below resolves.",
   "senderDomains.dkimRecord": "DKIM (TXT record)",
   "senderDomains.spfRecord": "SPF",

@@ -322,7 +322,7 @@
   "senderDomains.waitingForDns": "En attente du DNS",
   "senderDomains.state.active": "actif",
   "senderDomains.state.pending": "en attente du DNS",
-  "senderDomains.recordsHint": "Publiez ces trois enregistrements dans le DNS du domaine. La clé ne signe le courrier qu'une fois son enregistrement DKIM résolu.",
+  "senderDomains.recordsHint": "Publiez ces enregistrements dans le DNS du domaine. La clé ne signe le courrier qu'une fois son enregistrement DKIM résolu.",
   "senderDomains.rotationWaiting": "La nouvelle clé {selector} attend son enregistrement DKIM. La clé actuelle continue de signer jusqu'à ce que l'enregistrement ci-dessous se résolve.",
   "senderDomains.dkimRecord": "DKIM (enregistrement TXT)",
   "senderDomains.spfRecord": "SPF",

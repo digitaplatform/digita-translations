@@ -322,7 +322,7 @@
   "senderDomains.waitingForDns": "DNS bekleniyor",
   "senderDomains.state.active": "etkin",
   "senderDomains.state.pending": "DNS bekleniyor",
-  "senderDomains.recordsHint": "Bu üç kaydı alan adının DNS'inde yayınla. Anahtar, yalnızca DKIM kaydı çözümlendiğinde postayı imzalar.",
+  "senderDomains.recordsHint": "Bu kayıtları alan adının DNS'inde yayınla. Anahtar, yalnızca DKIM kaydı çözümlendiğinde postayı imzalar.",
   "senderDomains.rotationWaiting": "Yeni {selector} anahtarı DKIM kaydını bekliyor. Mevcut anahtar, aşağıdaki kayıt çözümlenene kadar imzalamaya devam eder.",
   "senderDomains.dkimRecord": "DKIM (TXT kaydı)",
   "senderDomains.spfRecord": "SPF",
