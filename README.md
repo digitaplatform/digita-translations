@@ -35,6 +35,9 @@ placeholders as `{name}`.
   machine-made, in September 2026.
 - `designer.live.warning.groupBandNoLevel`, `designer.live.warning.lookupTruncated` and `list.exportMissing` in digita-report-frontend were written in en and de in October 2026;
   its es, fr, it and tr were machine-made then, and no person has read them yet.
+- `ui.datepicker.previousMonth`, `ui.datepicker.nextMonth`, `ui.datepicker.previousYears`,
+  `ui.datepicker.nextYears` and `ui.action.clear` in digita-report-frontend were copied in every language from
+  the same keys of digita-app in October 2026.
 - `action_not_available` in digita-engine was machine-made in every language in September 2026, and no
   person has read it yet.
 - `table_row_repeated` in digita-engine was written in en and de in October 2026; its es, fr, it and tr
