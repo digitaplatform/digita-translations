@@ -117,7 +117,6 @@
   "queue.flushConfirmTraffic": "This action may cause a spike in outgoing traffic. Are you sure?",
   "queue.deleteMessage": "Delete Message",
   "queue.flushSuccess": "Queue flush initiated.",
-  "queue.flushMessageSuccess": "Message flushed successfully.",
   "queue.deleteSuccess": "Message(s) deleted from queue.",
   "queue.flushFailed": "Failed to flush queue.",
   "queue.deleteFailed": "Failed to delete message.",
@@ -285,15 +284,6 @@
   "appQueue.retrySuccess": "Email scheduled for retry",
   "appQueue.actionFailed": "Action failed",
 
-  "nav.e2eTests": "Email Tests",
-
-  "emailTest.title": "Email Tests",
-  "emailTest.subtitle": "Delivery test tooling for the messaging gateway",
-  "emailTest.placeholderTitle": "Test tooling is coming later",
-  "emailTest.placeholderTransport": "digita-post is a pure 1:1 transport — callers submit final content (subject, HTML, text) and it is delivered as-is. There is no template rendering, so the inherited per-template test suite was removed.",
-  "emailTest.placeholderComing": "Send tests and previews will be added in a later round. Until then, mail submission happens via the internal API:",
-  "emailTest.placeholderSendHint": "Send contract",
-
   "logs.deleteTitle": "Delete email?",
   "logs.deleteMessage": "This will permanently delete this email log entry. This action cannot be undone.",
   "logs.deleteSuccess": "Email deleted",
@@ -340,7 +330,6 @@
   "senderDomains.issuers": "Service token issuers",
   "senderDomains.issuersHint": "A tenant's services send from this domain only with a token of an issuer listed here, for example https://<tenant zone>/auth. Separate several with commas; an empty list closes the domain to tokens.",
   "senderDomains.saveIssuers": "Save issuers",
-  "senderDomains.issuersSaved": "Issuers saved",
+  "senderDomains.issuersSaved": "Issuers saved"
 
-  "subject.test_email": "Digita Post test e-mail"
 }

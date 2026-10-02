@@ -117,7 +117,6 @@
   "queue.flushConfirmTraffic": "Diese Aktion kann einen Anstieg des ausgehenden Datenverkehrs verursachen. Bist du sicher?",
   "queue.deleteMessage": "Nachricht löschen",
   "queue.flushSuccess": "Warteschlange wird geleert.",
-  "queue.flushMessageSuccess": "Nachricht wurde erneut gesendet.",
   "queue.deleteSuccess": "Nachricht(en) aus der Warteschlange gelöscht.",
   "queue.flushFailed": "Warteschlange konnte nicht geleert werden.",
   "queue.deleteFailed": "Nachricht konnte nicht gelöscht werden.",
@@ -285,15 +284,6 @@
   "appQueue.retrySuccess": "E-Mail zum erneuten Versand eingeplant",
   "appQueue.actionFailed": "Aktion fehlgeschlagen",
 
-  "nav.e2eTests": "E-Mail-Tests",
-
-  "emailTest.title": "E-Mail-Tests",
-  "emailTest.subtitle": "Zustelltest-Werkzeuge für das Messaging-Gateway",
-  "emailTest.placeholderTitle": "Test-Werkzeuge folgen später",
-  "emailTest.placeholderTransport": "digita-post ist ein reiner 1:1-Transport — Aufrufer übermitteln finalen Inhalt (Betreff, HTML, Text), der unverändert zugestellt wird. Es gibt kein Vorlagen-Rendering, daher wurde die geerbte vorlagenbasierte Test-Suite entfernt.",
-  "emailTest.placeholderComing": "Testversand und Vorschau werden in einer späteren Runde ergänzt. Bis dahin erfolgt der Mailversand über die interne API:",
-  "emailTest.placeholderSendHint": "Versand-Kontrakt",
-
   "logs.deleteTitle": "E-Mail löschen?",
   "logs.deleteMessage": "Dieser E-Mail-Log-Eintrag wird dauerhaft gelöscht. Diese Aktion kann nicht rückgängig gemacht werden.",
   "logs.deleteSuccess": "E-Mail gelöscht",
@@ -340,7 +330,6 @@
   "senderDomains.issuers": "Aussteller der Service-Tokens",
   "senderDomains.issuersHint": "Die Dienste eines Tenants senden von dieser Domain nur mit einem Token eines hier genannten Ausstellers, zum Beispiel https://<tenant zone>/auth. Mehrere mit Komma trennen; eine leere Liste sperrt die Domain für Tokens.",
   "senderDomains.saveIssuers": "Aussteller speichern",
-  "senderDomains.issuersSaved": "Aussteller gespeichert",
+  "senderDomains.issuersSaved": "Aussteller gespeichert"
 
-  "subject.test_email": "Digita Post Test-E-Mail"
 }
