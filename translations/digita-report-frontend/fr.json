@@ -562,6 +562,8 @@
   "designer.live.warning.orphanBand": "La bande {bandType} « {bandId} » n'a pas de section correspondante — non affichée.",
   "designer.live.warning.groupBandNoLevel": "La bande {bandType} « {bandId} » appartient au niveau de groupe {level}, mais la section « {section} » n'a que {groups} niveau(x) de groupe — non affichée.",
   "designer.live.warning.matrixNoCollection": "La matrice « {objectId} » n'a pas de collection — définissez-en une dans ses propriétés.",
+  "designer.live.warning.matrixCut": "La matrice « {objectId} » ne tient pas dans son cadre : {columns} colonne(s) et {rows} ligne(s) sont coupées et ne s'impriment pas.",
+  "designer.live.warning.pageBandNoRow": "La bande « {bandId} » est un en-tête ou un pied de page, qui n'a pas de ligne : ses expressions row et doc restent vides. Pour imprimer une ligne en pied de page, utilisez un résumé de rapport avec at_page_foot.",
   "designer.live.warning.gaugeNotNumeric": "Jauge « {objectId} » dans la bande « {bandId} » : la valeur n'est pas un nombre.",
   "designer.live.warning.bandTooLarge": "La bande « {bandId} » ({heightMm}mm) est plus haute que la page — imprimée en débordement.",
   "designer.live.warning.nestedBandInvalidBinding": "Bande imbriquée « {bandId} » : une liaison de collection ne fonctionne que sur une bande de données de premier niveau — non affichée.",
