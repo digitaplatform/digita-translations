@@ -37,6 +37,8 @@ placeholders as `{name}`.
   its es, fr, it and tr were machine-made then, and no person has read them yet.
 - `action_not_available` in digita-engine was machine-made in every language in September 2026, and no
   person has read it yet.
+- `table_row_repeated` in digita-engine was written in en and de in October 2026; its es, fr, it and tr
+  were machine-made then, and no person has read them yet.
 - `ui.signature.hint` in digita-app was machine-made in every language in September 2026, and no person
   has read it yet.
 - `field.BrandingSetting.default_signature` and `description.BrandingSetting.default_signature` in

@@ -127,6 +127,7 @@
   "link_subrow_table_missing": "{target} hat keine Tabelle '{table}'",
   "link_subrow_not_found": "Zeile '{row}' wurde in {target}.{table} nicht gefunden",
   "table_row_unique_violation": "{field}: Zeilen {rows} haben denselben Wert ({keys})",
+  "table_row_repeated": "{field}: Zeilen {rows} sind zweimal dieselbe Zeile",
   "entity_required_fields": "name, module, database und fields sind erforderlich",
   "entity_already_exists": "Eine Entität mit diesem Namen existiert bereits",
   "cannot_delete_core_entity": "Plattform-Kernentitäten können nicht gelöscht werden",

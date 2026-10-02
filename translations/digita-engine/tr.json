@@ -127,6 +127,7 @@
   "link_subrow_table_missing": "{target} içinde '{table}' tablosu yok",
   "link_subrow_not_found": "'{row}' satırı {target}.{table} içinde bulunamadı",
   "table_row_unique_violation": "{field}: {rows} satırları aynı değere sahip ({keys})",
+  "table_row_repeated": "{field}: {rows} satırları iki kez aynı satır",
   "entity_required_fields": "name, module, database ve fields zorunludur",
   "entity_already_exists": "Bu ada sahip bir varlık zaten mevcut",
   "cannot_delete_core_entity": "Platform çekirdek varlıkları silinemez",

@@ -127,6 +127,7 @@
   "link_subrow_table_missing": "{target} n'a pas de table '{table}'",
   "link_subrow_not_found": "La ligne '{row}' est introuvable dans {target}.{table}",
   "table_row_unique_violation": "{field} : les lignes {rows} ont la même valeur ({keys})",
+  "table_row_repeated": "{field} : les lignes {rows} sont deux fois la même ligne",
   "entity_required_fields": "name, module, database et fields sont obligatoires",
   "entity_already_exists": "Une entité avec ce nom existe déjà",
   "cannot_delete_core_entity": "Les entités centrales de la plateforme ne peuvent pas être supprimées",

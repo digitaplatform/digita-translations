@@ -127,6 +127,7 @@
   "link_subrow_table_missing": "{target} no tiene la tabla '{table}'",
   "link_subrow_not_found": "No se encontró la fila '{row}' en {target}.{table}",
   "table_row_unique_violation": "{field}: las filas {rows} tienen el mismo valor ({keys})",
+  "table_row_repeated": "{field}: las filas {rows} son dos veces la misma fila",
   "entity_required_fields": "name, module, database y fields son obligatorios",
   "entity_already_exists": "Ya existe una entidad con este nombre",
   "cannot_delete_core_entity": "Las entidades centrales de la plataforma no se pueden eliminar",

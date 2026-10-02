@@ -127,6 +127,7 @@
   "link_subrow_table_missing": "{target} non ha la tabella '{table}'",
   "link_subrow_not_found": "Riga '{row}' non trovata in {target}.{table}",
   "table_row_unique_violation": "{field}: le righe {rows} hanno lo stesso valore ({keys})",
+  "table_row_repeated": "{field}: le righe {rows} sono due volte la stessa riga",
   "entity_required_fields": "name, module, database e fields sono obbligatori",
   "entity_already_exists": "Esiste già un'entità con questo nome",
   "cannot_delete_core_entity": "Le entità principali della piattaforma non possono essere eliminate",
