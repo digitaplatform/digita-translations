@@ -25,13 +25,6 @@
   "session.redirecting": "Redirecting to sign-in…",
 
   "theme.moreActions": "More actions",
-  "theme.mode.toLight": "Switch to light mode",
-  "theme.mode.toDark": "Switch to dark mode",
-  "theme.design.label": "Design",
-  "theme.density.label": "Density",
-  "theme.density.comfortable": "Comfortable",
-  "theme.density.compact": "Compact",
-  "theme.density.spacious": "Spacious",
 
   "list.appName": "Digita Reports",
   "list.signOut": "Sign out",
