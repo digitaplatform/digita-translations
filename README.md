@@ -91,6 +91,8 @@ placeholders as `{name}`.
   `permission_denied_locked_row`, `aggregate_bypasses_read_condition`, `lookup_bypasses_row_scope` and
   `lookup_bypasses_read_condition` were written in en and de in October 2026; their es, fr, it and tr
   were machine-made then, and no person has read them yet.
+- `field_invalid_regex` in digita-engine was rewritten in every language in October 2026, machine-made: it no
+  longer names `{message}`, which the engine never fills, and no person has read it yet.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 

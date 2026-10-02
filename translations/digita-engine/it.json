@@ -17,7 +17,7 @@
   "field_invalid_phone": "{field} non è un numero di telefono valido",
   "field_invalid_url": "{field} non è un URL valido",
   "field_invalid_ip": "{field} non è un indirizzo IP valido",
-  "field_invalid_regex": "{field}: {message}",
+  "field_invalid_regex": "{field}: il valore non ha il formato richiesto.",
   "field_invalid_select": "{field}: '{value}' non è un'opzione valida",
   "field_invalid_date": "{field} non è una data valida",
   "field_invalid_datetime": "{field} non è una data e ora valida",

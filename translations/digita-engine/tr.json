@@ -17,7 +17,7 @@
   "field_invalid_phone": "{field} geçerli bir telefon numarası değil",
   "field_invalid_url": "{field} geçerli bir URL değil",
   "field_invalid_ip": "{field} geçerli bir IP adresi değil",
-  "field_invalid_regex": "{field}: {message}",
+  "field_invalid_regex": "{field}: değer gerekli biçimde değil.",
   "field_invalid_select": "{field}: '{value}' geçerli bir seçenek değil",
   "field_invalid_date": "{field} geçerli bir tarih değil",
   "field_invalid_datetime": "{field} geçerli bir tarih/saat değil",
