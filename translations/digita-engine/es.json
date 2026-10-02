@@ -456,5 +456,6 @@
   "naming_name_required": "Un registro de {doctype} necesita un nombre. Introduce uno.",
   "naming_sequence_exhausted": "La numeración {sequence} no encontró ningún valor libre para {field} tras {attempts} intentos. Avisa a un administrador.",
   "docstatus_state_ambiguous": "{doctype} tiene varios estados para el estado de documento {docstatus} ({states}) y ninguno está marcado como predeterminado. Avisa al autor de la app.",
-  "snapshot_target_missing": "{doctype} no se puede guardar: {target} {name}, al que se refiere {field}, ya no existe."
+  "snapshot_target_missing": "{doctype} no se puede guardar: {target} {name}, al que se refiere {field}, ya no existe.",
+  "field_password_not_as_stored": "{field} contiene una contraseña en su forma guardada y cifrada. Introduce la contraseña como texto."
 }

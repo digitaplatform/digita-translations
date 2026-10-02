@@ -456,5 +456,6 @@
   "naming_name_required": "Ein Datensatz von {doctype} braucht einen Namen. Gib einen ein.",
   "naming_sequence_exhausted": "Die Nummerierung {sequence} hat nach {attempts} Versuchen keinen freien Wert für {field} gefunden. Melde das einem Administrator.",
   "docstatus_state_ambiguous": "{doctype} hat mehrere Status für den Dokumentstatus {docstatus} ({states}), und keiner ist als Standard markiert. Melde das dem Autor der App.",
-  "snapshot_target_missing": "{doctype} kann nicht gespeichert werden: {target} {name}, auf das {field} verweist, existiert nicht mehr."
+  "snapshot_target_missing": "{doctype} kann nicht gespeichert werden: {target} {name}, auf das {field} verweist, existiert nicht mehr.",
+  "field_password_not_as_stored": "{field} enthält ein Passwort in seiner gespeicherten, verschlüsselten Form. Gib das Passwort als Text ein."
 }
