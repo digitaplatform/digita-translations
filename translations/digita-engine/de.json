@@ -438,5 +438,6 @@
   "reseed_write_refused": "{doctype} kann nicht geändert werden, solange ein Zurücksetzen im Modus {running} läuft. Versuchen Sie es erneut, sobald es beendet ist.",
   "rule_expression_invalid": "Die Regel enthält einen Ausdruck, der sich nicht lesen lässt: {error}",
   "reseed_writes_running": "Das Zurücksetzen hat {seconds} s auf Änderungen gewartet, die nicht beendet waren, und nichts gelöscht: {writes}. Starten Sie es erneut, sobald sie beendet sind.",
-  "rule_invalid": "Die Regel kann auf ihrer Entität nicht laufen: {error}"
+  "rule_invalid": "Die Regel kann auf ihrer Entität nicht laufen: {error}",
+  "rule_refused": "{message}"
 }

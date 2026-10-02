@@ -438,5 +438,6 @@
   "reseed_write_refused": "{doctype} ne peut pas être modifié pendant qu'une réinitialisation en mode {running} est en cours. Réessayez une fois qu'elle est terminée.",
   "rule_expression_invalid": "La règle contient une expression qui ne peut pas être analysée : {error}",
   "reseed_writes_running": "La réinitialisation a attendu {seconds} s des modifications qui n'étaient pas terminées et n'a rien supprimé : {writes}. Relancez-la une fois qu'elles sont terminées.",
-  "rule_invalid": "La règle ne peut pas s'exécuter sur son entité : {error}"
+  "rule_invalid": "La règle ne peut pas s'exécuter sur son entité : {error}",
+  "rule_refused": "{message}"
 }
