@@ -107,8 +107,8 @@
   "database_unavailable": "El servicio no está disponible temporalmente, inténtelo de nuevo en breve",
   "database_write_error": "No se pudieron guardar los cambios, inténtelo de nuevo",
   "document_modified": "Otra persona modificó este documento — recárguelo e inténtelo de nuevo",
-  "reseed_running": "Hay un restablecimiento en modo {running} en curso. Inicie el restablecimiento en modo {requested} cuando haya terminado.",
-  "reseed_seed_failed": "La carga de datos falló {attempts} veces tras borrar los datos de la aplicación. La aplicación solo contiene las filas creadas antes del fallo: {error}",
+  "reseed_running": "La operación de datos de demostración {running} está en curso. Inicie {requested} cuando haya terminado.",
+  "reseed_seed_failed": "La carga de datos falló {attempts} veces. La aplicación solo contiene las filas creadas antes del fallo: {error}",
   "duplicate_key": "Ya existe un registro con este {field}",
   "csrf_failed": "Falló la comprobación de seguridad — actualice la página e inténtelo de nuevo",
   "entity_created": "Entidad {name} creada",
@@ -435,10 +435,14 @@
   "entity_definition_restored": "La definición guardada de {name} se ha eliminado; {name} sigue ahora el paquete de la app. No se elimina nada de los datos.",
   "entity_defined_by_bundle": "{name} no tiene una definición guardada que eliminar; la define el paquete de la app. Cambie el paquete en su lugar.",
   "setup_incomplete": "Esta aplicación aún no está configurada. No se puede crear ningún registro nuevo hasta que se complete la configuración.",
-  "reseed_write_refused": "{doctype} no se puede modificar mientras se ejecuta un restablecimiento en modo {running}. Inténtelo de nuevo cuando haya terminado.",
+  "reseed_write_refused": "{doctype} no se puede modificar mientras se ejecuta la operación de datos de demostración {running}. Inténtelo de nuevo cuando haya terminado.",
   "rule_expression_invalid": "La regla tiene una expresión que no se puede analizar: {error}",
-  "reseed_writes_running": "El restablecimiento esperó {seconds} s a cambios que no habían terminado y no eliminó nada: {writes}. Inícielo de nuevo cuando hayan terminado.",
+  "reseed_writes_running": "La operación de datos de demostración esperó {seconds} s a cambios que no habían terminado y no cambió nada: {writes}. Iníciela de nuevo cuando hayan terminado.",
   "rule_invalid": "La regla no puede ejecutarse en su entidad: {error}",
   "rule_refused": "{message}",
-  "view_invalid": "La vista no se puede servir: {error}"
+  "view_invalid": "La vista no se puede servir: {error}",
+  "demo_data_loaded": "Los datos de demostración ya están cargados.",
+  "demo_data_not_loaded": "Los datos de demostración no están cargados.",
+  "demo_data_records_exist": "Los datos de demostración solo se pueden cargar en una aplicación en la que nadie haya creado un registro. Esta aplicación contiene {count} registros de ese tipo.",
+  "demo_data_app_id": "Escriba el identificador de la aplicación, {app_id}, para confirmar."
 }

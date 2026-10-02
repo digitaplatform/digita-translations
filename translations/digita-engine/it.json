@@ -107,8 +107,8 @@
   "database_unavailable": "Il servizio non è temporaneamente disponibile, riprova a breve",
   "database_write_error": "Impossibile salvare le modifiche, riprova",
   "document_modified": "Questo documento è stato modificato da un altro utente — ricarica e riprova",
-  "reseed_running": "È in corso un ripristino in modalità {running}. Avvia il ripristino in modalità {requested} quando è terminato.",
-  "reseed_seed_failed": "Il popolamento è fallito {attempts} volte dopo la cancellazione dei dati dell'app. L'app contiene solo le righe create prima dell'errore: {error}",
+  "reseed_running": "È in corso l'operazione sui dati demo {running}. Avvii {requested} quando è terminata.",
+  "reseed_seed_failed": "Il popolamento è fallito {attempts} volte. L'app contiene solo le righe create prima dell'errore: {error}",
   "duplicate_key": "Esiste già un record con questo {field}",
   "csrf_failed": "Controllo di sicurezza non riuscito — aggiorna la pagina e riprova",
   "entity_created": "Entità {name} creata",
@@ -435,10 +435,14 @@
   "entity_definition_restored": "La definizione salvata di {name} è eliminata; {name} segue ora il pacchetto dell'app. Nulla viene eliminato dai dati.",
   "entity_defined_by_bundle": "{name} non ha una definizione salvata da eliminare; la definisce il pacchetto dell'app. Modifichi invece il pacchetto.",
   "setup_incomplete": "Questa app non è ancora configurata. Non è possibile creare nuovi record finché la configurazione non è completata.",
-  "reseed_write_refused": "{doctype} non può essere modificato mentre è in corso un ripristino in modalità {running}. Riprovi quando è terminato.",
+  "reseed_write_refused": "{doctype} non può essere modificato mentre è in corso l'operazione sui dati demo {running}. Riprovi quando è terminata.",
   "rule_expression_invalid": "La regola contiene un'espressione che non può essere analizzata: {error}",
-  "reseed_writes_running": "Il ripristino ha atteso {seconds} s modifiche non ancora terminate e non ha eliminato nulla: {writes}. Lo riavvii quando sono terminate.",
+  "reseed_writes_running": "L'operazione sui dati demo ha atteso {seconds} s modifiche non ancora terminate e non ha cambiato nulla: {writes}. La riavvii quando sono terminate.",
   "rule_invalid": "La regola non può essere eseguita sulla sua entità: {error}",
   "rule_refused": "{message}",
-  "view_invalid": "La vista non può essere servita: {error}"
+  "view_invalid": "La vista non può essere servita: {error}",
+  "demo_data_loaded": "I dati demo sono già caricati.",
+  "demo_data_not_loaded": "I dati demo non sono caricati.",
+  "demo_data_records_exist": "I dati demo si possono caricare solo in un'app in cui nessuno ha creato un record. Questa app contiene {count} record di questo tipo.",
+  "demo_data_app_id": "Inserisca l'identificativo dell'app, {app_id}, per confermare."
 }

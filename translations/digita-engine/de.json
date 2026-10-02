@@ -107,8 +107,8 @@
   "database_unavailable": "Der Dienst ist vorübergehend nicht verfügbar, bitte versuche es gleich erneut",
   "database_write_error": "Deine Änderungen konnten nicht gespeichert werden, bitte versuche es erneut",
   "document_modified": "Dieses Dokument wurde von jemand anderem geändert — neu laden und erneut versuchen",
-  "reseed_running": "Ein Zurücksetzen im Modus {running} läuft. Starte das Zurücksetzen im Modus {requested}, sobald es beendet ist.",
-  "reseed_seed_failed": "Das Befüllen ist nach dem Löschen der App-Daten {attempts}-mal fehlgeschlagen. Die App enthält nur die Zeilen, die vor dem Fehler angelegt wurden: {error}",
+  "reseed_running": "Der Demodaten-Vorgang {running} läuft. Starten Sie {requested}, sobald er beendet ist.",
+  "reseed_seed_failed": "Das Befüllen ist {attempts}-mal fehlgeschlagen. Die App enthält nur die Zeilen, die vor dem Fehler angelegt wurden: {error}",
   "duplicate_key": "Ein Datensatz mit diesem {field} existiert bereits",
   "csrf_failed": "Sicherheitsprüfung fehlgeschlagen — bitte Seite neu laden und erneut versuchen",
   "entity_created": "Entität {name} erstellt",
@@ -435,10 +435,14 @@
   "entity_definition_restored": "Die gespeicherte Definition von {name} ist gelöscht; {name} folgt jetzt dem App-Bundle. Aus den Daten wird nichts gelöscht.",
   "entity_defined_by_bundle": "{name} hat keine gespeicherte Definition, die gelöscht werden kann; das App-Bundle definiert die Entität. Ändern Sie stattdessen das Bundle.",
   "setup_incomplete": "Diese App ist noch nicht eingerichtet. Neue Datensätze können erst angelegt werden, wenn die Einrichtung abgeschlossen ist.",
-  "reseed_write_refused": "{doctype} kann nicht geändert werden, solange ein Zurücksetzen im Modus {running} läuft. Versuchen Sie es erneut, sobald es beendet ist.",
+  "reseed_write_refused": "{doctype} kann nicht geändert werden, solange der Demodaten-Vorgang {running} läuft. Versuchen Sie es erneut, sobald er beendet ist.",
   "rule_expression_invalid": "Die Regel enthält einen Ausdruck, der sich nicht lesen lässt: {error}",
-  "reseed_writes_running": "Das Zurücksetzen hat {seconds} s auf Änderungen gewartet, die nicht beendet waren, und nichts gelöscht: {writes}. Starten Sie es erneut, sobald sie beendet sind.",
+  "reseed_writes_running": "Der Demodaten-Vorgang hat {seconds} s auf Änderungen gewartet, die nicht beendet waren, und nichts geändert: {writes}. Starten Sie ihn erneut, sobald sie beendet sind.",
   "rule_invalid": "Die Regel kann auf ihrer Entität nicht laufen: {error}",
   "rule_refused": "{message}",
-  "view_invalid": "Die Ansicht kann nicht ausgeliefert werden: {error}"
+  "view_invalid": "Die Ansicht kann nicht ausgeliefert werden: {error}",
+  "demo_data_loaded": "Die Demodaten sind bereits geladen.",
+  "demo_data_not_loaded": "Die Demodaten sind nicht geladen.",
+  "demo_data_records_exist": "Demodaten lassen sich nur in eine App laden, in der niemand einen Datensatz angelegt hat. Diese App enthält {count} solche Datensätze.",
+  "demo_data_app_id": "Geben Sie zur Bestätigung die Kennung der App ein: {app_id}."
 }

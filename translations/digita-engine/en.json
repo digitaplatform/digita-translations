@@ -107,8 +107,8 @@
   "database_unavailable": "The service is temporarily unavailable, please try again shortly",
   "database_write_error": "Could not save your changes, please try again",
   "document_modified": "This document was changed by someone else — reload and try again",
-  "reseed_running": "A reset in mode {running} is running. Start the reset in mode {requested} once it has ended.",
-  "reseed_seed_failed": "The seed failed {attempts} times after the app data was wiped. The app holds only the rows seeded before the failure: {error}",
+  "reseed_running": "The demo data operation {running} is running. Start {requested} once it has ended.",
+  "reseed_seed_failed": "The seed failed {attempts} times. The app holds only the rows seeded before the failure: {error}",
   "duplicate_key": "A record with this {field} already exists",
   "csrf_failed": "Security check failed — please refresh the page and try again",
   "entity_created": "Entity {name} created",
@@ -435,10 +435,14 @@
   "entity_definition_restored": "The stored definition of {name} is deleted; {name} now follows the app bundle. Nothing is deleted from the data.",
   "entity_defined_by_bundle": "{name} has no stored definition to delete; the app bundle defines it. Change the bundle instead.",
   "setup_incomplete": "This app is not set up yet. No new record can be created until its setup is complete.",
-  "reseed_write_refused": "{doctype} cannot be changed while a reset in mode {running} runs. Try again once it has ended.",
+  "reseed_write_refused": "{doctype} cannot be changed while the demo data operation {running} runs. Try again once it has ended.",
   "rule_expression_invalid": "The rule has an expression that does not parse: {error}",
-  "reseed_writes_running": "The reset waited {seconds} s for changes that had not ended, and deleted nothing: {writes}. Start it again once they have ended.",
+  "reseed_writes_running": "The demo data operation waited {seconds} s for changes that had not ended, and changed nothing: {writes}. Start it again once they have ended.",
   "rule_invalid": "The rule cannot run on its entity: {error}",
   "rule_refused": "{message}",
-  "view_invalid": "The view cannot be served: {error}"
+  "view_invalid": "The view cannot be served: {error}",
+  "demo_data_loaded": "The demo data is loaded already.",
+  "demo_data_not_loaded": "The demo data is not loaded.",
+  "demo_data_records_exist": "Demo data can be loaded only into an app where nobody has created a record. This app holds {count} such records.",
+  "demo_data_app_id": "Type the app's id, {app_id}, to confirm."
 }

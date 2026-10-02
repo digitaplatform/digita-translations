@@ -107,8 +107,8 @@
   "database_unavailable": "Le service est temporairement indisponible, veuillez réessayer sous peu",
   "database_write_error": "Impossible d'enregistrer vos modifications, veuillez réessayer",
   "document_modified": "Ce document a été modifié par quelqu'un d'autre — rechargez et réessayez",
-  "reseed_running": "Une réinitialisation en mode {running} est en cours. Lancez la réinitialisation en mode {requested} une fois qu'elle est terminée.",
-  "reseed_seed_failed": "Le remplissage a échoué {attempts} fois après l'effacement des données de l'application. L'application ne contient que les lignes créées avant l'échec : {error}",
+  "reseed_running": "L'opération de données de démonstration {running} est en cours. Lancez {requested} une fois qu'elle est terminée.",
+  "reseed_seed_failed": "Le remplissage a échoué {attempts} fois. L'application ne contient que les lignes créées avant l'échec : {error}",
   "duplicate_key": "Un enregistrement avec ce {field} existe déjà",
   "csrf_failed": "Échec de la vérification de sécurité — veuillez actualiser la page et réessayer",
   "entity_created": "Entité {name} créée",
@@ -435,10 +435,14 @@
   "entity_definition_restored": "La définition enregistrée de {name} est supprimée ; {name} suit désormais le paquet de l'app. Rien n'est supprimé des données.",
   "entity_defined_by_bundle": "{name} n'a aucune définition enregistrée à supprimer ; le paquet de l'app la définit. Modifiez plutôt le paquet.",
   "setup_incomplete": "Cette application n'est pas encore configurée. Aucun nouvel enregistrement ne peut être créé tant que la configuration n'est pas terminée.",
-  "reseed_write_refused": "{doctype} ne peut pas être modifié pendant qu'une réinitialisation en mode {running} est en cours. Réessayez une fois qu'elle est terminée.",
+  "reseed_write_refused": "{doctype} ne peut pas être modifié pendant que l'opération de données de démonstration {running} est en cours. Réessayez une fois qu'elle est terminée.",
   "rule_expression_invalid": "La règle contient une expression qui ne peut pas être analysée : {error}",
-  "reseed_writes_running": "La réinitialisation a attendu {seconds} s des modifications qui n'étaient pas terminées et n'a rien supprimé : {writes}. Relancez-la une fois qu'elles sont terminées.",
+  "reseed_writes_running": "L'opération de données de démonstration a attendu {seconds} s des modifications qui n'étaient pas terminées et n'a rien changé : {writes}. Relancez-la une fois qu'elles sont terminées.",
   "rule_invalid": "La règle ne peut pas s'exécuter sur son entité : {error}",
   "rule_refused": "{message}",
-  "view_invalid": "La vue ne peut pas être servie : {error}"
+  "view_invalid": "La vue ne peut pas être servie : {error}",
+  "demo_data_loaded": "Les données de démonstration sont déjà chargées.",
+  "demo_data_not_loaded": "Les données de démonstration ne sont pas chargées.",
+  "demo_data_records_exist": "Les données de démonstration ne peuvent être chargées que dans une application où personne n'a créé d'enregistrement. Cette application contient {count} enregistrements de ce type.",
+  "demo_data_app_id": "Saisissez l'identifiant de l'application, {app_id}, pour confirmer."
 }
