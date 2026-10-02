@@ -437,5 +437,6 @@
   "setup_incomplete": "This app is not set up yet. No new record can be created until its setup is complete.",
   "reseed_write_refused": "{doctype} cannot be changed while a reset in mode {running} runs. Try again once it has ended.",
   "rule_expression_invalid": "The rule has an expression that does not parse: {error}",
-  "reseed_writes_running": "The reset waited {seconds} s for changes that had not ended, and deleted nothing: {writes}. Start it again once they have ended."
+  "reseed_writes_running": "The reset waited {seconds} s for changes that had not ended, and deleted nothing: {writes}. Start it again once they have ended.",
+  "rule_invalid": "The rule cannot run on its entity: {error}"
 }

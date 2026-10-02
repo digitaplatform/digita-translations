@@ -437,5 +437,6 @@
   "setup_incomplete": "Bu uygulama henüz kurulmadı. Kurulum tamamlanana kadar yeni kayıt oluşturulamaz.",
   "reseed_write_refused": "{running} modunda bir sıfırlama çalışırken {doctype} değiştirilemez. Sıfırlama bittiğinde yeniden deneyin.",
   "rule_expression_invalid": "Kural, ayrıştırılamayan bir ifade içeriyor: {error}",
-  "reseed_writes_running": "Sıfırlama, bitmemiş değişiklikler için {seconds} sn bekledi ve hiçbir şey silmedi: {writes}. Değişiklikler bittiğinde yeniden başlatın."
+  "reseed_writes_running": "Sıfırlama, bitmemiş değişiklikler için {seconds} sn bekledi ve hiçbir şey silmedi: {writes}. Değişiklikler bittiğinde yeniden başlatın.",
+  "rule_invalid": "Kural, varlığı üzerinde çalışamaz: {error}"
 }

@@ -437,5 +437,6 @@
   "setup_incomplete": "Questa app non è ancora configurata. Non è possibile creare nuovi record finché la configurazione non è completata.",
   "reseed_write_refused": "{doctype} non può essere modificato mentre è in corso un ripristino in modalità {running}. Riprovi quando è terminato.",
   "rule_expression_invalid": "La regola contiene un'espressione che non può essere analizzata: {error}",
-  "reseed_writes_running": "Il ripristino ha atteso {seconds} s modifiche non ancora terminate e non ha eliminato nulla: {writes}. Lo riavvii quando sono terminate."
+  "reseed_writes_running": "Il ripristino ha atteso {seconds} s modifiche non ancora terminate e non ha eliminato nulla: {writes}. Lo riavvii quando sono terminate.",
+  "rule_invalid": "La regola non può essere eseguita sulla sua entità: {error}"
 }
