@@ -37,7 +37,7 @@
   "contactUnavailable": "Das Formular kann gerade nicht gesendet werden. Versuchen Sie es später erneut oder schreiben Sie an",
   "contactTooMany": "Sie haben zu viele Formulare gesendet. Versuchen Sie es {time} erneut oder schreiben Sie an",
   "designBandTitle": "Diese Site läuft auf digita. Wechseln Sie das Design.",
-  "designBandNote": "Ein Klick gestaltet die ganze Site um; die Wahl bleibt in Ihrem Browser.",
+  "designBandNote": "Ein Klick gestaltet die ganze Site um; die Wahl bleibt in Ihrem Browser und, wenn Sie angemeldet sind, in Ihrem Konto.",
   "navPrimary": "Hauptnavigation",
   "navFooter": "Fusszeile",
   "embedTitle": "Eingebetteter Inhalt",
