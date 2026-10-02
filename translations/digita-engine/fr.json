@@ -433,5 +433,6 @@
   "description.Workspace.priority": "La valeur la plus basse l'emporte lorsqu'un utilisateur correspond à plusieurs espaces de travail par défaut.",
   "description.Workspace.roles": "string[] noms de rôles autorisés à VOIR cet espace de travail. Vide/absent = tous les utilisateurs authentifiés.",
   "entity_definition_restored": "La définition enregistrée de {name} est supprimée ; {name} suit désormais le paquet de l'app. Rien n'est supprimé des données.",
-  "entity_defined_by_bundle": "{name} n'a aucune définition enregistrée à supprimer ; le paquet de l'app la définit. Modifiez plutôt le paquet."
+  "entity_defined_by_bundle": "{name} n'a aucune définition enregistrée à supprimer ; le paquet de l'app la définit. Modifiez plutôt le paquet.",
+  "setup_incomplete": "Cette application n'est pas encore configurée. Aucun nouvel enregistrement ne peut être créé tant que la configuration n'est pas terminée."
 }

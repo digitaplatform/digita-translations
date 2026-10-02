@@ -369,5 +369,10 @@
   "ui.usermenu.empty": "Nessuna navigazione assegnata.",
   "ui.usermenu.loadFailed": "Impossibile caricare la navigazione.",
   "ui.usermenu.loading": "Caricamento della navigazione",
-  "ui.usermenu.label": "Navigazione principale"
+  "ui.usermenu.label": "Navigazione principale",
+  "ui.setup.title": "Completa la configurazione",
+  "ui.setup.intro": "Questa app ha bisogno di questi dati prima che qualcuno possa creare un record.",
+  "ui.setup.notice": "Questa app non è ancora configurata. Non è possibile creare nuovi record finché la configurazione non è completata.",
+  "ui.setup.askAdministrator": "Chiedi a un amministratore di completare la configurazione.",
+  "ui.setup.recordMissing": "Il record delle impostazioni {entity} non esiste, perché i dati di riferimento dell'app non sono stati caricati. Chi gestisce questa installazione deve caricarli."
 }

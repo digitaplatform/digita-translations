@@ -433,5 +433,6 @@
   "description.Workspace.priority": "Bir kullanıcı birkaç varsayılan çalışma alanıyla eşleştiğinde daha düşük olan kazanır.",
   "description.Workspace.roles": "Bu çalışma alanını GÖREBİLECEK rol adlarının dizisi (string[]). Boş/yok = tüm kimliği doğrulanmış kullanıcılar.",
   "entity_definition_restored": "{name} için kayıtlı tanım silindi; {name} artık uygulama paketini izliyor. Verilerden hiçbir şey silinmez.",
-  "entity_defined_by_bundle": "{name} için silinecek kayıtlı bir tanım yok; onu uygulama paketi tanımlıyor. Bunun yerine paketi değiştirin."
+  "entity_defined_by_bundle": "{name} için silinecek kayıtlı bir tanım yok; onu uygulama paketi tanımlıyor. Bunun yerine paketi değiştirin.",
+  "setup_incomplete": "Bu uygulama henüz kurulmadı. Kurulum tamamlanana kadar yeni kayıt oluşturulamaz."
 }

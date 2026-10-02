@@ -369,5 +369,10 @@
   "ui.usermenu.empty": "Atanmış gezinme yok.",
   "ui.usermenu.loadFailed": "Gezinme yüklenemedi.",
   "ui.usermenu.loading": "Gezinme yükleniyor",
-  "ui.usermenu.label": "Ana gezinme"
+  "ui.usermenu.label": "Ana gezinme",
+  "ui.setup.title": "Kurulumu tamamla",
+  "ui.setup.intro": "Herhangi biri kayıt oluşturabilmeden önce bu uygulamanın şu bilgilere ihtiyacı var.",
+  "ui.setup.notice": "Bu uygulama henüz kurulmadı. Kurulum tamamlanana kadar yeni kayıt oluşturulamaz.",
+  "ui.setup.askAdministrator": "Bir yöneticiden kurulumu tamamlamasını isteyin.",
+  "ui.setup.recordMissing": "{entity} ayar kaydı yok, çünkü uygulamanın referans verileri yüklenmedi. Bu kurulumu işleten kişi bunları yüklemelidir."
 }

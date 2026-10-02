@@ -98,6 +98,9 @@ placeholders as `{name}`.
   is deleted from the data. Their es, fr, it and tr were machine-made then, and no person has read them yet.
 - `field_invalid_regex` in digita-engine was rewritten in every language in October 2026, machine-made: it no
   longer names `{message}`, which the engine never fills, and no person has read it yet.
+- `setup_incomplete` in digita-engine, and `ui.setup.title`, `ui.setup.intro`, `ui.setup.notice`,
+  `ui.setup.askAdministrator` and `ui.setup.recordMissing` in digita-app, were written in en and de in
+  October 2026; their es, fr, it and tr were machine-made then, and no person has read them yet.
 
 The check proves the shape of the files (keys, languages, placeholders), never their meaning.
 

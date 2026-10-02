@@ -369,5 +369,10 @@
   "ui.usermenu.empty": "No navigation assigned.",
   "ui.usermenu.loadFailed": "The navigation could not be loaded.",
   "ui.usermenu.loading": "Loading navigation",
-  "ui.usermenu.label": "Main navigation"
+  "ui.usermenu.label": "Main navigation",
+  "ui.setup.title": "Complete the setup",
+  "ui.setup.intro": "This app needs these details before anyone can create a record.",
+  "ui.setup.notice": "This app is not set up yet. No new record can be created until its setup is complete.",
+  "ui.setup.askAdministrator": "Ask an administrator to complete the setup.",
+  "ui.setup.recordMissing": "The settings record {entity} does not exist, because the app's reference data has not been loaded. Whoever operates this installation must load it."
 }

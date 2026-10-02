@@ -369,5 +369,10 @@
   "ui.usermenu.empty": "No hay navegación asignada.",
   "ui.usermenu.loadFailed": "No se pudo cargar la navegación.",
   "ui.usermenu.loading": "Cargando la navegación",
-  "ui.usermenu.label": "Navegación principal"
+  "ui.usermenu.label": "Navegación principal",
+  "ui.setup.title": "Completar la configuración",
+  "ui.setup.intro": "Esta aplicación necesita estos datos antes de que alguien pueda crear un registro.",
+  "ui.setup.notice": "Esta aplicación aún no está configurada. No se puede crear ningún registro nuevo hasta que se complete la configuración.",
+  "ui.setup.askAdministrator": "Pide a un administrador que complete la configuración.",
+  "ui.setup.recordMissing": "El registro de configuración {entity} no existe, porque no se han cargado los datos de referencia de la aplicación. Quien opera esta instalación debe cargarlos."
 }

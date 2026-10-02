@@ -369,5 +369,10 @@
   "ui.usermenu.empty": "Keine Navigation zugewiesen.",
   "ui.usermenu.loadFailed": "Die Navigation konnte nicht geladen werden.",
   "ui.usermenu.loading": "Navigation wird geladen",
-  "ui.usermenu.label": "Hauptnavigation"
+  "ui.usermenu.label": "Hauptnavigation",
+  "ui.setup.title": "Einrichtung abschließen",
+  "ui.setup.intro": "Diese App braucht diese Angaben, bevor jemand einen Datensatz anlegen kann.",
+  "ui.setup.notice": "Diese App ist noch nicht eingerichtet. Neue Datensätze können erst angelegt werden, wenn die Einrichtung abgeschlossen ist.",
+  "ui.setup.askAdministrator": "Bitte einen Administrator, die Einrichtung abzuschließen.",
+  "ui.setup.recordMissing": "Der Einstellungsdatensatz {entity} existiert nicht, weil die Referenzdaten der App nicht geladen wurden. Wer diese Installation betreibt, muss sie laden."
 }
