@@ -455,7 +455,6 @@
   "naming_config_invalid": "{doctype} numaralandırması doğru ayarlanmamış (strateji {strategy}). Uygulamanın yazarına bildirin.",
   "naming_name_required": "Bir {doctype} kaydının bir adı olmalı. Bir ad girin.",
   "naming_sequence_exhausted": "{sequence} numaralandırması {attempts} denemeden sonra {field} için boş değer bulamadı. Bir yöneticiye bildirin.",
-  "field_password_not_as_stored": "{field} bir parolayı kaydedilmiş, şifrelenmiş biçimiyle içeriyor. Parolayı metin olarak girin.",
   "docstatus_state_ambiguous": "{doctype}, {docstatus} belge durumu için birden fazla duruma ({states}) sahip ve hiçbiri varsayılan olarak işaretlenmemiş. Uygulamanın yazarına bildirin.",
   "snapshot_target_missing": "{doctype} kaydedilemiyor: {field} alanının işaret ettiği {target} {name} artık yok."
 }

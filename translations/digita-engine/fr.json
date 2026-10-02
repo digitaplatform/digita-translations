@@ -455,7 +455,6 @@
   "naming_config_invalid": "La numérotation de {doctype} n'est pas correctement configurée (stratégie {strategy}). Prévenez l'auteur de l'application.",
   "naming_name_required": "Un enregistrement de {doctype} a besoin d'un nom. Saisissez-en un.",
   "naming_sequence_exhausted": "La numérotation {sequence} n'a trouvé aucune valeur libre pour {field} après {attempts} essais. Prévenez un administrateur.",
-  "field_password_not_as_stored": "{field} contient un mot de passe sous sa forme enregistrée et chiffrée. Saisissez le mot de passe en clair.",
   "docstatus_state_ambiguous": "{doctype} a plusieurs états pour le statut de document {docstatus} ({states}) et aucun n'est marqué par défaut. Prévenez l'auteur de l'application.",
   "snapshot_target_missing": "{doctype} ne peut pas être enregistré : {target} {name}, auquel {field} fait référence, n'existe plus."
 }
