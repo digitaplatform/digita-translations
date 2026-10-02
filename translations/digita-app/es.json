@@ -341,6 +341,7 @@
   "ui.jobs.doc": "Documento destino",
   "ui.jobs.name": "Nombre de la tarea",
   "ui.jobs.cron": "Cron (vacío = solo manual)",
+  "ui.jobs.cronRequired": "Cron (obligatorio)",
   "ui.jobs.cronHint": "5 campos: min hora día mes díasem — p. ej. 0 3 * * * = diario 03:00",
   "ui.jobs.noLongRunning": "Esta entidad no tiene acciones aptas (long_running).",
   "ui.jobs.status.queued": "en cola",

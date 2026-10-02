@@ -341,6 +341,7 @@
   "ui.jobs.doc": "Target document",
   "ui.jobs.name": "Job name",
   "ui.jobs.cron": "Cron (empty = manual only)",
+  "ui.jobs.cronRequired": "Cron (required)",
   "ui.jobs.cronHint": "5 fields: min hour day month weekday — e.g. 0 3 * * * = daily 03:00",
   "ui.jobs.noLongRunning": "This entity has no job-capable (long_running) actions.",
   "ui.jobs.status.queued": "queued",

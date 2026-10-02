@@ -341,6 +341,7 @@
   "ui.jobs.doc": "Hedef belge",
   "ui.jobs.name": "Görev adı",
   "ui.jobs.cron": "Cron (boş = yalnız manuel)",
+  "ui.jobs.cronRequired": "Cron (zorunlu)",
   "ui.jobs.cronHint": "5 alan: dk saat gün ay haftagünü — örn. 0 3 * * * = her gün 03:00",
   "ui.jobs.noLongRunning": "Bu varlıkta göreve uygun (long_running) eylem yok.",
   "ui.jobs.status.queued": "kuyrukta",

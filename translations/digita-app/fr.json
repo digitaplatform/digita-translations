@@ -341,6 +341,7 @@
   "ui.jobs.doc": "Document cible",
   "ui.jobs.name": "Nom de la tâche",
   "ui.jobs.cron": "Cron (vide = manuel)",
+  "ui.jobs.cronRequired": "Cron (obligatoire)",
   "ui.jobs.cronHint": "5 champs : min heure jour mois joursem — ex. 0 3 * * * = chaque jour 03:00",
   "ui.jobs.noLongRunning": "Cette entité n’a pas d’action compatible (long_running).",
   "ui.jobs.status.queued": "en attente",

@@ -341,6 +341,7 @@
   "ui.jobs.doc": "Documento di destinazione",
   "ui.jobs.name": "Nome attività",
   "ui.jobs.cron": "Cron (vuoto = solo manuale)",
+  "ui.jobs.cronRequired": "Cron (obbligatorio)",
   "ui.jobs.cronHint": "5 campi: min ora giorno mese giornosett — es. 0 3 * * * = ogni giorno 03:00",
   "ui.jobs.noLongRunning": "Questa entità non ha azioni idonee (long_running).",
   "ui.jobs.status.queued": "in coda",
