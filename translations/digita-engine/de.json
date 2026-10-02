@@ -523,5 +523,10 @@
   "storage_config_incomplete": "Der Dateispeicher {backend} ist nicht vollständig eingerichtet; es fehlt: {missing}.",
   "file_not_in_storage": "Die Datei liegt nicht mehr im Speicher.",
   "engine_i18n_not_loaded": "Die Texte der Engine sind noch nicht geladen.",
-  "attach_storage_path_invalid": "{count} Entitätsdefinition(en) mit Dateifeldern nennen keinen gültigen storage_path: {doctypes}"
+  "attach_storage_path_invalid": "{count} Entitätsdefinition(en) mit Dateifeldern nennen keinen gültigen storage_path: {doctypes}",
+  "role_registry_not_initialised": "Die Rollen der Engine sind noch nicht geladen.",
+  "delegation_user_token_missing": "Ein Dienst kann ohne deine Anmeldung nicht in deinem Namen handeln.",
+  "delegation_mint_failed": "Der Anmeldedienst hat abgelehnt, dass ein Dienst in deinem Namen handelt (Status {status}): {error}",
+  "token_type_wrong": "Das Token ist ein {got}-Token, kein {expected}-Token.",
+  "delegation_scope_malformed": "Das Delegations-Token nennt keinen vollständigen Geltungsbereich."
 }

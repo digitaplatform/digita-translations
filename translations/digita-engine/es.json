@@ -523,5 +523,10 @@
   "storage_config_incomplete": "El almacenamiento de archivos {backend} no está configurado del todo; falta: {missing}.",
   "file_not_in_storage": "El archivo ya no está en el almacenamiento.",
   "engine_i18n_not_loaded": "Los textos del motor aún no están cargados.",
-  "attach_storage_path_invalid": "{count} definición(es) de entidad con campos de archivo no declaran un storage_path válido: {doctypes}"
+  "attach_storage_path_invalid": "{count} definición(es) de entidad con campos de archivo no declaran un storage_path válido: {doctypes}",
+  "role_registry_not_initialised": "Los roles del motor aún no están cargados.",
+  "delegation_user_token_missing": "Un servicio no puede actuar en su nombre sin que usted haya iniciado sesión.",
+  "delegation_mint_failed": "El servicio de inicio de sesión rechazó que un servicio actúe en su nombre (estado {status}): {error}",
+  "token_type_wrong": "El token es un token {got}, no un token {expected}.",
+  "delegation_scope_malformed": "El token de delegación no indica un ámbito completo."
 }

@@ -523,5 +523,10 @@
   "storage_config_incomplete": "L'archivio file {backend} non è configurato del tutto; manca: {missing}.",
   "file_not_in_storage": "Il file non è più nell'archivio.",
   "engine_i18n_not_loaded": "I testi del motore non sono ancora caricati.",
-  "attach_storage_path_invalid": "{count} definizione/i di entità con campi file non dichiarano uno storage_path valido: {doctypes}"
+  "attach_storage_path_invalid": "{count} definizione/i di entità con campi file non dichiarano uno storage_path valido: {doctypes}",
+  "role_registry_not_initialised": "I ruoli del motore non sono ancora caricati.",
+  "delegation_user_token_missing": "Un servizio non può agire per tuo conto senza il tuo accesso.",
+  "delegation_mint_failed": "Il servizio di accesso ha rifiutato che un servizio agisca per tuo conto (stato {status}): {error}",
+  "token_type_wrong": "Il token è un token {got}, non un token {expected}.",
+  "delegation_scope_malformed": "Il token di delega non indica un ambito completo."
 }

@@ -523,5 +523,10 @@
   "storage_config_incomplete": "{backend} dosya depolaması tam yapılandırılmamış; eksik: {missing}.",
   "file_not_in_storage": "Dosya artık depolamada değil.",
   "engine_i18n_not_loaded": "Motorun metinleri henüz yüklenmedi.",
-  "attach_storage_path_invalid": "Dosya alanları olan {count} varlık tanımı geçerli bir storage_path belirtmiyor: {doctypes}"
+  "attach_storage_path_invalid": "Dosya alanları olan {count} varlık tanımı geçerli bir storage_path belirtmiyor: {doctypes}",
+  "role_registry_not_initialised": "Motorun rolleri henüz yüklenmedi.",
+  "delegation_user_token_missing": "Bir hizmet oturum açmanız olmadan sizin adınıza işlem yapamaz.",
+  "delegation_mint_failed": "Oturum açma hizmeti bir hizmetin sizin adınıza işlem yapmasını reddetti (durum {status}): {error}",
+  "token_type_wrong": "Bu belirteç bir {expected} belirteci değil, bir {got} belirteci.",
+  "delegation_scope_malformed": "Yetki devri belirteci tam bir kapsam belirtmiyor."
 }

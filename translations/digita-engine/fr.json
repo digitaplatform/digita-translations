@@ -523,5 +523,10 @@
   "storage_config_incomplete": "Le stockage de fichiers {backend} n'est pas entièrement configuré ; il manque : {missing}.",
   "file_not_in_storage": "Le fichier n'est plus dans le stockage.",
   "engine_i18n_not_loaded": "Les textes du moteur ne sont pas encore chargés.",
-  "attach_storage_path_invalid": "{count} définition(s) d'entité avec des champs fichier ne déclarent aucun storage_path valide : {doctypes}"
+  "attach_storage_path_invalid": "{count} définition(s) d'entité avec des champs fichier ne déclarent aucun storage_path valide : {doctypes}",
+  "role_registry_not_initialised": "Les rôles du moteur ne sont pas encore chargés.",
+  "delegation_user_token_missing": "Un service ne peut pas agir en votre nom sans votre connexion.",
+  "delegation_mint_failed": "Le service de connexion a refusé qu'un service agisse en votre nom (statut {status}) : {error}",
+  "token_type_wrong": "Le jeton est un jeton {got}, pas un jeton {expected}.",
+  "delegation_scope_malformed": "Le jeton de délégation n'indique aucune portée complète."
 }
