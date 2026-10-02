@@ -436,5 +436,6 @@
   "entity_defined_by_bundle": "{name} has no stored definition to delete; the app bundle defines it. Change the bundle instead.",
   "setup_incomplete": "This app is not set up yet. No new record can be created until its setup is complete.",
   "reseed_write_refused": "{doctype} cannot be changed while a reset in mode {running} runs. Try again once it has ended.",
-  "rule_expression_invalid": "The rule has an expression that does not parse: {error}"
+  "rule_expression_invalid": "The rule has an expression that does not parse: {error}",
+  "reseed_writes_running": "The reset waited {seconds} s for changes that had not ended, and deleted nothing: {writes}. Start it again once they have ended."
 }

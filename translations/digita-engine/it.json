@@ -436,5 +436,6 @@
   "entity_defined_by_bundle": "{name} non ha una definizione salvata da eliminare; la definisce il pacchetto dell'app. Modifichi invece il pacchetto.",
   "setup_incomplete": "Questa app non è ancora configurata. Non è possibile creare nuovi record finché la configurazione non è completata.",
   "reseed_write_refused": "{doctype} non può essere modificato mentre è in corso un ripristino in modalità {running}. Riprovi quando è terminato.",
-  "rule_expression_invalid": "La regola contiene un'espressione che non può essere analizzata: {error}"
+  "rule_expression_invalid": "La regola contiene un'espressione che non può essere analizzata: {error}",
+  "reseed_writes_running": "Il ripristino ha atteso {seconds} s modifiche non ancora terminate e non ha eliminato nulla: {writes}. Lo riavvii quando sono terminate."
 }
