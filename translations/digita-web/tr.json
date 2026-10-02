@@ -37,7 +37,7 @@
   "contactUnavailable": "Form şu anda gönderilemiyor. Lütfen daha sonra yeniden deneyin ya da şu adrese yazın:",
   "contactTooMany": "Çok fazla form gönderdiniz. Lütfen {time} yeniden deneyin ya da şu adrese yazın:",
   "designBandTitle": "Bu site digita üzerinde çalışıyor. Tasarımı değiştirin.",
-  "designBandNote": "Tek tıkla tüm site yeniden biçimlenir; seçim tarayıcınızda kalır.",
+  "designBandNote": "Tek tıkla tüm site yeniden biçimlenir; seçim tarayıcınızda ve, oturum açtıysanız, hesabınızda kalır.",
   "navPrimary": "Ana gezinme",
   "navFooter": "Alt bilgi",
   "embedTitle": "Gömülü içerik",

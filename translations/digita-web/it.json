@@ -37,7 +37,7 @@
   "contactUnavailable": "Al momento non è possibile inviare il modulo. Riprovate più tardi oppure scrivete a",
   "contactTooMany": "Avete inviato troppi moduli. Riprovate {time} oppure scrivete a",
   "designBandTitle": "Questo sito gira su digita. Cambiate il design.",
-  "designBandNote": "Un clic ridisegna l'intero sito; la scelta resta nel vostro browser.",
+  "designBandNote": "Un clic ridisegna l'intero sito; la scelta resta nel vostro browser e, se avete effettuato l'accesso, nel vostro account.",
   "navPrimary": "Navigazione principale",
   "navFooter": "Piè di pagina",
   "embedTitle": "Contenuto incorporato",

@@ -37,7 +37,7 @@
   "contactUnavailable": "The form cannot be sent right now. Please try again later, or write to",
   "contactTooMany": "You have sent too many forms. Please try again {time}, or write to",
   "designBandTitle": "This site runs on digita. Switch the design.",
-  "designBandNote": "One click restyles the whole site; the choice stays in your browser.",
+  "designBandNote": "One click restyles the whole site; the choice stays in your browser and, when you are signed in, on your account.",
   "navPrimary": "Primary",
   "navFooter": "Footer",
   "embedTitle": "Embedded content",

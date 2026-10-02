@@ -37,7 +37,7 @@
   "contactUnavailable": "El formulario no se puede enviar en este momento. Inténtelo de nuevo más tarde o escriba a",
   "contactTooMany": "Ha enviado demasiados formularios. Inténtelo de nuevo {time} o escriba a",
   "designBandTitle": "Este sitio funciona con digita. Cambie el diseño.",
-  "designBandNote": "Un clic rediseña todo el sitio; la elección se queda en su navegador.",
+  "designBandNote": "Un clic rediseña todo el sitio; la elección se queda en su navegador y, si ha iniciado sesión, en su cuenta.",
   "navPrimary": "Navegación principal",
   "navFooter": "Pie de página",
   "embedTitle": "Contenido incrustado",
