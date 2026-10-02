@@ -107,6 +107,8 @@
   "database_unavailable": "Il servizio non è temporaneamente disponibile, riprova a breve",
   "database_write_error": "Impossibile salvare le modifiche, riprova",
   "document_modified": "Questo documento è stato modificato da un altro utente — ricarica e riprova",
+  "reseed_running": "È in corso un ripristino in modalità {running}. Avvia il ripristino in modalità {requested} quando è terminato.",
+  "reseed_seed_failed": "Il popolamento è fallito {attempts} volte dopo la cancellazione dei dati dell'app. L'app contiene solo le righe create prima dell'errore: {error}",
   "duplicate_key": "Esiste già un record con questo {field}",
   "csrf_failed": "Controllo di sicurezza non riuscito — aggiorna la pagina e riprova",
   "entity_created": "Entità {name} creata",

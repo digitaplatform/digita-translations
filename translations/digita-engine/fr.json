@@ -107,6 +107,8 @@
   "database_unavailable": "Le service est temporairement indisponible, veuillez réessayer sous peu",
   "database_write_error": "Impossible d'enregistrer vos modifications, veuillez réessayer",
   "document_modified": "Ce document a été modifié par quelqu'un d'autre — rechargez et réessayez",
+  "reseed_running": "Une réinitialisation en mode {running} est en cours. Lancez la réinitialisation en mode {requested} une fois qu'elle est terminée.",
+  "reseed_seed_failed": "Le remplissage a échoué {attempts} fois après l'effacement des données de l'application. L'application ne contient que les lignes créées avant l'échec : {error}",
   "duplicate_key": "Un enregistrement avec ce {field} existe déjà",
   "csrf_failed": "Échec de la vérification de sécurité — veuillez actualiser la page et réessayer",
   "entity_created": "Entité {name} créée",

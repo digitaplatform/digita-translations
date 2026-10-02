@@ -107,6 +107,8 @@
   "database_unavailable": "The service is temporarily unavailable, please try again shortly",
   "database_write_error": "Could not save your changes, please try again",
   "document_modified": "This document was changed by someone else — reload and try again",
+  "reseed_running": "A reset in mode {running} is running. Start the reset in mode {requested} once it has ended.",
+  "reseed_seed_failed": "The seed failed {attempts} times after the app data was wiped. The app holds only the rows seeded before the failure: {error}",
   "duplicate_key": "A record with this {field} already exists",
   "csrf_failed": "Security check failed — please refresh the page and try again",
   "entity_created": "Entity {name} created",

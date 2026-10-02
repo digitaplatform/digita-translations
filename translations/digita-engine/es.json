@@ -107,6 +107,8 @@
   "database_unavailable": "El servicio no está disponible temporalmente, inténtelo de nuevo en breve",
   "database_write_error": "No se pudieron guardar los cambios, inténtelo de nuevo",
   "document_modified": "Otra persona modificó este documento — recárguelo e inténtelo de nuevo",
+  "reseed_running": "Hay un restablecimiento en modo {running} en curso. Inicie el restablecimiento en modo {requested} cuando haya terminado.",
+  "reseed_seed_failed": "La carga de datos falló {attempts} veces tras borrar los datos de la aplicación. La aplicación solo contiene las filas creadas antes del fallo: {error}",
   "duplicate_key": "Ya existe un registro con este {field}",
   "csrf_failed": "Falló la comprobación de seguridad — actualice la página e inténtelo de nuevo",
   "entity_created": "Entidad {name} creada",

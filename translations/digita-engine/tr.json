@@ -107,6 +107,8 @@
   "database_unavailable": "Hizmet geçici olarak kullanılamıyor, lütfen birazdan tekrar deneyin",
   "database_write_error": "Değişiklikleriniz kaydedilemedi, lütfen tekrar deneyin",
   "document_modified": "Bu belge başka biri tarafından değiştirildi — yeniden yükleyip tekrar deneyin",
+  "reseed_running": "{running} modunda bir sıfırlama çalışıyor. {requested} modundaki sıfırlamayı o bittikten sonra başlatın.",
+  "reseed_seed_failed": "Uygulama verileri silindikten sonra veri yükleme {attempts} kez başarısız oldu. Uygulama yalnızca hatadan önce oluşturulan satırları içeriyor: {error}",
   "duplicate_key": "Bu {field} ile bir kayıt zaten mevcut",
   "csrf_failed": "Güvenlik denetimi başarısız — lütfen sayfayı yenileyip tekrar deneyin",
   "entity_created": "{name} varlığı oluşturuldu",

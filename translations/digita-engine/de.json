@@ -107,6 +107,8 @@
   "database_unavailable": "Der Dienst ist vorübergehend nicht verfügbar, bitte versuche es gleich erneut",
   "database_write_error": "Deine Änderungen konnten nicht gespeichert werden, bitte versuche es erneut",
   "document_modified": "Dieses Dokument wurde von jemand anderem geändert — neu laden und erneut versuchen",
+  "reseed_running": "Ein Zurücksetzen im Modus {running} läuft. Starte das Zurücksetzen im Modus {requested}, sobald es beendet ist.",
+  "reseed_seed_failed": "Das Befüllen ist nach dem Löschen der App-Daten {attempts}-mal fehlgeschlagen. Die App enthält nur die Zeilen, die vor dem Fehler angelegt wurden: {error}",
   "duplicate_key": "Ein Datensatz mit diesem {field} existiert bereits",
   "csrf_failed": "Sicherheitsprüfung fehlgeschlagen — bitte Seite neu laden und erneut versuchen",
   "entity_created": "Entität {name} erstellt",
