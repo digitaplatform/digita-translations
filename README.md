@@ -99,8 +99,9 @@ placeholders as `{name}`.
 - `entity_definition_restored` and `entity_defined_by_bundle` in digita-engine were written in en and de
   in October 2026, and `entity_deleted` there was rewritten in en and de then: it now says that nothing
   is deleted from the data. Their es, fr, it and tr were machine-made then, and no person has read them yet.
-- `reseed_write_refused` in digita-engine was written in en and de in October 2026; its es, fr, it and tr
-  were machine-made then, and no person has read them yet.
+- `reseed_write_refused` in digita-engine was written in en and de in October 2026, and rewritten then to
+  fit a refused delete and cancel too; its es, fr, it and tr were machine-made then, and no person has read
+  them yet.
 - `field_invalid_regex` in digita-engine was rewritten in every language in October 2026, machine-made: it no
   longer names `{message}`, which the engine never fills, and no person has read it yet.
 - `setup_incomplete` in digita-engine, and `ui.setup.title`, `ui.setup.intro`, `ui.setup.notice`,

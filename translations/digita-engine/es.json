@@ -435,5 +435,5 @@
   "entity_definition_restored": "La definición guardada de {name} se ha eliminado; {name} sigue ahora el paquete de la app. No se elimina nada de los datos.",
   "entity_defined_by_bundle": "{name} no tiene una definición guardada que eliminar; la define el paquete de la app. Cambie el paquete en su lugar.",
   "setup_incomplete": "Esta aplicación aún no está configurada. No se puede crear ningún registro nuevo hasta que se complete la configuración.",
-  "reseed_write_refused": "{doctype} no se puede guardar mientras se ejecuta un restablecimiento en modo {running}. Guarde de nuevo cuando haya terminado."
+  "reseed_write_refused": "{doctype} no se puede modificar mientras se ejecuta un restablecimiento en modo {running}. Inténtelo de nuevo cuando haya terminado."
 }
