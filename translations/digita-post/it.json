@@ -117,7 +117,6 @@
   "queue.flushConfirmTraffic": "Questa azione potrebbe causare un picco nel traffico in uscita. Sei sicuro?",
   "queue.deleteMessage": "Elimina messaggio",
   "queue.flushSuccess": "Svuotamento della coda avviato.",
-  "queue.flushMessageSuccess": "Messaggio svuotato correttamente.",
   "queue.deleteSuccess": "Messaggio/i eliminato/i dalla coda.",
   "queue.flushFailed": "Svuotamento della coda non riuscito.",
   "queue.deleteFailed": "Eliminazione del messaggio non riuscita.",
@@ -287,15 +286,6 @@
   "appQueue.retrySuccess": "Email pianificata per un nuovo tentativo",
   "appQueue.actionFailed": "Azione non riuscita",
 
-  "nav.e2eTests": "Test email",
-
-  "emailTest.title": "Test email",
-  "emailTest.subtitle": "Strumenti di test di consegna per il gateway di messaggistica",
-  "emailTest.placeholderTitle": "Gli strumenti di test arriveranno in seguito",
-  "emailTest.placeholderTransport": "digita-post è un trasporto puro 1:1 — i chiamanti inviano il contenuto finale (oggetto, HTML, testo) e viene consegnato così com'è. Non c'è rendering di template, quindi la suite di test ereditata per template è stata rimossa.",
-  "emailTest.placeholderComing": "I test di invio e le anteprime saranno aggiunti in un round successivo. Fino ad allora, l'invio della posta avviene tramite l'API interna:",
-  "emailTest.placeholderSendHint": "Contratto di invio",
-
   "logs.deleteTitle": "Eliminare l'email?",
   "logs.deleteMessage": "Questa operazione elimina definitivamente questa voce del log email. Questa azione non può essere annullata.",
   "logs.deleteSuccess": "Email eliminata",
@@ -343,7 +333,6 @@
   "senderDomains.issuers": "Emittenti dei token di servizio",
   "senderDomains.issuersHint": "I servizi di un tenant inviano da questo dominio solo con un token di un emittente elencato qui, ad esempio https://<tenant zone>/auth. Separarne più di uno con virgole; un elenco vuoto chiude il dominio ai token.",
   "senderDomains.saveIssuers": "Salva emittenti",
-  "senderDomains.issuersSaved": "Emittenti salvati",
+  "senderDomains.issuersSaved": "Emittenti salvati"
 
-  "subject.test_email": "Email di test Digita Post"
 }

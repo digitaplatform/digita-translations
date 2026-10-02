@@ -117,7 +117,6 @@
   "queue.flushConfirmTraffic": "Cette action peut provoquer un pic de trafic sortant. Êtes-vous sûr ?",
   "queue.deleteMessage": "Supprimer le message",
   "queue.flushSuccess": "Vidage de la file d'attente lancé.",
-  "queue.flushMessageSuccess": "Message vidé avec succès.",
   "queue.deleteSuccess": "Message(s) supprimé(s) de la file d'attente.",
   "queue.flushFailed": "Échec du vidage de la file d'attente.",
   "queue.deleteFailed": "Échec de la suppression du message.",
@@ -287,15 +286,6 @@
   "appQueue.retrySuccess": "E-mail programmé pour une nouvelle tentative",
   "appQueue.actionFailed": "L'action a échoué",
 
-  "nav.e2eTests": "Tests e-mail",
-
-  "emailTest.title": "Tests e-mail",
-  "emailTest.subtitle": "Outils de test de livraison pour la passerelle de messagerie",
-  "emailTest.placeholderTitle": "Les outils de test arriveront plus tard",
-  "emailTest.placeholderTransport": "digita-post est un transport pur 1:1 — les appelants soumettent le contenu final (objet, HTML, texte) et il est livré tel quel. Il n'y a pas de rendu de modèles, donc la suite de tests héritée par modèle a été supprimée.",
-  "emailTest.placeholderComing": "Les tests d'envoi et les aperçus seront ajoutés lors d'une phase ultérieure. Jusqu'à cela, la soumission des e-mails se fait via l'API interne :",
-  "emailTest.placeholderSendHint": "Contrat d'envoi",
-
   "logs.deleteTitle": "Supprimer l'e-mail ?",
   "logs.deleteMessage": "Cela supprimera définitivement cette entrée du journal des e-mails. Cette action est irréversible.",
   "logs.deleteSuccess": "E-mail supprimé",
@@ -343,7 +333,6 @@
   "senderDomains.issuers": "Émetteurs des jetons de service",
   "senderDomains.issuersHint": "Les services d'un tenant n'envoient depuis ce domaine qu'avec un jeton d'un émetteur indiqué ici, par exemple https://<tenant zone>/auth. Séparez-en plusieurs par des virgules ; une liste vide ferme le domaine aux jetons.",
   "senderDomains.saveIssuers": "Enregistrer les émetteurs",
-  "senderDomains.issuersSaved": "Émetteurs enregistrés",
+  "senderDomains.issuersSaved": "Émetteurs enregistrés"
 
-  "subject.test_email": "E-mail de test Digita Post"
 }

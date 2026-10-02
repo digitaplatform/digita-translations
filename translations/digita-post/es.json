@@ -117,7 +117,6 @@
   "queue.flushConfirmTraffic": "Esta acción puede causar un pico en el tráfico saliente. ¿Estás seguro?",
   "queue.deleteMessage": "Eliminar mensaje",
   "queue.flushSuccess": "Vaciado de cola iniciado.",
-  "queue.flushMessageSuccess": "Mensaje vaciado correctamente.",
   "queue.deleteSuccess": "Mensaje(s) eliminado(s) de la cola.",
   "queue.flushFailed": "No se pudo vaciar la cola.",
   "queue.deleteFailed": "No se pudo eliminar el mensaje.",
@@ -287,15 +286,6 @@
   "appQueue.retrySuccess": "Correo programado para reintento",
   "appQueue.actionFailed": "La acción falló",
 
-  "nav.e2eTests": "Pruebas de correo",
-
-  "emailTest.title": "Pruebas de correo",
-  "emailTest.subtitle": "Herramientas de prueba de entrega para la puerta de enlace de mensajería",
-  "emailTest.placeholderTitle": "Las herramientas de prueba llegarán más adelante",
-  "emailTest.placeholderTransport": "digita-post es un transporte puro 1:1 — los llamantes envían el contenido final (asunto, HTML, texto) y se entrega tal cual. No hay renderizado de plantillas, así que se eliminó la suite de pruebas heredada por plantilla.",
-  "emailTest.placeholderComing": "Las pruebas de envío y las vistas previas se añadirán en una ronda posterior. Hasta entonces, el envío de correo se hace a través de la API interna:",
-  "emailTest.placeholderSendHint": "Contrato de envío",
-
   "logs.deleteTitle": "¿Eliminar correo?",
   "logs.deleteMessage": "Esto eliminará permanentemente esta entrada del registro de correo. Esta acción no se puede deshacer.",
   "logs.deleteSuccess": "Correo eliminado",
@@ -343,7 +333,6 @@
   "senderDomains.issuers": "Emisores de tokens de servicio",
   "senderDomains.issuersHint": "Los servicios de un tenant solo envían desde este dominio con un token de un emisor indicado aquí, por ejemplo https://<tenant zone>/auth. Separe varios con comas; una lista vacía cierra el dominio a los tokens.",
   "senderDomains.saveIssuers": "Guardar emisores",
-  "senderDomains.issuersSaved": "Emisores guardados",
+  "senderDomains.issuersSaved": "Emisores guardados"
 
-  "subject.test_email": "Correo de prueba de Digita Post"
 }

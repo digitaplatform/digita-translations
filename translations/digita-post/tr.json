@@ -117,7 +117,6 @@
   "queue.flushConfirmTraffic": "Bu işlem giden trafikte bir artışa neden olabilir. Emin misin?",
   "queue.deleteMessage": "Mesajı sil",
   "queue.flushSuccess": "Kuyruk boşaltma başlatıldı.",
-  "queue.flushMessageSuccess": "Mesaj başarıyla gönderildi.",
   "queue.deleteSuccess": "Mesaj(lar) kuyruktan silindi.",
   "queue.flushFailed": "Kuyruk boşaltılamadı.",
   "queue.deleteFailed": "Mesaj silinemedi.",
@@ -287,15 +286,6 @@
   "appQueue.retrySuccess": "E-posta yeniden deneme için zamanlandı",
   "appQueue.actionFailed": "İşlem başarısız oldu",
 
-  "nav.e2eTests": "E-posta testleri",
-
-  "emailTest.title": "E-posta testleri",
-  "emailTest.subtitle": "Mesajlaşma geçidi için teslimat test araçları",
-  "emailTest.placeholderTitle": "Test araçları daha sonra eklenecek",
-  "emailTest.placeholderTransport": "digita-post saf bir 1:1 taşımadır — çağıranlar nihai içeriği (konu, HTML, metin) gönderir ve olduğu gibi teslim edilir. Şablon oluşturma yoktur, bu nedenle şablon başına devralınan test paketi kaldırılmıştır.",
-  "emailTest.placeholderComing": "Gönderim testleri ve önizlemeler daha sonraki bir aşamada eklenecek. O zamana kadar, posta gönderimi dahili API üzerinden yapılır:",
-  "emailTest.placeholderSendHint": "Gönderim sözleşmesi",
-
   "logs.deleteTitle": "E-posta silinsin mi?",
   "logs.deleteMessage": "Bu, e-posta günlüğü kaydını kalıcı olarak siler. Bu işlem geri alınamaz.",
   "logs.deleteSuccess": "E-posta silindi",
@@ -343,7 +333,6 @@
   "senderDomains.issuers": "Hizmet belirteci yayıncıları",
   "senderDomains.issuersHint": "Bir tenant'ın hizmetleri bu alan adından yalnızca burada listelenen bir yayıncının belirteciyle gönderir, örneğin https://<tenant zone>/auth. Birden fazlasını virgülle ayırın; boş bir liste alan adını belirteçlere kapatır.",
   "senderDomains.saveIssuers": "Yayıncıları kaydet",
-  "senderDomains.issuersSaved": "Yayıncılar kaydedildi",
+  "senderDomains.issuersSaved": "Yayıncılar kaydedildi"
 
-  "subject.test_email": "Digita Post test e-postası"
 }
