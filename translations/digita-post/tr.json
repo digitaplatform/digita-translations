@@ -325,6 +325,7 @@
   "senderDomains.dkimRecord": "DKIM (TXT kaydı)",
   "senderDomains.spfRecord": "SPF",
   "senderDomains.spfHint": "Bu mekanizmayı alan adının SPF kaydına ekle veya v=spf1'i bununla ve ~all ile birlikte yayınla.",
+  "senderDomains.spfAtCname": "Burada SPF kaydı olamaz: {domain}, {target} adresine bir CNAME'dir ve bir CNAME başka kayıt taşıyamaz. Gerek de yoktur: Bu alan adının DKIM kaydı yayına girdiğinde DMARC onun imzasıyla geçer.",
   "senderDomains.dmarcRecord": "DMARC (TXT kaydı)",
   "senderDomains.copy": "Kopyala",
   "senderDomains.live": "çözümleniyor",

@@ -325,6 +325,7 @@
   "senderDomains.dkimRecord": "DKIM (record TXT)",
   "senderDomains.spfRecord": "SPF",
   "senderDomains.spfHint": "Aggiungi questo meccanismo al record SPF del dominio, oppure pubblica v=spf1 con esso e ~all.",
+  "senderDomains.spfAtCname": "Qui non può esserci un record SPF: {domain} è un CNAME verso {target}, e un CNAME non ammette altri record. Non serve: appena il record DKIM di questo dominio è attivo, DMARC è superato grazie alla sua firma.",
   "senderDomains.dmarcRecord": "DMARC (record TXT)",
   "senderDomains.copy": "Copia",
   "senderDomains.live": "risolve",
