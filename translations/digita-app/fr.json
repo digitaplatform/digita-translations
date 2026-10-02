@@ -369,5 +369,10 @@
   "ui.usermenu.empty": "Aucune navigation attribuée.",
   "ui.usermenu.loadFailed": "La navigation n'a pas pu être chargée.",
   "ui.usermenu.loading": "Chargement de la navigation",
-  "ui.usermenu.label": "Navigation principale"
+  "ui.usermenu.label": "Navigation principale",
+  "ui.setup.title": "Terminer la configuration",
+  "ui.setup.intro": "Cette application a besoin de ces informations avant que quiconque puisse créer un enregistrement.",
+  "ui.setup.notice": "Cette application n'est pas encore configurée. Aucun nouvel enregistrement ne peut être créé tant que la configuration n'est pas terminée.",
+  "ui.setup.askAdministrator": "Demandez à un administrateur de terminer la configuration.",
+  "ui.setup.recordMissing": "L'enregistrement de paramètres {entity} n'existe pas, car les données de référence de l'application n'ont pas été chargées. La personne qui exploite cette installation doit les charger."
 }
