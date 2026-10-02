@@ -23,6 +23,7 @@
   "field_invalid_datetime": "{field} geçerli bir tarih/saat değil",
   "field_invalid_time": "{field} geçerli bir saat değil (HH:mm)",
   "field_invalid_duration": "{field} geçerli bir süre değil (tam saniye)",
+  "field_invalid_int": "{field} bir tam sayı olmalıdır",
   "field_invalid_json": "{field} geçerli bir JSON değil",
   "role_name_immutable": "Role.name değiştirilemez. Görüntülenen ad için 'label' alanını düzenleyin.",
   "field_invalid_color": "{field} geçerli bir renk değil (#RRGGBB formatında)",

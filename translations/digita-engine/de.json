@@ -23,6 +23,7 @@
   "field_invalid_datetime": "{field} ist kein gültiger Zeitstempel",
   "field_invalid_time": "{field} ist keine gültige Uhrzeit (HH:mm)",
   "field_invalid_duration": "{field} ist keine gültige Dauer (ganze Sekunden)",
+  "field_invalid_int": "{field} muss eine ganze Zahl sein",
   "field_invalid_json": "{field} ist kein gültiges JSON",
   "role_name_immutable": "Role.name ist unveränderlich. Bearbeite 'label', um den Anzeigenamen zu ändern.",
   "field_invalid_color": "{field} ist keine gültige Farbe (Format: #RRGGBB)",

@@ -23,6 +23,7 @@
   "field_invalid_datetime": "{field} is not a valid datetime",
   "field_invalid_time": "{field} is not a valid time (HH:mm)",
   "field_invalid_duration": "{field} is not a valid duration (whole seconds)",
+  "field_invalid_int": "{field} must be a whole number",
   "field_invalid_json": "{field} is not valid JSON",
   "role_name_immutable": "Role.name is immutable. Edit 'label' to rename the role for display.",
   "field_invalid_color": "{field} is not a valid color (use #RRGGBB)",
