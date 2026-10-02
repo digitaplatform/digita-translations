@@ -562,8 +562,6 @@
   "designer.live.warning.orphanBand": "La banda {bandType} \"{bandId}\" non ha una sezione corrispondente — non mostrata.",
   "designer.live.warning.groupBandNoLevel": "La banda {bandType} \"{bandId}\" appartiene al livello di gruppo {level}, ma la sezione \"{section}\" ha solo {groups} livello/i di gruppo — non mostrata.",
   "designer.live.warning.matrixNoCollection": "La matrice \"{objectId}\" non ha una raccolta — impostala nelle proprietà.",
-  "designer.live.warning.matrixCut": "La matrice \"{objectId}\" non entra nel suo riquadro: {columns} colonna/e e {rows} riga/e sono tagliate e non vengono stampate.",
-  "designer.live.warning.pageBandNoRow": "La banda \"{bandId}\" è un'intestazione o un piè di pagina, che non ha una riga: le sue espressioni row e doc restano vuote. Per stampare una riga a piè di pagina, usa un riepilogo del report con at_page_foot.",
   "designer.live.warning.gaugeNotNumeric": "Indicatore \"{objectId}\" nella banda \"{bandId}\": il valore non è un numero.",
   "designer.live.warning.bandTooLarge": "La banda \"{bandId}\" ({heightMm}mm) è più alta della pagina — stampata in overflow.",
   "designer.live.warning.nestedBandInvalidBinding": "Banda annidata \"{bandId}\": un collegamento a raccolta funziona solo su una banda dati di primo livello — non mostrata.",

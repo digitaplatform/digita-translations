@@ -562,8 +562,6 @@
   "designer.live.warning.orphanBand": "{bandType} bandı \"{bandId}\" eşleşen bir bölüme sahip değil — gösterilmiyor.",
   "designer.live.warning.groupBandNoLevel": "{bandType} bandı \"{bandId}\" {level}. grup düzeyine ait, ancak \"{section}\" bölümünde yalnızca {groups} grup düzeyi var — gösterilmiyor.",
   "designer.live.warning.matrixNoCollection": "\"{objectId}\" matrisinin koleksiyonu yok — özelliklerinde belirle.",
-  "designer.live.warning.matrixCut": "\"{objectId}\" matrisi kutusuna sığmıyor: {columns} sütun ve {rows} satır kesiliyor ve yazdırılmıyor.",
-  "designer.live.warning.pageBandNoRow": "\"{bandId}\" bandı bir sayfa üst bilgisi veya alt bilgisidir ve satırı yoktur: row ve doc ifadeleri boş kalır. Sayfa altına bir satır yazdırmak için at_page_foot ile bir rapor özeti kullanın.",
   "designer.live.warning.gaugeNotNumeric": "\"{bandId}\" bandındaki \"{objectId}\" göstergesi: değer sayı değil.",
   "designer.live.warning.bandTooLarge": "\"{bandId}\" bandı ({heightMm}mm) sayfadan daha yüksek — taşarak yazdırıldı.",
   "designer.live.warning.nestedBandInvalidBinding": "İç içe bant \"{bandId}\": bir koleksiyon bağlaması yalnızca üst düzey bir veri bandında çalışır — gösterilmiyor.",

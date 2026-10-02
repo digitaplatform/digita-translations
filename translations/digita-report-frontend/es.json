@@ -562,8 +562,6 @@
   "designer.live.warning.orphanBand": "La banda {bandType} \"{bandId}\" no tiene una sección correspondiente — no se muestra.",
   "designer.live.warning.groupBandNoLevel": "La banda {bandType} \"{bandId}\" pertenece al nivel de grupo {level}, pero la sección \"{section}\" solo tiene {groups} nivel(es) de grupo — no se muestra.",
   "designer.live.warning.matrixNoCollection": "La matriz \"{objectId}\" no tiene colección — defínela en sus propiedades.",
-  "designer.live.warning.matrixCut": "La matriz \"{objectId}\" no cabe en su recuadro: {columns} columna(s) y {rows} fila(s) se cortan y no se imprimen.",
-  "designer.live.warning.pageBandNoRow": "La banda \"{bandId}\" es un encabezado o pie de página, que no tiene fila: sus expresiones row y doc quedan vacías. Para imprimir una fila al pie de página, usa un resumen del informe con at_page_foot.",
   "designer.live.warning.gaugeNotNumeric": "Medidor \"{objectId}\" en la banda \"{bandId}\": el valor no es un número.",
   "designer.live.warning.bandTooLarge": "La banda \"{bandId}\" ({heightMm}mm) es más alta que la página — se imprimió desbordada.",
   "designer.live.warning.nestedBandInvalidBinding": "Banda anidada \"{bandId}\": un enlace de colección solo funciona en una banda de datos de nivel superior — no se muestra.",

@@ -562,8 +562,6 @@
   "designer.live.warning.orphanBand": "{bandType} band \"{bandId}\" has no matching section — not shown.",
   "designer.live.warning.groupBandNoLevel": "{bandType} band \"{bandId}\" is for group level {level}, but section \"{section}\" has only {groups} group level(s) — not shown.",
   "designer.live.warning.matrixNoCollection": "Matrix \"{objectId}\" has no collection — set one in its properties.",
-  "designer.live.warning.matrixCut": "Matrix \"{objectId}\" does not fit its box: {columns} column(s) and {rows} row(s) are cut off and not printed.",
-  "designer.live.warning.pageBandNoRow": "Band \"{bandId}\" is a page header or page footer, which has no row: its row and doc expressions print empty. To print a row at the page foot, use a report summary with at_page_foot.",
   "designer.live.warning.gaugeNotNumeric": "Gauge \"{objectId}\" in band \"{bandId}\": the value is not a number.",
   "designer.live.warning.bandTooLarge": "Band \"{bandId}\" ({heightMm}mm) is taller than the page — printed oversized.",
   "designer.live.warning.nestedBandInvalidBinding": "Nested band \"{bandId}\": a collection binding only works on a top-level data band — not shown.",

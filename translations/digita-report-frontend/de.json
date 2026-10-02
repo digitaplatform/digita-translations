@@ -562,8 +562,6 @@
   "designer.live.warning.orphanBand": "{bandType}-Band \"{bandId}\" hat keinen passenden Abschnitt — nicht angezeigt.",
   "designer.live.warning.groupBandNoLevel": "{bandType}-Band \"{bandId}\" gehört zur Gruppenebene {level}, aber Abschnitt \"{section}\" hat nur {groups} Gruppenebene(n) — nicht angezeigt.",
   "designer.live.warning.matrixNoCollection": "Matrix \"{objectId}\" hat keine Sammlung — in den Eigenschaften festlegen.",
-  "designer.live.warning.matrixCut": "Matrix \"{objectId}\" passt nicht in ihren Rahmen: {columns} Spalte(n) und {rows} Zeile(n) werden abgeschnitten und nicht gedruckt.",
-  "designer.live.warning.pageBandNoRow": "Band \"{bandId}\" ist ein Seitenkopf oder Seitenfuß und hat keine Zeile: seine Ausdrücke mit row und doc bleiben leer. Für eine Zeile am Seitenfuß eine Berichtszusammenfassung mit at_page_foot verwenden.",
   "designer.live.warning.gaugeNotNumeric": "Messanzeige \"{objectId}\" in Band \"{bandId}\": der Wert ist keine Zahl.",
   "designer.live.warning.bandTooLarge": "Band \"{bandId}\" ({heightMm}mm) ist höher als die Seite — überlaufend gedruckt.",
   "designer.live.warning.nestedBandInvalidBinding": "Verschachteltes Band \"{bandId}\": eine Sammlungsbindung funktioniert nur auf einem obersten Datenband — nicht angezeigt.",
