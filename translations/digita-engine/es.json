@@ -444,5 +444,9 @@
   "demo_data_loaded": "Los datos de demostración ya están cargados.",
   "demo_data_not_loaded": "Los datos de demostración no están cargados.",
   "demo_data_records_exist": "Los datos de demostración solo se pueden cargar en una aplicación en la que nadie haya creado un registro. Esta aplicación contiene {count} registros de ese tipo.",
-  "demo_data_app_id": "Escriba el identificador de la aplicación, {app_id}, para confirmar."
+  "demo_data_app_id": "Escriba el identificador de la aplicación, {app_id}, para confirmar.",
+  "tree_cycle": "{doctype} {name} no puede ir debajo de {parent}, que está en su propio subárbol.",
+  "tree_partition": "{doctype} {name} y su nodo padre {parent} pertenecen a árboles distintos: su {field} es diferente.",
+  "tree_partition_root": "El campo {field} de {doctype} {name} solo puede cambiar en un nodo raíz sin hijos.",
+  "tree_too_deep": "{doctype} {name} pondría un nodo en el nivel {depth}, más profundo que los {max} niveles que permite este árbol."
 }

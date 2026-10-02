@@ -444,5 +444,9 @@
   "demo_data_loaded": "Les données de démonstration sont déjà chargées.",
   "demo_data_not_loaded": "Les données de démonstration ne sont pas chargées.",
   "demo_data_records_exist": "Les données de démonstration ne peuvent être chargées que dans une application où personne n'a créé d'enregistrement. Cette application contient {count} enregistrements de ce type.",
-  "demo_data_app_id": "Saisissez l'identifiant de l'application, {app_id}, pour confirmer."
+  "demo_data_app_id": "Saisissez l'identifiant de l'application, {app_id}, pour confirmer.",
+  "tree_cycle": "{doctype} {name} ne peut pas se placer sous {parent}, qui se trouve dans son propre sous-arbre.",
+  "tree_partition": "{doctype} {name} et son parent {parent} appartiennent à des arbres différents : leur {field} diffère.",
+  "tree_partition_root": "Le champ {field} de {doctype} {name} ne peut changer que sur un nœud racine sans enfants.",
+  "tree_too_deep": "{doctype} {name} placerait un nœud au niveau {depth}, plus profond que les {max} niveaux que cet arbre autorise."
 }

@@ -444,5 +444,9 @@
   "demo_data_loaded": "Die Demodaten sind bereits geladen.",
   "demo_data_not_loaded": "Die Demodaten sind nicht geladen.",
   "demo_data_records_exist": "Demodaten lassen sich nur in eine App laden, in der niemand einen Datensatz angelegt hat. Diese App enthält {count} solche Datensätze.",
-  "demo_data_app_id": "Geben Sie zur Bestätigung die Kennung der App ein: {app_id}."
+  "demo_data_app_id": "Geben Sie zur Bestätigung die Kennung der App ein: {app_id}.",
+  "tree_cycle": "{doctype} {name} kann nicht unter {parent} stehen, das in seinem eigenen Teilbaum liegt.",
+  "tree_partition": "{doctype} {name} und sein übergeordneter Knoten {parent} gehören zu verschiedenen Bäumen: ihr {field} unterscheidet sich.",
+  "tree_partition_root": "{field} von {doctype} {name} lässt sich nur an einem Wurzelknoten ohne Unterknoten ändern.",
+  "tree_too_deep": "{doctype} {name} würde einen Knoten auf Ebene {depth} setzen, tiefer als die {max} Ebenen, die dieser Baum erlaubt."
 }

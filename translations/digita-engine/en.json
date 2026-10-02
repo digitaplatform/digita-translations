@@ -444,5 +444,9 @@
   "demo_data_loaded": "The demo data is loaded already.",
   "demo_data_not_loaded": "The demo data is not loaded.",
   "demo_data_records_exist": "Demo data can be loaded only into an app where nobody has created a record. This app holds {count} such records.",
-  "demo_data_app_id": "Type the app's id, {app_id}, to confirm."
+  "demo_data_app_id": "Type the app's id, {app_id}, to confirm.",
+  "tree_cycle": "{doctype} {name} cannot go under {parent}, which lies in its own subtree.",
+  "tree_partition": "{doctype} {name} and its parent {parent} belong to different trees: their {field} differs.",
+  "tree_partition_root": "The {field} of {doctype} {name} can change only on a root node without children.",
+  "tree_too_deep": "{doctype} {name} would put a node at level {depth}, deeper than the {max} levels this tree allows."
 }

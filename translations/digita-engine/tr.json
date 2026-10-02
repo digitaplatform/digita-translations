@@ -444,5 +444,9 @@
   "demo_data_loaded": "Demo veriler zaten yüklü.",
   "demo_data_not_loaded": "Demo veriler yüklü değil.",
   "demo_data_records_exist": "Demo veriler yalnızca kimsenin kayıt oluşturmadığı bir uygulamaya yüklenebilir. Bu uygulamada bu türden {count} kayıt var.",
-  "demo_data_app_id": "Onaylamak için uygulamanın kimliğini yazın: {app_id}."
+  "demo_data_app_id": "Onaylamak için uygulamanın kimliğini yazın: {app_id}.",
+  "tree_cycle": "{doctype} {name}, kendi alt ağacında bulunan {parent} altına yerleştirilemez.",
+  "tree_partition": "{doctype} {name} ile üst düğümü {parent} farklı ağaçlara ait: {field} değerleri farklı.",
+  "tree_partition_root": "{doctype} {name} için {field} yalnızca alt düğümü olmayan bir kök düğümde değiştirilebilir.",
+  "tree_too_deep": "{doctype} {name}, bir düğümü {depth}. düzeye koyar; bu ağacın izin verdiği {max} düzeyden daha derin."
 }
