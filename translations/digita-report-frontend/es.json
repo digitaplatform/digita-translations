@@ -25,13 +25,6 @@
   "session.redirecting": "Redirigiendo al inicio de sesión…",
 
   "theme.moreActions": "Más acciones",
-  "theme.mode.toLight": "Cambiar al modo claro",
-  "theme.mode.toDark": "Cambiar al modo oscuro",
-  "theme.design.label": "Diseño",
-  "theme.density.label": "Densidad",
-  "theme.density.comfortable": "Cómoda",
-  "theme.density.compact": "Compacta",
-  "theme.density.spacious": "Amplia",
 
   "list.appName": "Digita Informes",
   "list.signOut": "Cerrar sesión",
