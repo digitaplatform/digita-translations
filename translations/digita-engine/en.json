@@ -434,5 +434,6 @@
   "description.Workspace.roles": "string[] role names that may SEE this workspace. Empty/absent = all authenticated users.",
   "entity_definition_restored": "The stored definition of {name} is deleted; {name} now follows the app bundle. Nothing is deleted from the data.",
   "entity_defined_by_bundle": "{name} has no stored definition to delete; the app bundle defines it. Change the bundle instead.",
-  "setup_incomplete": "This app is not set up yet. No new record can be created until its setup is complete."
+  "setup_incomplete": "This app is not set up yet. No new record can be created until its setup is complete.",
+  "reseed_write_refused": "{doctype} cannot be saved while a reset in mode {running} runs. Save again once it has ended."
 }

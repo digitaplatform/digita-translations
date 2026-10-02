@@ -434,5 +434,6 @@
   "description.Workspace.roles": "string[] Rollennamen, die diesen Arbeitsbereich SEHEN dürfen. Leer/nicht vorhanden = alle authentifizierten Benutzer.",
   "entity_definition_restored": "Die gespeicherte Definition von {name} ist gelöscht; {name} folgt jetzt dem App-Bundle. Aus den Daten wird nichts gelöscht.",
   "entity_defined_by_bundle": "{name} hat keine gespeicherte Definition, die gelöscht werden kann; das App-Bundle definiert die Entität. Ändern Sie stattdessen das Bundle.",
-  "setup_incomplete": "Diese App ist noch nicht eingerichtet. Neue Datensätze können erst angelegt werden, wenn die Einrichtung abgeschlossen ist."
+  "setup_incomplete": "Diese App ist noch nicht eingerichtet. Neue Datensätze können erst angelegt werden, wenn die Einrichtung abgeschlossen ist.",
+  "reseed_write_refused": "{doctype} kann nicht gespeichert werden, solange ein Zurücksetzen im Modus {running} läuft. Speichern Sie erneut, sobald es beendet ist."
 }

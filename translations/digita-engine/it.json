@@ -434,5 +434,6 @@
   "description.Workspace.roles": "string[] nomi dei ruoli che possono VEDERE questa area di lavoro. Vuoto/assente = tutti gli utenti autenticati.",
   "entity_definition_restored": "La definizione salvata di {name} è eliminata; {name} segue ora il pacchetto dell'app. Nulla viene eliminato dai dati.",
   "entity_defined_by_bundle": "{name} non ha una definizione salvata da eliminare; la definisce il pacchetto dell'app. Modifichi invece il pacchetto.",
-  "setup_incomplete": "Questa app non è ancora configurata. Non è possibile creare nuovi record finché la configurazione non è completata."
+  "setup_incomplete": "Questa app non è ancora configurata. Non è possibile creare nuovi record finché la configurazione non è completata.",
+  "reseed_write_refused": "{doctype} non può essere salvato mentre è in corso un ripristino in modalità {running}. Salvi di nuovo quando è terminato."
 }
