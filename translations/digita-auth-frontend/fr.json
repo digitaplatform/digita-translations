@@ -20,9 +20,6 @@
   "nav.language": "Langue",
   "nav.logout": "Se déconnecter",
   "nav.logoutFailed": "La déconnexion a échoué. Vous êtes toujours connecté. Veuillez réessayer.",
-  "nav.mode.light": "Passer au mode clair",
-  "nav.mode.dark": "Passer au mode sombre",
-  "nav.mode.system": "Passer au mode système",
 
   "users.title": "Utilisateurs",
   "users.searchPlaceholder": "Rechercher par e-mail ou nom...",
@@ -169,8 +166,6 @@
   "notAuthorized.title": "Non autorisé",
   "notAuthorized.message": "L'administration des identités nécessite le rôle Administrator. Votre compte est connecté mais ne dispose pas de ce rôle — demandez à un administrateur de vous l'attribuer, ou connectez-vous avec un autre compte.",
 
-  "login.title": "Digita Auth Admin",
-  "login.subtitle": "Connectez-vous pour administrer les identités de la suite",
   "login.emailLabel": "E-mail",
   "login.emailPlaceholder": "admin@digita.local",
   "login.passwordLabel": "Mot de passe",
@@ -181,7 +176,6 @@
   "login.signInTitle": "Se connecter",
   "login.signInTitleForApp": "Se connecter à {app}",
   "login.signingIn": "Connexion...",
-  "login.footer": "Digita Auth — Administration des identités",
   "login.emailRequired": "Veuillez saisir votre e-mail.",
   "login.passwordRequired": "Veuillez saisir votre mot de passe.",
 

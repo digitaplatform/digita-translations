@@ -20,9 +20,6 @@
   "nav.language": "Sprache",
   "nav.logout": "Abmelden",
   "nav.logoutFailed": "Abmelden fehlgeschlagen. Sie sind weiterhin angemeldet. Bitte versuchen Sie es erneut.",
-  "nav.mode.light": "Zum hellen Modus wechseln",
-  "nav.mode.dark": "Zum dunklen Modus wechseln",
-  "nav.mode.system": "Zum Systemmodus wechseln",
 
   "users.title": "Benutzer",
   "users.searchPlaceholder": "Nach E-Mail oder Name suchen...",
@@ -169,8 +166,6 @@
   "notAuthorized.title": "Keine Berechtigung",
   "notAuthorized.message": "Die Identitätsverwaltung erfordert die Administrator-Rolle. Dein Konto ist angemeldet, besitzt diese Rolle aber nicht — bitte einen Administrator, dir die Rolle zu vergeben, oder melde dich mit einem anderen Konto an.",
 
-  "login.title": "Digita Auth Admin",
-  "login.subtitle": "Anmelden zur Verwaltung der Suite-Identitäten",
   "login.emailLabel": "E-Mail",
   "login.emailPlaceholder": "admin@digita.local",
   "login.passwordLabel": "Passwort",
@@ -181,7 +176,6 @@
   "login.signInTitle": "Anmelden",
   "login.signInTitleForApp": "Bei {app} anmelden",
   "login.signingIn": "Anmeldung...",
-  "login.footer": "Digita Auth — Identitätsverwaltung",
   "login.emailRequired": "Bitte E-Mail eingeben.",
   "login.passwordRequired": "Bitte Passwort eingeben.",
 

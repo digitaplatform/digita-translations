@@ -20,9 +20,6 @@
   "nav.language": "Language",
   "nav.logout": "Logout",
   "nav.logoutFailed": "Logout failed. You are still signed in. Please try again.",
-  "nav.mode.light": "Switch to light mode",
-  "nav.mode.dark": "Switch to dark mode",
-  "nav.mode.system": "Switch to system mode",
 
   "users.title": "Users",
   "users.searchPlaceholder": "Search by email or name...",
@@ -169,8 +166,6 @@
   "notAuthorized.title": "Not authorized",
   "notAuthorized.message": "Identity administration requires the Administrator role. Your account is signed in but does not have it — ask an administrator to grant the role, or sign in with a different account.",
 
-  "login.title": "Digita Auth Admin",
-  "login.subtitle": "Sign in to administer suite identities",
   "login.emailLabel": "Email",
   "login.emailPlaceholder": "admin@digita.local",
   "login.passwordLabel": "Password",
@@ -181,7 +176,6 @@
   "login.signInTitle": "Sign in",
   "login.signInTitleForApp": "Sign in to {app}",
   "login.signingIn": "Signing in...",
-  "login.footer": "Digita Auth — Identity Administration",
   "login.emailRequired": "Please enter your email.",
   "login.passwordRequired": "Please enter your password.",
 

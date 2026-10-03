@@ -20,9 +20,6 @@
   "nav.language": "Idioma",
   "nav.logout": "Cerrar sesión",
   "nav.logoutFailed": "No se pudo cerrar la sesión. Sigues conectado. Inténtalo de nuevo.",
-  "nav.mode.light": "Cambiar al modo claro",
-  "nav.mode.dark": "Cambiar al modo oscuro",
-  "nav.mode.system": "Cambiar al modo del sistema",
 
   "users.title": "Usuarios",
   "users.searchPlaceholder": "Buscar por correo o nombre...",
@@ -169,8 +166,6 @@
   "notAuthorized.title": "Sin autorización",
   "notAuthorized.message": "La administración de identidades requiere el rol Administrator. Tu cuenta ha iniciado sesión, pero no tiene ese rol — pide a un administrador que te lo asigne o inicia sesión con otra cuenta.",
 
-  "login.title": "Digita Auth Admin",
-  "login.subtitle": "Inicia sesión para administrar las identidades de la suite",
   "login.emailLabel": "Correo",
   "login.emailPlaceholder": "admin@digita.local",
   "login.passwordLabel": "Contraseña",
@@ -181,7 +176,6 @@
   "login.signInTitle": "Iniciar sesión",
   "login.signInTitleForApp": "Iniciar sesión en {app}",
   "login.signingIn": "Iniciando sesión...",
-  "login.footer": "Digita Auth — Administración de identidades",
   "login.emailRequired": "Introduce tu correo.",
   "login.passwordRequired": "Introduce tu contraseña.",
 

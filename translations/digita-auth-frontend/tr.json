@@ -20,9 +20,6 @@
   "nav.language": "Dil",
   "nav.logout": "Çıkış yap",
   "nav.logoutFailed": "Çıkış yapılamadı. Hâlâ oturumunuz açık. Lütfen tekrar deneyin.",
-  "nav.mode.light": "Açık moda geç",
-  "nav.mode.dark": "Koyu moda geç",
-  "nav.mode.system": "Sistem moduna geç",
 
   "users.title": "Kullanıcılar",
   "users.searchPlaceholder": "E-posta veya ada göre ara...",
@@ -169,8 +166,6 @@
   "notAuthorized.title": "Yetki yok",
   "notAuthorized.message": "Kimlik yönetimi Administrator rolünü gerektirir. Hesabınla giriş yaptın ama bu rol hesabında yok — bir yöneticiden bu rolü sana vermesini iste ya da başka bir hesapla giriş yap.",
 
-  "login.title": "Digita Auth Admin",
-  "login.subtitle": "Suite kimliklerini yönetmek için giriş yap",
   "login.emailLabel": "E-posta",
   "login.emailPlaceholder": "admin@digita.local",
   "login.passwordLabel": "Parola",
@@ -181,7 +176,6 @@
   "login.signInTitle": "Giriş yap",
   "login.signInTitleForApp": "{app} uygulamasına giriş yap",
   "login.signingIn": "Giriş yapılıyor...",
-  "login.footer": "Digita Auth — Kimlik Yönetimi",
   "login.emailRequired": "E-postanı gir.",
   "login.passwordRequired": "Parolanı gir.",
 
