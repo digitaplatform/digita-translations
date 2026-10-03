@@ -509,6 +509,7 @@
   "database_target_not_initialised": "The database {target} has not been set up yet.",
   "after_commit_without_transaction": "Work after a commit was registered outside a transaction.",
   "collection_not_time_series": "The collection {collection} exists but is not a time series; it must be created again.",
+  "ordinary_collection_required": "Collection {collection} must be an ordinary collection.",
   "password_keys_missing_for_field": "The setting {setting} is missing; {field} is a Password field and needs it.",
   "password_key_pair_malformed": "Entry {position} of PASSWORD_FIELD_KEYS is not an <id>=<base64 key> pair.",
   "password_key_listed_twice": "PASSWORD_FIELD_KEYS lists the key {key} twice.",

@@ -509,6 +509,7 @@
   "database_target_not_initialised": "La base de données {target} n'est pas encore configurée.",
   "after_commit_without_transaction": "Un travail après validation a été enregistré hors d'une transaction.",
   "collection_not_time_series": "La collection {collection} existe mais n'est pas une série temporelle ; elle doit être recréée.",
+  "ordinary_collection_required": "La collection {collection} doit être une collection standard.",
   "password_keys_missing_for_field": "Le paramètre {setting} est manquant ; {field} est un champ mot de passe et en a besoin.",
   "password_key_pair_malformed": "L'entrée {position} de PASSWORD_FIELD_KEYS n'est pas une paire <id>=<clé base64>.",
   "password_key_listed_twice": "PASSWORD_FIELD_KEYS liste la clé {key} deux fois.",

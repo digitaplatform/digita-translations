@@ -509,6 +509,7 @@
   "database_target_not_initialised": "{target} veritabanı henüz kurulmadı.",
   "after_commit_without_transaction": "Commit sonrası iş bir işlem dışında kaydedildi.",
   "collection_not_time_series": "{collection} koleksiyonu var ama zaman serisi değil; yeniden oluşturulmalı.",
+  "ordinary_collection_required": "{collection} koleksiyonu normal bir koleksiyon olmalıdır.",
   "password_keys_missing_for_field": "{setting} ayarı eksik; {field} bir parola alanı ve buna ihtiyaç duyuyor.",
   "password_key_pair_malformed": "PASSWORD_FIELD_KEYS içindeki {position}. giriş bir <id>=<base64 anahtar> çifti değil.",
   "password_key_listed_twice": "PASSWORD_FIELD_KEYS {key} anahtarını iki kez listeliyor.",
