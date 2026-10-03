@@ -5,6 +5,7 @@
   "doc_cancelled": "{doctype} {name} annulé",
   "doc_deleted": "{doctype} {name} supprimé",
   "doc_restored": "{doctype} {name} restauré",
+  "restore_name_taken": "{doctype} {name} ne peut pas être restauré : un enregistrement nommé {name} existe de nouveau. Renommez-le ou supprimez-le d'abord.",
   "doc_amended": "{doctype} {name} modifié à partir de {original}",
   "field_required": "{field} est obligatoire",
   "field_mandatory_depends_on": "{field} est obligatoire pour cette ligne",

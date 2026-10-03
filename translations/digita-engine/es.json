@@ -5,6 +5,7 @@
   "doc_cancelled": "{doctype} {name} cancelado",
   "doc_deleted": "{doctype} {name} eliminado",
   "doc_restored": "{doctype} {name} restaurado",
+  "restore_name_taken": "{doctype} {name} no se puede restaurar: vuelve a existir un registro llamado {name}. Cámbiale el nombre o elimínalo primero.",
   "doc_amended": "{doctype} {name} modificado a partir de {original}",
   "field_required": "{field} es obligatorio",
   "field_unique": "{field} debe ser único, '{value}' ya existe",

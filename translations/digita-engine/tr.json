@@ -5,6 +5,7 @@
   "doc_cancelled": "{doctype} {name} iptal edildi",
   "doc_deleted": "{doctype} {name} silindi",
   "doc_restored": "{doctype} {name} geri yüklendi",
+  "restore_name_taken": "{doctype} {name} geri yüklenemiyor: {name} adında bir kayıt yeniden mevcut. Önce adını değiştirin veya silin.",
   "doc_amended": "{doctype} {name} düzeltildi, orijinal: {original}",
   "field_required": "{field} zorunlu alandır",
   "field_mandatory_depends_on": "{field} bu satır için zorunludur",

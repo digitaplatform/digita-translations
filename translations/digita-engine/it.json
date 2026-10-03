@@ -5,6 +5,7 @@
   "doc_cancelled": "{doctype} {name} annullato",
   "doc_deleted": "{doctype} {name} eliminato",
   "doc_restored": "{doctype} {name} ripristinato",
+  "restore_name_taken": "{doctype} {name} non può essere ripristinato: esiste di nuovo un record chiamato {name}. Rinominalo o eliminalo prima.",
   "doc_amended": "{doctype} {name} modificato a partire da {original}",
   "field_required": "{field} è obbligatorio",
   "field_mandatory_depends_on": "{field} è obbligatorio per questa riga",

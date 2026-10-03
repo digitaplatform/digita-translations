@@ -5,6 +5,7 @@
   "doc_cancelled": "{doctype} {name} storniert",
   "doc_deleted": "{doctype} {name} gelöscht",
   "doc_restored": "{doctype} {name} wiederhergestellt",
+  "restore_name_taken": "{doctype} {name} kann nicht wiederhergestellt werden: Es gibt wieder einen Datensatz namens {name}. Benennen Sie ihn zuerst um oder löschen Sie ihn.",
   "doc_amended": "{doctype} {name} geändert von {original}",
   "field_required": "{field} ist ein Pflichtfeld",
   "field_mandatory_depends_on": "{field} ist für diese Zeile erforderlich",

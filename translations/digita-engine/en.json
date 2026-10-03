@@ -5,6 +5,7 @@
   "doc_cancelled": "{doctype} {name} cancelled",
   "doc_deleted": "{doctype} {name} deleted",
   "doc_restored": "{doctype} {name} restored",
+  "restore_name_taken": "{doctype} {name} cannot be restored: a record named {name} exists again. Rename or delete it first.",
   "doc_amended": "{doctype} {name} amended from {original}",
   "field_required": "{field} is required",
   "field_mandatory_depends_on": "{field} is required for this row",
