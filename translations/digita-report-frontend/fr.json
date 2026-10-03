@@ -715,5 +715,6 @@
   "designer.data.sample.capped": "limité",
   "designer.data.sample.needsParams.one": "Définissez des valeurs d'exemple pour le paramètre obligatoire {params} (Paramètres, à gauche) pour prévisualiser des lignes.",
   "designer.data.sample.needsParams.other": "Définissez des valeurs d'exemple pour les paramètres obligatoires {params} (Paramètres, à gauche) pour prévisualiser des lignes.",
-  "designer.data.sample.empty": "La requête n'a renvoyé aucune ligne — vérifiez la source, les filtres et les valeurs d'exemple des paramètres."
+  "designer.data.sample.empty": "La requête n'a renvoyé aucune ligne — vérifiez la source, les filtres et les valeurs d'exemple des paramètres.",
+  "designer.live.warning.imageUnavailable": "L’image {file} n’est pas disponible."
 }

@@ -715,5 +715,6 @@
   "designer.data.sample.capped": "begrenzt",
   "designer.data.sample.needsParams.one": "Setze Beispielwerte für den erforderlichen Parameter {params} (Parameter, links), um Zeilen in der Vorschau zu sehen.",
   "designer.data.sample.needsParams.other": "Setze Beispielwerte für die erforderlichen Parameter {params} (Parameter, links), um Zeilen in der Vorschau zu sehen.",
-  "designer.data.sample.empty": "Die Abfrage hat keine Zeilen geliefert — prüfe Quelle, Filter und Beispielwerte der Parameter."
+  "designer.data.sample.empty": "Die Abfrage hat keine Zeilen geliefert — prüfe Quelle, Filter und Beispielwerte der Parameter.",
+  "designer.live.warning.imageUnavailable": "Bild {file} ist nicht verfügbar."
 }

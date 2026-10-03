@@ -715,5 +715,6 @@
   "designer.data.sample.capped": "capped",
   "designer.data.sample.needsParams.one": "Set sample values for required parameter {params} (Parameters, left) to preview rows.",
   "designer.data.sample.needsParams.other": "Set sample values for required parameters {params} (Parameters, left) to preview rows.",
-  "designer.data.sample.empty": "The query returned no rows — check source, filters and parameter samples."
+  "designer.data.sample.empty": "The query returned no rows — check source, filters and parameter samples.",
+  "designer.live.warning.imageUnavailable": "Image {file} is unavailable."
 }
