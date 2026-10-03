@@ -186,7 +186,6 @@
   "activate.passwordHint": "Mindestens 8 Zeichen.",
   "activate.activate": "Konto aktivieren",
   "activate.activating": "Wird aktiviert...",
-  "activate.weakPassword": "Dieses Passwort ist nicht stark genug. Bitte wähle ein anderes.",
   "activate.invalidToken": "Diese Einladung ist ungültig oder abgelaufen.",
   "activate.genericError": "Konto konnte nicht aktiviert werden. Bitte erneut versuchen.",
   "activate.invalidTitle": "Einladung ungültig",

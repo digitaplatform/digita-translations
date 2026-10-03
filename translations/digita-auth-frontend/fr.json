@@ -186,7 +186,6 @@
   "activate.passwordHint": "Au moins 8 caractères.",
   "activate.activate": "Activer le compte",
   "activate.activating": "Activation...",
-  "activate.weakPassword": "Ce mot de passe n'est pas assez robuste. Veuillez en choisir un autre.",
   "activate.invalidToken": "Cette invitation n'est pas valide ou a expiré.",
   "activate.genericError": "Impossible d'activer le compte. Veuillez réessayer.",
   "activate.invalidTitle": "Invitation non valide",

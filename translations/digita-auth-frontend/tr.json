@@ -186,7 +186,6 @@
   "activate.passwordHint": "En az 8 karakter.",
   "activate.activate": "Hesabı etkinleştir",
   "activate.activating": "Etkinleştiriliyor...",
-  "activate.weakPassword": "Bu parola yeterince güçlü değil. Lütfen başka bir parola seç.",
   "activate.invalidToken": "Bu davet geçersiz veya süresi dolmuş.",
   "activate.genericError": "Hesap etkinleştirilemedi. Lütfen tekrar dene.",
   "activate.invalidTitle": "Davet geçersiz",
