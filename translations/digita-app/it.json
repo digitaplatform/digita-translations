@@ -159,7 +159,7 @@
   "ui.filter.matchMode": "Modalità corrispondenza",
   "ui.filter.all": "Tutti (AND)",
   "ui.filter.any": "Qualsiasi (OR)",
-  "ui.filter.or": "OR",
+  "ui.filter.or": "O",
   "ui.filter.noConditions": "Nessuna condizione",
   "ui.filter.addCondition": "Aggiungi condizione",
   "ui.filter.clearAll": "Cancella tutto",
