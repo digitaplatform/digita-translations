@@ -262,7 +262,6 @@
   "field.Setting.fallback_language": "Idioma alternativo",
   "field.Setting.is_first_run": "Configuración inicial pendiente",
   "field.Setting.max_login_attempts": "Intentos máximos de inicio de sesión",
-  "field.Setting.platform_name": "Nombre de la plataforma",
   "field.Setting.sb_general": "General",
   "field.Setting.sb_locale": "Idioma y configuración regional",
   "field.Setting.sb_setup": "Configuración",

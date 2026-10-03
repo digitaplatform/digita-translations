@@ -262,7 +262,6 @@
   "field.Setting.fallback_language": "Yedek Dil",
   "field.Setting.is_first_run": "İlk kurulum bekleniyor",
   "field.Setting.max_login_attempts": "Maksimum Giriş Denemesi",
-  "field.Setting.platform_name": "Platform Adı",
   "field.Setting.sb_general": "Genel",
   "field.Setting.sb_locale": "Dil ve Yerel Ayar",
   "field.Setting.sb_setup": "Kurulum",

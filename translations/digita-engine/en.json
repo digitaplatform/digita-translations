@@ -262,7 +262,6 @@
   "field.Setting.fallback_language": "Fallback Language",
   "field.Setting.is_first_run": "First-run setup pending",
   "field.Setting.max_login_attempts": "Max Login Attempts",
-  "field.Setting.platform_name": "Platform Name",
   "field.Setting.sb_general": "General",
   "field.Setting.sb_locale": "Language & Locale",
   "field.Setting.sb_setup": "Setup",

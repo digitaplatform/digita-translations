@@ -262,7 +262,6 @@
   "field.Setting.fallback_language": "Lingua di riserva",
   "field.Setting.is_first_run": "Configurazione iniziale in sospeso",
   "field.Setting.max_login_attempts": "Numero massimo di tentativi di accesso",
-  "field.Setting.platform_name": "Nome della piattaforma",
   "field.Setting.sb_general": "Generale",
   "field.Setting.sb_locale": "Lingua e impostazioni locali",
   "field.Setting.sb_setup": "Configurazione",

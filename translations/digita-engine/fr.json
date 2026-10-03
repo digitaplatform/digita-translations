@@ -262,7 +262,6 @@
   "field.Setting.fallback_language": "Langue de repli",
   "field.Setting.is_first_run": "Configuration initiale en attente",
   "field.Setting.max_login_attempts": "Tentatives de connexion maximales",
-  "field.Setting.platform_name": "Nom de la plateforme",
   "field.Setting.sb_general": "Général",
   "field.Setting.sb_locale": "Langue et paramètres régionaux",
   "field.Setting.sb_setup": "Configuration",

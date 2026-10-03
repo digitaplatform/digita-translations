@@ -262,7 +262,6 @@
   "field.Setting.fallback_language": "Ausweichsprache",
   "field.Setting.is_first_run": "Ersteinrichtung ausstehend",
   "field.Setting.max_login_attempts": "Max. Anmeldeversuche",
-  "field.Setting.platform_name": "Plattformname",
   "field.Setting.sb_general": "Allgemein",
   "field.Setting.sb_locale": "Sprache & Gebietsschema",
   "field.Setting.sb_setup": "Einrichtung",
