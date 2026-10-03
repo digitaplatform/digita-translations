@@ -4,7 +4,6 @@ name: CI
 
 on:
   push:
-    branches: [master]
   pull_request:
   workflow_dispatch:
 
@@ -20,3 +19,4 @@ jobs:
         with:
           node-version: 24
       - run: bash scripts/check.sh
+      - run: node --test scripts/check-translations.test.mjs
