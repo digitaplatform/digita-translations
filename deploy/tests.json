@@ -1,0 +1,23 @@
+{
+  "apiVersion": "hostyour.cloud/v1",
+  "kind": "TestRecipe",
+  "packageManager": "none",
+  "runtime": "node",
+  "fixtures": [],
+  "prepare": [],
+  "suites": [
+    {
+      "name": "translations",
+      "kind": "test",
+      "command": [
+        "node",
+        "--test",
+        "scripts/check-translations.test.mjs"
+      ],
+      "covers": [
+        "scripts/check-translations.test.mjs"
+      ]
+    }
+  ],
+  "dependencyRoots": []
+}
