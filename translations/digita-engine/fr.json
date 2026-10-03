@@ -528,5 +528,7 @@
   "delegation_user_token_missing": "Un service ne peut pas agir en votre nom sans votre connexion.",
   "delegation_mint_failed": "Le service de connexion a refusé qu'un service agisse en votre nom (statut {status}) : {error}",
   "token_type_wrong": "Le jeton est un jeton {got}, pas un jeton {expected}.",
-  "delegation_scope_malformed": "Le jeton de délégation n'indique aucune portée complète."
+  "delegation_scope_malformed": "Le jeton de délégation n'indique aucune portée complète.",
+  "storage_required": "Le stockage des fichiers n’est pas configuré.",
+  "purge_requires_own_transaction": "La suppression définitive nécessite sa propre transaction."
 }

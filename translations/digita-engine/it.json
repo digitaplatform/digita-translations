@@ -528,5 +528,7 @@
   "delegation_user_token_missing": "Un servizio non può agire per tuo conto senza il tuo accesso.",
   "delegation_mint_failed": "Il servizio di accesso ha rifiutato che un servizio agisca per tuo conto (stato {status}): {error}",
   "token_type_wrong": "Il token è un token {got}, non un token {expected}.",
-  "delegation_scope_malformed": "Il token di delega non indica un ambito completo."
+  "delegation_scope_malformed": "Il token di delega non indica un ambito completo.",
+  "storage_required": "L’archivio dei file non è configurato.",
+  "purge_requires_own_transaction": "L’eliminazione definitiva richiede una transazione propria."
 }

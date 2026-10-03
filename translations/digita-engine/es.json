@@ -528,5 +528,7 @@
   "delegation_user_token_missing": "Un servicio no puede actuar en su nombre sin que usted haya iniciado sesión.",
   "delegation_mint_failed": "El servicio de inicio de sesión rechazó que un servicio actúe en su nombre (estado {status}): {error}",
   "token_type_wrong": "El token es un token {got}, no un token {expected}.",
-  "delegation_scope_malformed": "El token de delegación no indica un ámbito completo."
+  "delegation_scope_malformed": "El token de delegación no indica un ámbito completo.",
+  "storage_required": "El almacenamiento de archivos no está configurado.",
+  "purge_requires_own_transaction": "La eliminación definitiva requiere su propia transacción."
 }
