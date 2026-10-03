@@ -250,7 +250,7 @@
   "field.Rule.overridden": "Sovrascritto",
   "field.Rule.priority": "Priorità",
   "field.Rule.sb_actions": "Azioni",
-  "field.Rule.sb_trigger": "Trigger",
+  "field.Rule.sb_trigger": "Attivazione",
   "field.Rule.target_entity": "Entità di destinazione",
   "field.Rule.target_name": "Nome di destinazione (expr)",
   "field.Rule.type": "Tipo",
