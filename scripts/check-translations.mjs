@@ -8,7 +8,7 @@ import { fileURLToPath } from 'node:url';
 const REFERENCE = 'en';
 // A folder is named after the build that reads it, as its repository's deploy/platform.yaml names it.
 const FOLDER_NAME = /^digita-[a-z0-9-]+$/;
-const LANGUAGE_FILE = /^([a-z]{2})\.json$/;
+const LANGUAGE_FILE = /^([a-z]{2}(?:-[A-Z]{2})?)\.json$/;
 // The placeholder syntax the translator in @digitaplatform/shared fills.
 const PLACEHOLDER = /\{(\w+)\}/g;
 // A frontend loads every language of its folder at start.

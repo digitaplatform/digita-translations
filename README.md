@@ -16,11 +16,13 @@ placeholders as `{name}`.
 - The folder is named after the build that reads it, as its repository's `deploy/platform.yaml` names
   the build: `digita-auth-frontend`, `digita-auth-backend`, `digita-post`, `digita-report-frontend`,
   `digita-engine`, `digita-app`, `digita-web`.
-- Every folder carries the same languages: en, de, es, fr, it and tr. `en` is the reference, and every
+- Every folder carries the same languages: en, de, es, es-MX, fr, it and tr. `en` is the reference, and every
   other language has exactly its keys.
 
 ## Who wrote the texts
 
+- es-MX started from the Spanish texts, with Mexican business wording drafted in October 2026
+  and independently reviewed. Existing es texts stay separate.
 - en and de come from the builds' earlier locale files, except en and de of `security.sensitiveHint` in
   digita-auth-frontend, rewritten in September 2026, and of `demo_session_forbidden` and
   `demo_login_unavailable` in digita-auth-backend, written in September 2026; no person has read them
@@ -120,8 +122,8 @@ The check proves the shape of the files (keys, languages, placeholders), never t
 - A new build: a folder with one file for every language.
 - A new language: add its file to every folder.
 
-`scripts/check.sh` (or `scripts/check.ps1`) runs `scripts/check-translations.mjs` and its tests; CI runs
-the same on every push. The check fails when:
+`scripts/check.sh` (or `scripts/check.ps1`) runs `scripts/check-translations.mjs` locally. CI also runs
+the checker regression suite on every push. The check fails when:
 - a folder lacks a language file;
 - a key is missing in or foreign to a language;
 - a message names other placeholders than its `en` message, or is empty;
