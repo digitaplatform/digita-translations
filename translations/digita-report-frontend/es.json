@@ -715,5 +715,6 @@
   "designer.data.sample.capped": "limitado",
   "designer.data.sample.needsParams.one": "Define valores de ejemplo para el parámetro obligatorio {params} (Parámetros, a la izquierda) para previsualizar filas.",
   "designer.data.sample.needsParams.other": "Define valores de ejemplo para los parámetros obligatorios {params} (Parámetros, a la izquierda) para previsualizar filas.",
-  "designer.data.sample.empty": "La consulta no devolvió filas — revisa el origen, los filtros y los valores de ejemplo de los parámetros."
+  "designer.data.sample.empty": "La consulta no devolvió filas — revisa el origen, los filtros y los valores de ejemplo de los parámetros.",
+  "designer.live.warning.imageUnavailable": "La imagen {file} no está disponible."
 }

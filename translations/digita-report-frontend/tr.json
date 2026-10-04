@@ -715,5 +715,6 @@
   "designer.data.sample.capped": "sınırlı",
   "designer.data.sample.needsParams.one": "Satırları önizlemek için zorunlu parametrenin örnek değerini gir: {params} (Parametreler, solda).",
   "designer.data.sample.needsParams.other": "Satırları önizlemek için zorunlu parametrelerin örnek değerlerini gir: {params} (Parametreler, solda).",
-  "designer.data.sample.empty": "Sorgu hiç satır döndürmedi — kaynağı, filtreleri ve parametre örneklerini kontrol et."
+  "designer.data.sample.empty": "Sorgu hiç satır döndürmedi — kaynağı, filtreleri ve parametre örneklerini kontrol et.",
+  "designer.live.warning.imageUnavailable": "{file} görseli kullanılamıyor."
 }

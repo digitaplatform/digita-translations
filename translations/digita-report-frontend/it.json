@@ -715,5 +715,6 @@
   "designer.data.sample.capped": "limitato",
   "designer.data.sample.needsParams.one": "Imposta i valori di esempio per il parametro obbligatorio {params} (Parametri, a sinistra) per vedere l'anteprima delle righe.",
   "designer.data.sample.needsParams.other": "Imposta i valori di esempio per i parametri obbligatori {params} (Parametri, a sinistra) per vedere l'anteprima delle righe.",
-  "designer.data.sample.empty": "La query non ha restituito righe — controlla l'origine, i filtri e i valori di esempio dei parametri."
+  "designer.data.sample.empty": "La query non ha restituito righe — controlla l'origine, i filtri e i valori di esempio dei parametri.",
+  "designer.live.warning.imageUnavailable": "L’immagine {file} non è disponibile."
 }

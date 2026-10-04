@@ -528,5 +528,7 @@
   "delegation_user_token_missing": "Bir hizmet oturum açmanız olmadan sizin adınıza işlem yapamaz.",
   "delegation_mint_failed": "Oturum açma hizmeti bir hizmetin sizin adınıza işlem yapmasını reddetti (durum {status}): {error}",
   "token_type_wrong": "Bu belirteç bir {expected} belirteci değil, bir {got} belirteci.",
-  "delegation_scope_malformed": "Yetki devri belirteci tam bir kapsam belirtmiyor."
+  "delegation_scope_malformed": "Yetki devri belirteci tam bir kapsam belirtmiyor.",
+  "storage_required": "Dosya depolama yapılandırılmamış.",
+  "purge_requires_own_transaction": "Kalıcı silme ayrı bir işlemde çalıştırılmalıdır."
 }
